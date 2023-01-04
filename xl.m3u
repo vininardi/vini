@@ -1,44 +1,1267 @@
-#EXTM3U
+#EXTM3U size="Medium"
+
+#EXTINF:-1 type="stream" tvg-id="A&E FULLHD" tvg-logo="http://4f.rs:80/images/73b53670df6d694aa4eda8b153b89cb7.png" group-title="CANAIS | FILMES E SERIES",A&E FULLHD
+http://4f.rs:80/57885776/76322283/208849
+
+#EXTINF:-1 type="stream" tvg-id="AMC FULLHD" tvg-logo="http://4f.rs:80/images/e0d8627398797128c82dec080cf53033.png" group-title="CANAIS | FILMES E SERIES",AMC FULLHD
+http://4f.rs:80/57885776/76322283/208852
 
 
-#EXTINF:-1 tvg-id="" tvg-name="### BRASIL ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" group-title="International Sport Channels",### BRASIL ###
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159596
-#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="International Sport Channels",BR: Band Sports
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159597
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="International Sport Channels",BR: ESPN 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="International Sport Channels",BR: ESPN 3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="International Sport Channels",BR: ESPN Extra HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159600
-#EXTINF:-1 tvg-id="" tvg-name="BR: Espn HD" tvg-logo="http://worldiptv.xyz/chlogos/ESPN.ar.png" group-title="International Sport Channels",BR: Espn HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159601
-#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports 2 HD" tvg-logo="https://www.kindpng.com/picc/m/748-7484701_fox-sports-2-logo-png-fox-sports-2.png" group-title="International Sport Channels",BR: Fox Sports 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159602
-#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/SporTV_2_logotipo.png" group-title="International Sport Channels",BR: Sportv 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
-#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv  3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="International Sport Channels",BR: Sportv  3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606
-#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SporTV_logo_2016.png/1024px-SporTV_logo_2016.png" group-title="International Sport Channels",BR: Sportv HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607
+#EXTINF:-1 type="stream" tvg-id="ANIMAL PLANET FULLHD" tvg-logo="http://4f.rs:80/images/2acac70152ed6ddcaf812299b79cb3ff.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FULLHD
+http://4f.rs:80/57885776/76322283/208855
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SporTV_logo_2016.png/1024px-SporTV_logo_2016.png" group-title="International Sport Channels",BR: Sportv D
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159594
+
+#EXTINF:-1 type="stream" tvg-id="ARTE 1 FULLHD" tvg-logo="http://4f.rs:80/images/0697159d8b4300efd144e280c5b4fa2b.png" group-title="CANAIS | VARIEDADES",ARTE 1 FULLHD
+http://4f.rs:80/57885776/76322283/208858
+
+
+#EXTINF:-1 type="stream" tvg-id="AXN FULLHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="CANAIS | FILMES E SERIES",AXN FULLHD
+http://4f.rs:80/57885776/76322283/208861
+
+
+#EXTINF:-1 type="stream" tvg-id="BABY TV" tvg-logo="http://4f.rs:80/images/6a4d750a62431845ef1d1635fc733456.png" group-title="CANAIS | PORTUGAL",BABY TV
+http://4f.rs:80/57885776/76322283/1521422
 
 
 
+#EXTINF:-1 type="stream" tvg-id="BAND NEWS FULLHD" tvg-logo="http://4f.rs:80/images/ab86d067b62d59373641e4a74983efcb.png" group-title="CANAIS | NOTICIAS",BAND NEWS FULLHD
+http://4f.rs:80/57885776/76322283/208866
 
+#EXTINF:-1 type="stream" tvg-id="BAND SP" tvg-logo="http://4f.rs:80/images/9a42e61f63de09233fa488de25f574bc.png" group-title="CANAIS | BAND - RECORD - SBT",BAND SP
+http://4f.rs:80/57885776/76322283/1490358
 
-
-
-
-
-
-
+#EXTINF:-1 type="stream" tvg-id="BAND SPORTS FULLHD" tvg-logo="http://4f.rs:80/images/35e0ff6dc3a0b794c7a9fc9c16863476.png" group-title="CANAIS | ESPORTES",BAND SPORTS FULLHD
+http://4f.rs:80/57885776/76322283/208870
 
 
 
 
+#EXTINF:-1 type="stream" tvg-id="BIS HD" tvg-logo="http://4f.rs:80/images/aab401c9dab3c0b97fc48e296a53f8d2.png" group-title="CANAIS | MÚSICA",BIS HD
+http://4f.rs:80/57885776/76322283/208874
 
+#EXTINF:-1 type="stream" tvg-id="BT SPORTS 1 HD" tvg-logo="http://4f.rs:80/images/6921c5a89e60d1404776d7eb904e4819.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",BT SPORTS 1 HD
+http://4f.rs:80/57885776/76322283/1519217
+#EXTINF:-1 type="stream" tvg-id="BT SPORTS 1 SD" tvg-logo="http://4f.rs:80/images/6921c5a89e60d1404776d7eb904e4819.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",BT SPORTS 1 SD
+http://4f.rs:80/57885776/76322283/1519218
+#EXTINF:-1 type="stream" tvg-id="BT SPORTS 2 HD" tvg-logo="http://4f.rs:80/images/1808061044cfa6f73d279e3bd4bd48ca.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",BT SPORTS 2 HD
+http://4f.rs:80/57885776/76322283/1519219
+#EXTINF:-1 type="stream" tvg-id="BT SPORTS 2 SD" tvg-logo="http://4f.rs:80/images/1808061044cfa6f73d279e3bd4bd48ca.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",BT SPORTS 2 SD
+http://4f.rs:80/57885776/76322283/1519220
+#EXTINF:-1 type="stream" tvg-id="BT SPORTS 3 SD" tvg-logo="http://4f.rs:80/images/b27eccf33533e2095a36ee8e1b19c3d9.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",BT SPORTS 3 SD
+http://4f.rs:80/57885776/76322283/1519221
+#EXTINF:-1 type="stream" tvg-id="CANAL SONY FULLHD H265" tvg-logo="http://4f.rs:80/images/a5372f4d6183c78bd42e4f6855ea96e8.png" group-title="CANAIS | FILMES E SERIES",CANAL SONY FULLHD H265
+http://4f.rs:80/57885776/76322283/1469323
+#EXTINF:-1 type="stream" tvg-id="CANÇÃO NOVA HD" tvg-logo="http://4f.rs:80/images/0d705162daf0e5e99cdf808435224628.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD
+http://4f.rs:80/57885776/76322283/212588
+#EXTINF:-1 type="stream" tvg-id="CARTOON NETWORK HD" tvg-logo="http://4f.rs:80/images/699ef3d69981bdc911b445c582401a70.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
+http://4f.rs:80/57885776/76322283/208889
+#EXTINF:-1 type="stream" tvg-id="CARTOONITO FULLHD" tvg-logo="http://iconape.com/wp-content/files/cu/193260/png/193260.png" group-title="CANAIS | INFANTIS",CARTOONITO FULLHD
+http://4f.rs:80/57885776/76322283/208876
+#EXTINF:-1 type="stream" tvg-id="CASA E COZINHA HD" tvg-logo="http://4f.rs:80/images/d032142df5b4b897e5e0625b9946957d.png" group-title="CANAIS | PORTUGAL",CASA E COZINHA HD
+http://4f.rs:80/57885776/76322283/1521394
+#EXTINF:-1 type="stream" tvg-id="CHEFE TV HD" tvg-logo="http://4f.rs:80/images/595c7a538333822708543b5bab2969ee.png" group-title="CANAIS | VARIEDADES",CHEFE TV HD
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 1" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 1
+http://4f.rs:80/57885776/76322283/1454448
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 10" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 10
+http://4f.rs:80/57885776/76322283/1454457
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 11" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 11
+http://4f.rs:80/57885776/76322283/1454458
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 12" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 12
+http://4f.rs:80/57885776/76322283/1454459
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 13" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 13
+http://4f.rs:80/57885776/76322283/1454460
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 14" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 14
+http://4f.rs:80/57885776/76322283/1454461
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 15" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 15
+http://4f.rs:80/57885776/76322283/1454462
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 2" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 2
+http://4f.rs:80/57885776/76322283/1454449
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 3" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 3
+http://4f.rs:80/57885776/76322283/1454450
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 4" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 4
+http://4f.rs:80/57885776/76322283/1454451
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 5" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 5
+http://4f.rs:80/57885776/76322283/1454452
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 6" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 6
+http://4f.rs:80/57885776/76322283/1454453
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 7" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 7
+http://4f.rs:80/57885776/76322283/1454454
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 8" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 8
+http://4f.rs:80/57885776/76322283/1454455
+#EXTINF:-1 type="stream" tvg-id="CINE SKY 9" tvg-logo="http://4f.rs:80/images/2ff6e2c6f6e090e2e714a1c6e219ab0e.png" group-title="CANAIS | FILMES ESPECIAIS",CINE SKY 9
+http://4f.rs:80/57885776/76322283/1454456
+#EXTINF:-1 type="stream" tvg-id="CINEMAX FULLHD" tvg-logo="http://4f.rs:80/images/71c02d4b2e5e22438fe3de26c7fe99e5.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FULLHD
+http://4f.rs:80/57885776/76322283/208891
+#EXTINF:-1 type="stream" tvg-id="CINEPIX" tvg-logo="http://4f.rs:80/images/6232097b6d5d34b93bd1fa3ba9359d62.png" group-title="CANAIS | FILMES ESPECIAIS",CINEPIX
+http://4f.rs:80/57885776/76322283/1490365
+#EXTINF:-1 type="stream" tvg-id="CNN BRASIL FULLHD" tvg-logo="http://4f.rs:80/images/3b657de5de1292f1171601d36a2f117d.png" group-title="CANAIS | NOTICIAS",CNN BRASIL FULLHD
+http://4f.rs:80/57885776/76322283/132151
+#EXTINF:-1 type="stream" tvg-id="CNN INTERNACIONAL" tvg-logo="http://4f.rs:80/images/ba4c58d92ce8efa27386919e5841b483.png" group-title="CANAIS | NOTICIAS",CNN INTERNACIONAL
+http://4f.rs:80/57885776/76322283/1454866
+#EXTINF:-1 type="stream" tvg-id="COMBATE 4K" tvg-logo="http://4f.rs:80/images/17a9308ba8f94e5a0c2d4d5496239d0e.png" group-title="CANAIS | 4K",COMBATE 4K
+http://4f.rs:80/57885776/76322283/1465365
+#EXTINF:-1 type="stream" tvg-id="COMBATE FULLHD" tvg-logo="http://4f.rs:80/images/b3311e735e09e7b41f3c03ad09d1ad7b.png" group-title="CANAIS | ESPORTES",COMBATE FULLHD
+http://4f.rs:80/57885776/76322283/208897
+#EXTINF:-1 type="stream" tvg-id="COMBRASIL" tvg-logo="http://4f.rs:80/images/e56e0eba523738784e93377736df47d0.png" group-title="CANAIS | ABERTOS",COMBRASIL
+http://4f.rs:80/57885776/76322283/1490364
+#EXTINF:-1 type="stream" tvg-id="COMEDY CENTRAL FULLHD" tvg-logo="http://4f.rs:80/images/450a66b10573e35c47e4049c324063dd.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FULLHD
+http://4f.rs:80/57885776/76322283/208900
+#EXTINF:-1 type="stream" tvg-id="CURTA! 4K" tvg-logo="http://4f.rs:80/images/21d56c82d9e0e310df571958105fce74.png" group-title="CANAIS | 4K",CURTA! 4K
+http://4f.rs:80/57885776/76322283/1464337
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY CHANNEL FULLHD" tvg-logo="http://4f.rs:80/images/62fc8a0d68196838f50458709fb839b0.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL FULLHD
+http://4f.rs:80/57885776/76322283/208909
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY H&H FULLHD H265" tvg-logo="http://4f.rs:80/images/26670917b557d7a95805ea55f5516d28.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY H&H FULLHD H265
+http://4f.rs:80/57885776/76322283/1469306
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY HD" tvg-logo="http://4f.rs:80/images/62fc8a0d68196838f50458709fb839b0.png" group-title="CANAIS | PORTUGAL",DISCOVERY HD
+http://4f.rs:80/57885776/76322283/1521397
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY HOME AND HEALTH FULLHD" tvg-logo="http://4f.rs:80/images/8763338d24800cf574099551f8452c7b.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME AND HEALTH FULLHD
+http://4f.rs:80/57885776/76322283/208912
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY KIDS FULLHD" tvg-logo="http://4f.rs:80/images/0e8bae4d4d467d93e591c5ab326118b9.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FULLHD
+http://4f.rs:80/57885776/76322283/208915
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY SCIENCE FULLHD" tvg-logo="http://4f.rs:80/images/a5e593256ec825906ea7521edd596343.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE FULLHD
+http://4f.rs:80/57885776/76322283/208918
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY SCIENCE FULLHD H265" tvg-logo="http://4f.rs:80/images/a5e593256ec825906ea7521edd596343.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE FULLHD H265
+http://4f.rs:80/57885776/76322283/1469309
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY SCIENCE HD" tvg-logo="http://4f.rs:80/images/a5e593256ec825906ea7521edd596343.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://4f.rs:80/57885776/76322283/208919
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY SCIENCE SD" tvg-logo="http://4f.rs:80/images/a5e593256ec825906ea7521edd596343.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE SD
+http://4f.rs:80/57885776/76322283/208920
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY THEATER FULLHD" tvg-logo="http://4f.rs:80/images/83651991d07188d7b37b39a052a71158.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATER FULLHD
+http://4f.rs:80/57885776/76322283/208921
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY THEATER FULLHD H265" tvg-logo="http://4f.rs:80/images/83651991d07188d7b37b39a052a71158.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATER FULLHD H265
+http://4f.rs:80/57885776/76322283/1469304
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY THEATER HD" tvg-logo="http://4f.rs:80/images/83651991d07188d7b37b39a052a71158.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATER HD
+http://4f.rs:80/57885776/76322283/208922
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY THEATER SD" tvg-logo="http://4f.rs:80/images/83651991d07188d7b37b39a052a71158.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATER SD
+http://4f.rs:80/57885776/76322283/208923
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY TLC FULLHD" tvg-logo="http://4f.rs:80/images/6a1babe4f8a692849f31ba74932646fe.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TLC FULLHD
+http://4f.rs:80/57885776/76322283/209152
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY TLC FULLHD H265" tvg-logo="http://4f.rs:80/images/6a1babe4f8a692849f31ba74932646fe.png" group-title="CANAIS | FILMES E SERIES",DISCOVERY TLC FULLHD H265
+http://4f.rs:80/57885776/76322283/1469339
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY TLC HD" tvg-logo="http://4f.rs:80/images/6a1babe4f8a692849f31ba74932646fe.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TLC HD
+http://4f.rs:80/57885776/76322283/209153
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY TURBO FULLHD" tvg-logo="http://4f.rs:80/images/bfae08e0c72227ef48c830b77f1f80a4.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO FULLHD
+http://4f.rs:80/57885776/76322283/208924
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY TURBO FULLHD H265" tvg-logo="http://4f.rs:80/images/bfae08e0c72227ef48c830b77f1f80a4.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO FULLHD H265
+http://4f.rs:80/57885776/76322283/1469307
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY TURBO HD" tvg-logo="http://4f.rs:80/images/bfae08e0c72227ef48c830b77f1f80a4.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO HD
+http://4f.rs:80/57885776/76322283/208925
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY TURBO SD" tvg-logo="http://4f.rs:80/images/bfae08e0c72227ef48c830b77f1f80a4.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO SD
+http://4f.rs:80/57885776/76322283/208926
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY WORLD FULLHD" tvg-logo="http://4f.rs:80/images/492529372c7e93459903e185ff13b192.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD FULLHD
+http://4f.rs:80/57885776/76322283/208927
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY WORLD FULLHD H265" tvg-logo="http://4f.rs:80/images/492529372c7e93459903e185ff13b192.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD FULLHD H265
+http://4f.rs:80/57885776/76322283/1469308
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY WORLD HD" tvg-logo="http://4f.rs:80/images/492529372c7e93459903e185ff13b192.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD HD
+http://4f.rs:80/57885776/76322283/208928
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY WORLD SD" tvg-logo="http://4f.rs:80/images/492529372c7e93459903e185ff13b192.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD SD
+http://4f.rs:80/57885776/76322283/208929
+#EXTINF:-1 type="stream" tvg-id="DISNEY CHANNEL" tvg-logo="http://4f.rs:80/images/14c8bc71359b119ea08ca7150e1fe661.png" group-title="CANAIS | PORTUGAL",DISNEY CHANNEL
+http://4f.rs:80/57885776/76322283/1521425
+#EXTINF:-1 type="stream" tvg-id="DISNEY CHANNEL FULLHD" tvg-logo="http://4f.rs:80/images/8f3ff7a8ea3c17fe9a259780c39ac0d9.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FULLHD
+http://4f.rs:80/57885776/76322283/208930
+#EXTINF:-1 type="stream" tvg-id="DISNEY CHANNEL FULLHD H265" tvg-logo="http://4f.rs:80/images/35ec7a907cabf8cf191c29b9ff08cf25.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FULLHD H265
+http://4f.rs:80/57885776/76322283/1469266
+#EXTINF:-1 type="stream" tvg-id="DISNEY CHANNEL HD" tvg-logo="http://4f.rs:80/images/8f3ff7a8ea3c17fe9a259780c39ac0d9.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD
+http://4f.rs:80/57885776/76322283/208931
+#EXTINF:-1 type="stream" tvg-id="DISNEY CHANNEL SD" tvg-logo="http://4f.rs:80/images/8f3ff7a8ea3c17fe9a259780c39ac0d9.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL SD
+http://4f.rs:80/57885776/76322283/208932
+#EXTINF:-1 type="stream" tvg-id="DISNEY JUNIOR" tvg-logo="http://4f.rs:80/images/2f3cdc3a536c1f28316cae5552ebcc5f.png" group-title="CANAIS | PORTUGAL",DISNEY JUNIOR
+http://4f.rs:80/57885776/76322283/1521426
+#EXTINF:-1 type="stream" tvg-id="DOG TV HD" tvg-logo="http://menafn.com/updates/pr/2022-06/27/EP_a6469image_story.png" group-title="CANAIS | VARIEDADES",DOG TV HD
+http://4f.rs:80/57885776/76322283/1165458
+#EXTINF:-1 type="stream" tvg-id="Dumont FM (Sao Paulo) 104.3 FM" tvg-logo="http://4f.rs:80/images/7b7895c2be72c8e7f74202c0c9f08019.png" group-title="CANAIS | RADIOS",Dumont FM (Sao Paulo) 104.3 FM
+http://4f.rs:80/57885776/76322283/345712
+#EXTINF:-1 type="stream" tvg-id="E! ENTERTAINMENT FULLHD" tvg-logo="http://4f.rs:80/images/2dcf8ea7f1d638441126ee8697507500.png" group-title="CANAIS | VARIEDADES",E! ENTERTAINMENT FULLHD
+http://4f.rs:80/57885776/76322283/208936
+#EXTINF:-1 type="stream" tvg-id="E! ENTERTAINMENT HD" tvg-logo="http://4f.rs:80/images/2dcf8ea7f1d638441126ee8697507500.png" group-title="CANAIS | VARIEDADES",E! ENTERTAINMENT HD
+http://4f.rs:80/57885776/76322283/208937
+#EXTINF:-1 type="stream" tvg-id="E! ENTERTAINMENT SD" tvg-logo="http://4f.rs:80/images/2dcf8ea7f1d638441126ee8697507500.png" group-title="CANAIS | VARIEDADES",E! ENTERTAINMENT SD
+http://4f.rs:80/57885776/76322283/208938
+#EXTINF:-1 type="stream" tvg-id="E! PORTUGAL" tvg-logo="http://4f.rs:80/images/2dcf8ea7f1d638441126ee8697507500.png" group-title="CANAIS | PORTUGAL",E! PORTUGAL
+http://4f.rs:80/57885776/76322283/1521377
+#EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 01 HD" tvg-logo="http://gift-card.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png" group-title="CANAIS | ESPORTES ESPECIAIS",ELEVEN SPORTS 01 HD
+http://4f.rs:80/57885776/76322283/678025
+#EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 03 HD" tvg-logo="http://gift-card.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png" group-title="CANAIS | ESPORTES ESPECIAIS",ELEVEN SPORTS 03 HD
+http://4f.rs:80/57885776/76322283/678023
+#EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 05 HD" tvg-logo="http://gift-card.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png" group-title="CANAIS | ESPORTES ESPECIAIS",ELEVEN SPORTS 05 HD
+http://4f.rs:80/57885776/76322283/678021
+#EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 06 HD" tvg-logo="http://gift-card.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png" group-title="CANAIS | ESPORTES ESPECIAIS",ELEVEN SPORTS 06 HD
+http://4f.rs:80/57885776/76322283/678020
+#EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 08 HD" tvg-logo="http://gift-card.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png" group-title="CANAIS | ESPORTES ESPECIAIS",ELEVEN SPORTS 08 HD
+http://4f.rs:80/57885776/76322283/678018
+#EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 09 HD" tvg-logo="http://gift-card.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png" group-title="CANAIS | ESPORTES ESPECIAIS",ELEVEN SPORTS 09 HD
+http://4f.rs:80/57885776/76322283/678017
+#EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 1 HD" tvg-logo="http://4f.rs:80/images/54849602ae6ecf50551bfe753b7fd078.png" group-title="CANAIS | PORTUGAL",ELEVEN SPORTS 1 HD
+http://4f.rs:80/57885776/76322283/1521409
+#EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 10 HD" tvg-logo="http://gift-card.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png" group-title="CANAIS | ESPORTES ESPECIAIS",ELEVEN SPORTS 10 HD
+http://4f.rs:80/57885776/76322283/678016
+#EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 2 HD" tvg-logo="http://4f.rs:80/images/54849602ae6ecf50551bfe753b7fd078.png" group-title="CANAIS | PORTUGAL",ELEVEN SPORTS 2 HD
+http://4f.rs:80/57885776/76322283/1521410
+#EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 6 HD" tvg-logo="http://4f.rs:80/images/54849602ae6ecf50551bfe753b7fd078.png" group-title="CANAIS | PORTUGAL",ELEVEN SPORTS 6 HD
+http://4f.rs:80/57885776/76322283/1521411
+#EXTINF:-1 type="stream" tvg-id="EQUIDIA LIVE FRANCE" tvg-logo="http://4f.rs:80/images/4f9b7bde94920d7d2e025617e61a4177.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EQUIDIA LIVE FRANCE
+http://4f.rs:80/57885776/76322283/1519249
+#EXTINF:-1 type="stream" tvg-id="ESPANHA GOL 1 HD" tvg-logo="http://4f.rs:80/images/abd14f9dce8608081a673bf42681ee89.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",ESPANHA GOL 1 HD
+http://4f.rs:80/57885776/76322283/1519265
+#EXTINF:-1 type="stream" tvg-id="ESPANHA GOL 2 HD" tvg-logo="http://4f.rs:80/images/abd14f9dce8608081a673bf42681ee89.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",ESPANHA GOL 2 HD
+http://4f.rs:80/57885776/76322283/1519266
+#EXTINF:-1 type="stream" tvg-id="ESPN 1 FULLHD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 1 FULLHD
+http://4f.rs:80/57885776/76322283/208942
+#EXTINF:-1 type="stream" tvg-id="ESPN 1 FULLHD H265" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 1 FULLHD H265
+http://4f.rs:80/57885776/76322283/1482623
+#EXTINF:-1 type="stream" tvg-id="ESPN 1 HD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 1 HD
+http://4f.rs:80/57885776/76322283/208943
+#EXTINF:-1 type="stream" tvg-id="ESPN 1 SD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 1 SD
+http://4f.rs:80/57885776/76322283/208944
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 FULLHD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 2 FULLHD
+http://4f.rs:80/57885776/76322283/208948
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 FULLHD H265" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 2 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469295
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 HD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
+http://4f.rs:80/57885776/76322283/208949
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 SD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 2 SD
+http://4f.rs:80/57885776/76322283/208950
+#EXTINF:-1 type="stream" tvg-id="ESPN 3 FULLHD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 3 FULLHD
+http://4f.rs:80/57885776/76322283/208939
+#EXTINF:-1 type="stream" tvg-id="ESPN 3 FULLHD H265" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 3 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469294
+#EXTINF:-1 type="stream" tvg-id="ESPN 3 HD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 3 HD
+http://4f.rs:80/57885776/76322283/208940
+#EXTINF:-1 type="stream" tvg-id="ESPN 3 SD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 3 SD
+http://4f.rs:80/57885776/76322283/208941
+#EXTINF:-1 type="stream" tvg-id="ESPN 4 FULLHD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 4 FULLHD
+http://4f.rs:80/57885776/76322283/208960
+#EXTINF:-1 type="stream" tvg-id="ESPN 4 FULLHD H265" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 4 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469292
+#EXTINF:-1 type="stream" tvg-id="ESPN 4 HD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 4 HD
+http://4f.rs:80/57885776/76322283/208961
+#EXTINF:-1 type="stream" tvg-id="ESPN 4 SD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 4 SD
+http://4f.rs:80/57885776/76322283/208962
+#EXTINF:-1 type="stream" tvg-id="ESPN 4K" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | 4K",ESPN 4K
+http://4f.rs:80/57885776/76322283/1465268
+#EXTINF:-1 type="stream" tvg-id="ESPN EXTRA FULLHD" tvg-logo="http://4f.rs:80/images/e59b26a45823ec56821577d7758d351d.PNG" group-title="CANAIS | ESPORTES",ESPN EXTRA FULLHD
+http://4f.rs:80/57885776/76322283/208945
+#EXTINF:-1 type="stream" tvg-id="ESPN EXTRA FULLHD H265" tvg-logo="http://4f.rs:80/images/7d80aa9937065ab32beae36177f9d8c7.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FULLHD H265
+http://4f.rs:80/57885776/76322283/1469281
+#EXTINF:-1 type="stream" tvg-id="ESPN EXTRA HD" tvg-logo="http://4f.rs:80/images/e59b26a45823ec56821577d7758d351d.PNG" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
+http://4f.rs:80/57885776/76322283/208946
+#EXTINF:-1 type="stream" tvg-id="ESPN EXTRA SD" tvg-logo="http://4f.rs:80/images/e59b26a45823ec56821577d7758d351d.PNG" group-title="CANAIS | ESPORTES",ESPN EXTRA SD
+http://4f.rs:80/57885776/76322283/208947
+#EXTINF:-1 type="stream" tvg-id="ESPN FULLHD H265" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN FULLHD H265
+http://4f.rs:80/57885776/76322283/1469293
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORT 01 HD PPV" tvg-logo="http://4f.rs/4xoffice/resize?maxw=96&maxh=32&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F33%2FTNTSportsLA.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORT 01 HD PPV
+http://4f.rs:80/57885776/76322283/1454436
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORT 02 HD PPV" tvg-logo="http://4f.rs/4xoffice/resize?maxw=96&maxh=32&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F33%2FTNTSportsLA.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORT 02 HD PPV
+http://4f.rs:80/57885776/76322283/1454437
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORT 03 HD PPV" tvg-logo="http://4f.rs/4xoffice/resize?maxw=96&maxh=32&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F33%2FTNTSportsLA.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORT 03 HD PPV
+http://4f.rs:80/57885776/76322283/1454438
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORT 04 HD PPV" tvg-logo="http://4f.rs/4xoffice/resize?maxw=96&maxh=32&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F33%2FTNTSportsLA.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORT 04 HD PPV
+http://4f.rs:80/57885776/76322283/1454439
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORT 05 HD PPV" tvg-logo="http://4f.rs/4xoffice/resize?maxw=96&maxh=32&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F33%2FTNTSportsLA.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORT 05 HD PPV
+http://4f.rs:80/57885776/76322283/1454440
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 01 HD" tvg-logo="http://4f.rs:80/images/2cfc5bd3ff9a46ab4c588a376a84968e.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 01 HD
+http://4f.rs:80/57885776/76322283/1455110
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 02 HD" tvg-logo="http://4f.rs:80/images/2cfc5bd3ff9a46ab4c588a376a84968e.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 02 HD
+http://4f.rs:80/57885776/76322283/1455111
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 03 HD" tvg-logo="http://4f.rs:80/images/2cfc5bd3ff9a46ab4c588a376a84968e.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 03 HD
+http://4f.rs:80/57885776/76322283/1455112
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 04 HD" tvg-logo="http://4f.rs:80/images/2cfc5bd3ff9a46ab4c588a376a84968e.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 04 HD
+http://4f.rs:80/57885776/76322283/1455113
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 05 HD" tvg-logo="http://4f.rs:80/images/2cfc5bd3ff9a46ab4c588a376a84968e.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 05 HD
+http://4f.rs:80/57885776/76322283/1455114
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 06 HD" tvg-logo="http://4f.rs:80/images/2cfc5bd3ff9a46ab4c588a376a84968e.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 06 HD
+http://4f.rs:80/57885776/76322283/1455115
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 07 HD" tvg-logo="http://4f.rs:80/images/2cfc5bd3ff9a46ab4c588a376a84968e.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 07 HD
+http://4f.rs:80/57885776/76322283/1455116
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 08 HD" tvg-logo="http://4f.rs:80/images/2cfc5bd3ff9a46ab4c588a376a84968e.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 08 HD
+http://4f.rs:80/57885776/76322283/1455117
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 09 HD" tvg-logo="http://4f.rs:80/images/2cfc5bd3ff9a46ab4c588a376a84968e.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 09 HD
+http://4f.rs:80/57885776/76322283/1455118
+#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 10 HD" tvg-logo="http://4f.rs:80/images/2cfc5bd3ff9a46ab4c588a376a84968e.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 10 HD
+http://4f.rs:80/57885776/76322283/1455119
+#EXTINF:-1 type="stream" tvg-id="EURO CHANNEL" tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="CANAIS | FILMES E SERIES",EURO CHANNEL
+http://4f.rs:80/57885776/76322283/809079
+#EXTINF:-1 type="stream" tvg-id="EUROSPORT 1 HD" tvg-logo="http://4f.rs:80/images/33d9df862b584b962cc57278498917c0.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EUROSPORT 1 HD
+http://4f.rs:80/57885776/76322283/1519222
+#EXTINF:-1 type="stream" tvg-id="EUROSPORT 1 PORT" tvg-logo="http://4f.rs:80/images/28e543929d71b4c0be9179fb9716b315.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EUROSPORT 1 PORT
+http://4f.rs:80/57885776/76322283/1519274
+#EXTINF:-1 type="stream" tvg-id="EUROSPORT 1 SD" tvg-logo="http://4f.rs:80/images/33d9df862b584b962cc57278498917c0.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EUROSPORT 1 SD
+http://4f.rs:80/57885776/76322283/1519223
+#EXTINF:-1 type="stream" tvg-id="EUROSPORT 2 HD" tvg-logo="http://4f.rs:80/images/33d9df862b584b962cc57278498917c0.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EUROSPORT 2 HD
+http://4f.rs:80/57885776/76322283/1519224
+#EXTINF:-1 type="stream" tvg-id="EUROSPORT 2 SD" tvg-logo="http://4f.rs:80/images/33d9df862b584b962cc57278498917c0.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EUROSPORT 2 SD
+http://4f.rs:80/57885776/76322283/1519225
+#EXTINF:-1 type="stream" tvg-id="EUROSPORT ALEMANHA HD 1" tvg-logo="http://4f.rs:80/images/33d9df862b584b962cc57278498917c0.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EUROSPORT ALEMANHA HD 1
+http://4f.rs:80/57885776/76322283/1519251
+#EXTINF:-1 type="stream" tvg-id="EUROSPORT ALEMANHA HD 2" tvg-logo="http://4f.rs:80/images/33d9df862b584b962cc57278498917c0.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EUROSPORT ALEMANHA HD 2
+http://4f.rs:80/57885776/76322283/1519252
+#EXTINF:-1 type="stream" tvg-id="EUROSPORT FRANCE 1" tvg-logo="http://4f.rs:80/images/33d9df862b584b962cc57278498917c0.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EUROSPORT FRANCE 1
+http://4f.rs:80/57885776/76322283/1519244
+#EXTINF:-1 type="stream" tvg-id="EUROSPORT FRANCE 2" tvg-logo="http://4f.rs:80/images/33d9df862b584b962cc57278498917c0.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EUROSPORT FRANCE 2
+http://4f.rs:80/57885776/76322283/1519245
+#EXTINF:-1 type="stream" tvg-id="EUROSPORTS 1 HD" tvg-logo="http://4f.rs:80/images/9a0683a80e6868d6b5fa70c9b4d1f77c.png" group-title="CANAIS | PORTUGAL",EUROSPORTS 1 HD
+http://4f.rs:80/57885776/76322283/1521412
+#EXTINF:-1 type="stream" tvg-id="EUROSPORTS 2 4K" tvg-logo="http://4f.rs:80/images/53567dcfabb56d8bc80a676c76d78950.png" group-title="CANAIS | 4K",EUROSPORTS 2 4K
+http://4f.rs:80/57885776/76322283/1464342
+#EXTINF:-1 type="stream" tvg-id="EUROSPORTS SPAIN HD 1" tvg-logo="http://4f.rs:80/images/33d9df862b584b962cc57278498917c0.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EUROSPORTS SPAIN HD 1
+http://4f.rs:80/57885776/76322283/1519269
+#EXTINF:-1 type="stream" tvg-id="EUROSPORTS SPAIN HD 2" tvg-logo="http://4f.rs:80/images/33d9df862b584b962cc57278498917c0.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",EUROSPORTS SPAIN HD 2
+http://4f.rs:80/57885776/76322283/1519270
+#EXTINF:-1 type="stream" tvg-id="EXTREME TV" tvg-logo="http://4f.rs:80/images/1262be4c55904c556a8d6ccc38ad5a5b.png" group-title="CANAIS | ABERTOS",EXTREME TV
+http://4f.rs:80/57885776/76322283/1490346
+#EXTINF:-1 type="stream" tvg-id="FASHION TV FULLHD" tvg-logo="http://4f.rs:80/images/bd8208db0e0d37a52356f60ec2e7750b.png" group-title="CANAIS | VARIEDADES",FASHION TV FULLHD
+http://4f.rs:80/57885776/76322283/208951
+#EXTINF:-1 type="stream" tvg-id="FASHION TV HD" tvg-logo="http://4f.rs:80/images/bd8208db0e0d37a52356f60ec2e7750b.png" group-title="CANAIS | VARIEDADES",FASHION TV HD
+http://4f.rs:80/57885776/76322283/208952
+#EXTINF:-1 type="stream" tvg-id="FIFA PLUS" tvg-logo="https://digitalhub.fifa.com/transform/178fcbc2-4bc8-4481-8b67-7a10895dcbfc/FIFA?io=transform:fill&quality=75" group-title="CANAIS | ESPORTES ESPECIAIS",FIFA PLUS
+http://4f.rs:80/57885776/76322283/1507234
+#EXTINF:-1 type="stream" tvg-id="FIFA PLUS 2" tvg-logo="https://digitalhub.fifa.com/transform/178fcbc2-4bc8-4481-8b67-7a10895dcbfc/FIFA?io=transform:fill&quality=75" group-title="CANAIS | ESPORTES ESPECIAIS",FIFA PLUS 2
+http://4f.rs:80/57885776/76322283/1508984
+#EXTINF:-1 type="stream" tvg-id="FIGHT BOX HD" tvg-logo="http://4f.rs:80/images/12dd389eb633c57a69df9e0742d9dc95.png" group-title="CANAIS | ESPORTES ESPECIAIS",FIGHT BOX HD
+http://4f.rs:80/57885776/76322283/1482781
+#EXTINF:-1 type="stream" tvg-id="FIGHT NETWORK" tvg-logo="http://4f.rs:80/images/3e1bc7541b1d257583147636740a40a8.png" group-title="CANAIS | ESPORTES ESPECIAIS",FIGHT NETWORK
+http://4f.rs:80/57885776/76322283/1482780
+#EXTINF:-1 type="stream" tvg-id="FILM E ARTS SD" tvg-logo="http://4f.rs:80/images/ae6a0756333a2b3457d852665b6bdf45.png" group-title="CANAIS | VARIEDADES",FILM E ARTS SD
+http://4f.rs:80/57885776/76322283/402067
+#EXTINF:-1 type="stream" tvg-id="FILMES/ANIMAÇÕES COMICS DC" tvg-logo="http://4f.rs:80/images/900e745eb751b19a53bfdba5588e73c3.png" group-title="CANAIS | FILMES ESPECIAIS",FILMES/ANIMAÇÕES COMICS DC
+http://4f.rs:80/57885776/76322283/1494007
+#EXTINF:-1 type="stream" tvg-id="FISH TV FULLHD" tvg-logo="http://4f.rs:80/images/0f40b496cc1af10c48b10703cb60310b.png" group-title="CANAIS | ESPORTES",FISH TV FULLHD
+http://4f.rs:80/57885776/76322283/132173
+#EXTINF:-1 type="stream" tvg-id="FISH TV HD" tvg-logo="http://4f.rs:80/images/0f40b496cc1af10c48b10703cb60310b.png" group-title="CANAIS | ESPORTES",FISH TV HD
+http://4f.rs:80/57885776/76322283/57150
+#EXTINF:-1 type="stream" tvg-id="FISHTV FULLHD H265" tvg-logo="http://4f.rs:80/images/0f40b496cc1af10c48b10703cb60310b.png" group-title="CANAIS | ESPORTES",FISHTV FULLHD H265
+http://4f.rs:80/57885776/76322283/1469311
+#EXTINF:-1 type="stream" tvg-id="FLASH BACK" tvg-logo="http://imagensemoldes.com.br/wp-content/uploads/2020/03/Ilustra%C3%A7%C3%A3o-de-M%C3%BAsica-PNG.png" group-title="CANAIS | MÚSICA",FLASH BACK
+http://4f.rs:80/57885776/76322283/428904
+#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK" tvg-logo="http://4f.rs:80/images/45b8126b73cb3df860d8b674127da811.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK
+http://4f.rs:80/57885776/76322283/1469362
+#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK 4K" tvg-logo="http://4f.rs:80/images/c3436875ddc06d6b6ca89ed0eee17698.png" group-title="CANAIS | 4K",FOOD NETWORK 4K
+http://4f.rs:80/57885776/76322283/1464338
+#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK FULLHD" tvg-logo="http://4f.rs:80/images/5d706c8db6b306b1e533c5b9747ea274.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FULLHD
+http://4f.rs:80/57885776/76322283/208954
+#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK FULLHD H265" tvg-logo="http://4f.rs:80/images/45b8126b73cb3df860d8b674127da811.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FULLHD H265
+http://4f.rs:80/57885776/76322283/1482626
+#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK HD" tvg-logo="http://4f.rs:80/images/5d706c8db6b306b1e533c5b9747ea274.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
+http://4f.rs:80/57885776/76322283/40058
+#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK SD" tvg-logo="http://4f.rs:80/images/5d706c8db6b306b1e533c5b9747ea274.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
+http://4f.rs:80/57885776/76322283/208956
+#EXTINF:-1 type="stream" tvg-id="FORRÓ" tvg-logo="http://imagensemoldes.com.br/wp-content/uploads/2020/03/Ilustra%C3%A7%C3%A3o-de-M%C3%BAsica-PNG.png" group-title="CANAIS | MÚSICA",FORRÓ
+http://4f.rs:80/57885776/76322283/428903
+#EXTINF:-1 type="stream" tvg-id="FOX CRIME HD" tvg-logo="http://4f.rs:80/images/ad3d90fed5cc5eacc862009835a155c5.png" group-title="CANAIS | PORTUGAL",FOX CRIME HD
+http://4f.rs:80/57885776/76322283/1521390
+#EXTINF:-1 type="stream" tvg-id="FOX LIFE HD" tvg-logo="http://4f.rs:80/images/3b6d5a3beaab6187582439a31c4b7cba.png" group-title="CANAIS | PORTUGAL",FOX LIFE HD
+http://4f.rs:80/57885776/76322283/1521388
+#EXTINF:-1 type="stream" tvg-id="FOX MOVIES" tvg-logo="http://4f.rs:80/images/235c76d8575e6ec9ebfc50e010ab2eab.png" group-title="CANAIS | PORTUGAL",FOX MOVIES
+http://4f.rs:80/57885776/76322283/1521389
+#EXTINF:-1 type="stream" tvg-id="FOX NEWS FULLHD" tvg-logo="http://4f.rs:80/images/5e7e4c87ea2b04a79e44235942341ade.png" group-title="CANAIS | NOTICIAS",FOX NEWS FULLHD
+http://4f.rs:80/57885776/76322283/1454869
+#EXTINF:-1 type="stream" tvg-id="FOX SPORTS 2 FULLHD" tvg-logo="http://4f.rs:80/images/c8fa592c1d549464213bd9687a89b664.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FULLHD
+http://4f.rs:80/57885776/76322283/208957
+#EXTINF:-1 type="stream" tvg-id="FOX SPORTS 2 FULLHD H265" tvg-logo="http://4f.rs:80/images/c8fa592c1d549464213bd9687a89b664.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FULLHD H265
+http://4f.rs:80/57885776/76322283/1482627
+#EXTINF:-1 type="stream" tvg-id="FOX SPORTS 2 HD" tvg-logo="http://4f.rs:80/images/c8fa592c1d549464213bd9687a89b664.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
+http://4f.rs:80/57885776/76322283/208958
+#EXTINF:-1 type="stream" tvg-id="FOX SPORTS 2 SD" tvg-logo="http://4f.rs:80/images/c8fa592c1d549464213bd9687a89b664.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
+http://4f.rs:80/57885776/76322283/208959
+#EXTINF:-1 type="stream" tvg-id="FUEL TV" tvg-logo="http://4f.rs:80/images/bb4b8ed14ed8c6d646778151c4cd53c3.png" group-title="CANAIS | PORTUGAL",FUEL TV
+http://4f.rs:80/57885776/76322283/1521368
+#EXTINF:-1 type="stream" tvg-id="FUNK" tvg-logo="http://imagensemoldes.com.br/wp-content/uploads/2020/03/Ilustra%C3%A7%C3%A3o-de-M%C3%BAsica-PNG.png" group-title="CANAIS | MÚSICA",FUNK
+http://4f.rs:80/57885776/76322283/428913
+#EXTINF:-1 type="stream" tvg-id="FURACÃO LIVE" tvg-logo="http://4f.rs:80/images/b63cdb41d07b430364243999320945d2.png" group-title="CANAIS | ESPORTES ESPECIAIS",FURACÃO LIVE
+http://4f.rs:80/57885776/76322283/1455247
+#EXTINF:-1 type="stream" tvg-id="FUSSBALL HD" tvg-logo="http://4f.rs:80/images/37863126bc737d030fa55b7a6b7a2df4.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",FUSSBALL HD
+http://4f.rs:80/57885776/76322283/1519263
+#EXTINF:-1 type="stream" tvg-id="FUTURA HD" tvg-logo="http://4f.rs:80/images/064516dda36ba30e341062a07acdb229.png" group-title="CANAIS | ABERTOS",FUTURA HD
+http://4f.rs:80/57885776/76322283/208964
+#EXTINF:-1 type="stream" tvg-id="FUTURA SD" tvg-logo="http://4f.rs:80/images/064516dda36ba30e341062a07acdb229.png" group-title="CANAIS | ABERTOS",FUTURA SD
+http://4f.rs:80/57885776/76322283/208965
+#EXTINF:-1 type="stream" tvg-id="FUUSBALL WOMAN FIFA 1" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",FUUSBALL WOMAN FIFA 1
+http://4f.rs:80/57885776/76322283/1519250
+#EXTINF:-1 type="stream" tvg-id="FX 4K" tvg-logo="http://4f.rs:80/images/1df5dba537130973ddab6cdb35e85361.png" group-title="CANAIS | 4K",FX 4K
+http://4f.rs:80/57885776/76322283/1465273
+#EXTINF:-1 type="stream" tvg-id="FX FULLHD" tvg-logo="http://4f.rs:80/images/1df5dba537130973ddab6cdb35e85361.png" group-title="CANAIS | FILMES E SERIES",FX FULLHD
+http://4f.rs:80/57885776/76322283/208966
+#EXTINF:-1 type="stream" tvg-id="FX FULLHD H265" tvg-logo="http://4f.rs:80/images/b82c3b60bb34d030d8c157fa2ac8f7b1.png" group-title="CANAIS | FILMES E SERIES",FX FULLHD H265
+http://4f.rs:80/57885776/76322283/1469341
+#EXTINF:-1 type="stream" tvg-id="FX HD" tvg-logo="http://4f.rs:80/images/1df5dba537130973ddab6cdb35e85361.png" group-title="CANAIS | FILMES E SERIES",FX HD
+http://4f.rs:80/57885776/76322283/208967
+#EXTINF:-1 type="stream" tvg-id="FX SD" tvg-logo="http://i.ibb.co/mCy2kPW/fxnovo.png" group-title="CANAIS | FILMES E SERIES",FX SD
+http://4f.rs:80/57885776/76322283/208968
+#EXTINF:-1 type="stream" tvg-id="GALINHA PINTADINHA" tvg-logo="http://4f.rs:80/images/be540554a9f4c528b2f4e1e1e0c51603.png" group-title="CANAIS | DESENHOS 24HS",GALINHA PINTADINHA
+http://4f.rs:80/57885776/76322283/1396849
+#EXTINF:-1 type="stream" tvg-id="GAZETA FULLHD" tvg-logo="http://4f.rs:80/images/c77363b723a9cec9f426092fffdd1140.png" group-title="CANAIS | ABERTOS",GAZETA FULLHD
+http://4f.rs:80/57885776/76322283/1468407
+#EXTINF:-1 type="stream" tvg-id="GLOBO NEWS FULLHD" tvg-logo="http://4f.rs:80/images/7d0106397df7ef5508393b09572d7212.png" group-title="CANAIS | NOTICIAS",GLOBO NEWS FULLHD
+http://4f.rs:80/57885776/76322283/208969
+#EXTINF:-1 type="stream" tvg-id="H2 FULLHD" tvg-logo="http://4f.rs:80/images/5184ede87707d5ff99eb3487369d970d.png" group-title="CANAIS | DOCUMENTARIOS",H2 FULLHD
+http://4f.rs:80/57885776/76322283/209011
+#EXTINF:-1 type="stream" tvg-id="H2 FULLHD H265" tvg-logo="http://4f.rs:80/images/5184ede87707d5ff99eb3487369d970d.png" group-title="CANAIS | DOCUMENTARIOS",H2 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469299
+#EXTINF:-1 type="stream" tvg-id="H2 HD" tvg-logo="http://4f.rs:80/images/5184ede87707d5ff99eb3487369d970d.png" group-title="CANAIS | DOCUMENTARIOS",H2 HD
+http://4f.rs:80/57885776/76322283/209012
+#EXTINF:-1 type="stream" tvg-id="H2 SD" tvg-logo="http://4f.rs:80/images/5184ede87707d5ff99eb3487369d970d.png" group-title="CANAIS | DOCUMENTARIOS",H2 SD
+http://4f.rs:80/57885776/76322283/209013
+#EXTINF:-1 type="stream" tvg-id="HBO + FULLHD" tvg-logo="http://4f.rs:80/images/bc1c54a9ce63545421862cf4945a7675.png" group-title="CANAIS | HBO",HBO + FULLHD
+http://4f.rs:80/57885776/76322283/208984
+#EXTINF:-1 type="stream" tvg-id="HBO + HD" tvg-logo="http://4f.rs:80/images/bc1c54a9ce63545421862cf4945a7675.png" group-title="CANAIS | HBO",HBO + HD
+http://4f.rs:80/57885776/76322283/208985
+#EXTINF:-1 type="stream" tvg-id="HBO + SD" tvg-logo="http://4f.rs:80/images/bc1c54a9ce63545421862cf4945a7675.png" group-title="CANAIS | HBO",HBO + SD
+http://4f.rs:80/57885776/76322283/208986
+#EXTINF:-1 type="stream" tvg-id="HBO 1 FULLHD" tvg-logo="http://4f.rs:80/images/b292f6a4eac09f4f9722812a5804f371.png" group-title="CANAIS | HBO",HBO 1 FULLHD
+http://4f.rs:80/57885776/76322283/208993
+#EXTINF:-1 type="stream" tvg-id="HBO 1 FULLHD H265" tvg-logo="http://4f.rs:80/images/b292f6a4eac09f4f9722812a5804f371.png" group-title="CANAIS | HBO",HBO 1 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469331
+#EXTINF:-1 type="stream" tvg-id="HBO 1 HD" tvg-logo="http://4f.rs:80/images/b292f6a4eac09f4f9722812a5804f371.png" group-title="CANAIS | HBO",HBO 1 HD
+http://4f.rs:80/57885776/76322283/208994
+#EXTINF:-1 type="stream" tvg-id="HBO 1 SD" tvg-logo="http://4f.rs:80/images/b292f6a4eac09f4f9722812a5804f371.png" group-title="CANAIS | HBO",HBO 1 SD
+http://4f.rs:80/57885776/76322283/209001
+#EXTINF:-1 type="stream" tvg-id="HBO 2 FULLHD" tvg-logo="http://4f.rs:80/images/d374a78accf02ea7c453f729ffbfe6b9.png" group-title="CANAIS | HBO",HBO 2 FULLHD
+http://4f.rs:80/57885776/76322283/208987
+#EXTINF:-1 type="stream" tvg-id="HBO 2 FULLHD H265" tvg-logo="http://4f.rs:80/images/d374a78accf02ea7c453f729ffbfe6b9.png" group-title="CANAIS | HBO",HBO 2 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469330
+#EXTINF:-1 type="stream" tvg-id="HBO 2 HD" tvg-logo="http://4f.rs:80/images/d374a78accf02ea7c453f729ffbfe6b9.png" group-title="CANAIS | HBO",HBO 2 HD
+http://4f.rs:80/57885776/76322283/208988
+#EXTINF:-1 type="stream" tvg-id="HBO 2 SD" tvg-logo="http://i.ibb.co/7CLCdRd/hbo2.png" group-title="CANAIS | HBO",HBO 2 SD
+http://4f.rs:80/57885776/76322283/208989
+#EXTINF:-1 type="stream" tvg-id="HBO FAMILY FULLHD" tvg-logo="http://4f.rs:80/images/d827ebf26445f3b1e2048c4134a92a9b.png" group-title="CANAIS | HBO",HBO FAMILY FULLHD
+http://4f.rs:80/57885776/76322283/208990
+#EXTINF:-1 type="stream" tvg-id="HBO FAMILY FULLHD H265" tvg-logo="http://4f.rs:80/images/d827ebf26445f3b1e2048c4134a92a9b.png" group-title="CANAIS | HBO",HBO FAMILY FULLHD H265
+http://4f.rs:80/57885776/76322283/1469326
+#EXTINF:-1 type="stream" tvg-id="HBO FAMILY HD" tvg-logo="http://4f.rs:80/images/d827ebf26445f3b1e2048c4134a92a9b.png" group-title="CANAIS | HBO",HBO FAMILY HD
+http://4f.rs:80/57885776/76322283/208991
+#EXTINF:-1 type="stream" tvg-id="HBO FAMILY SD" tvg-logo="http://4f.rs:80/images/d827ebf26445f3b1e2048c4134a92a9b.png" group-title="CANAIS | HBO",HBO FAMILY SD
+http://4f.rs:80/57885776/76322283/208992
+#EXTINF:-1 type="stream" tvg-id="HBO FULLHD H264" tvg-logo="http://4f.rs:80/images/b292f6a4eac09f4f9722812a5804f371.png" group-title="CANAIS | LEGENDADOS",HBO FULLHD H264
+http://4f.rs:80/57885776/76322283/1482594
+#EXTINF:-1 type="stream" tvg-id="HBO HD" tvg-logo="http://4f.rs:80/images/b292f6a4eac09f4f9722812a5804f371.png" group-title="CANAIS | LEGENDADOS",HBO HD
+http://4f.rs:80/57885776/76322283/1482595
+#EXTINF:-1 type="stream" tvg-id="HBO MAX 01 HD" tvg-logo="http://4f.rs:80/images/5cb7b6fb40ef16ac04207e0286357756.png" group-title="CANAIS | ESPORTES ESPECIAIS",HBO MAX 01 HD
+http://4f.rs:80/57885776/76322283/1454442
+#EXTINF:-1 type="stream" tvg-id="HBO MAX 02 HD" tvg-logo="http://4f.rs:80/images/5cb7b6fb40ef16ac04207e0286357756.png" group-title="CANAIS | ESPORTES ESPECIAIS",HBO MAX 02 HD
+http://4f.rs:80/57885776/76322283/1454443
+#EXTINF:-1 type="stream" tvg-id="HBO MAX 03 HD" tvg-logo="http://4f.rs:80/images/5cb7b6fb40ef16ac04207e0286357756.png" group-title="CANAIS | ESPORTES ESPECIAIS",HBO MAX 03 HD
+http://4f.rs:80/57885776/76322283/1454444
+#EXTINF:-1 type="stream" tvg-id="HBO MAX 04 HD" tvg-logo="http://4f.rs:80/images/5cb7b6fb40ef16ac04207e0286357756.png" group-title="CANAIS | ESPORTES ESPECIAIS",HBO MAX 04 HD
+http://4f.rs:80/57885776/76322283/1454445
+#EXTINF:-1 type="stream" tvg-id="HBO MAX 05 HD" tvg-logo="http://4f.rs:80/images/5cb7b6fb40ef16ac04207e0286357756.png" group-title="CANAIS | ESPORTES ESPECIAIS",HBO MAX 05 HD
+http://4f.rs:80/57885776/76322283/1454446
+#EXTINF:-1 type="stream" tvg-id="HBO MUNDI FULLHD" tvg-logo="http://4f.rs:80/images/18936b8220d4448797bf74f0501ccda1.png" group-title="CANAIS | HBO",HBO MUNDI FULLHD
+http://4f.rs:80/57885776/76322283/208995
+#EXTINF:-1 type="stream" tvg-id="HBO MUNDI FULLHD" tvg-logo="http://4f.rs:80/images/18936b8220d4448797bf74f0501ccda1.png" group-title="CANAIS | LEGENDADOS",HBO MUNDI FULLHD
+http://4f.rs:80/57885776/76322283/1482596
+#EXTINF:-1 type="stream" tvg-id="HBO MUNDI FULLHD H265" tvg-logo="http://4f.rs:80/images/18936b8220d4448797bf74f0501ccda1.png" group-title="CANAIS | HBO",HBO MUNDI FULLHD H265
+http://4f.rs:80/57885776/76322283/1469328
+#EXTINF:-1 type="stream" tvg-id="HBO MUNDI HD" tvg-logo="http://4f.rs:80/images/18936b8220d4448797bf74f0501ccda1.png" group-title="CANAIS | HBO",HBO MUNDI HD
+http://4f.rs:80/57885776/76322283/208996
+#EXTINF:-1 type="stream" tvg-id="HBO MUNDI HD" tvg-logo="http://4f.rs:80/images/18936b8220d4448797bf74f0501ccda1.png" group-title="CANAIS | LEGENDADOS",HBO MUNDI HD
+http://4f.rs:80/57885776/76322283/1482597
+#EXTINF:-1 type="stream" tvg-id="HBO MUNDI SD" tvg-logo="http://i.ibb.co/WKdNXQD/Sem-T-tulo-2.png" group-title="CANAIS | HBO",HBO MUNDI SD
+http://4f.rs:80/57885776/76322283/208997
+#EXTINF:-1 type="stream" tvg-id="HBO PLUS FULLHD H264" tvg-logo="http://4f.rs:80/images/bc1c54a9ce63545421862cf4945a7675.png" group-title="CANAIS | LEGENDADOS",HBO PLUS FULLHD H264
+http://4f.rs:80/57885776/76322283/1482598
+#EXTINF:-1 type="stream" tvg-id="HBO PLUS HD" tvg-logo="http://4f.rs:80/images/bc1c54a9ce63545421862cf4945a7675.png" group-title="CANAIS | LEGENDADOS",HBO PLUS HD
+http://4f.rs:80/57885776/76322283/1482599
+#EXTINF:-1 type="stream" tvg-id="HBO POP FULLHD" tvg-logo="http://4f.rs:80/images/104b10a1eb06bc86fe84e4488ee43622.png" group-title="CANAIS | HBO",HBO POP FULLHD
+http://4f.rs:80/57885776/76322283/208998
+#EXTINF:-1 type="stream" tvg-id="HBO POP FULLHD H264" tvg-logo="http://4f.rs:80/images/104b10a1eb06bc86fe84e4488ee43622.png" group-title="CANAIS | LEGENDADOS",HBO POP FULLHD H264
+http://4f.rs:80/57885776/76322283/1482600
+#EXTINF:-1 type="stream" tvg-id="HBO POP FULLHD H265" tvg-logo="http://4f.rs:80/images/104b10a1eb06bc86fe84e4488ee43622.png" group-title="CANAIS | HBO",HBO POP FULLHD H265
+http://4f.rs:80/57885776/76322283/1469325
+#EXTINF:-1 type="stream" tvg-id="HBO POP HD" tvg-logo="http://4f.rs:80/images/104b10a1eb06bc86fe84e4488ee43622.png" group-title="CANAIS | HBO",HBO POP HD
+http://4f.rs:80/57885776/76322283/208999
+#EXTINF:-1 type="stream" tvg-id="HBO POP HD" tvg-logo="http://4f.rs:80/images/104b10a1eb06bc86fe84e4488ee43622.png" group-title="CANAIS | LEGENDADOS",HBO POP HD
+http://4f.rs:80/57885776/76322283/1482601
+#EXTINF:-1 type="stream" tvg-id="HBO POP SD" tvg-logo="http://i.ibb.co/crWhw0G/pop.png" group-title="CANAIS | HBO",HBO POP SD
+http://4f.rs:80/57885776/76322283/209000
+#EXTINF:-1 type="stream" tvg-id="HBO SIGNATURE FULLHD" tvg-logo="http://4f.rs:80/images/fb6982b453a52d2de4c94d37409ae718.png" group-title="CANAIS | HBO",HBO SIGNATURE FULLHD
+http://4f.rs:80/57885776/76322283/209002
+#EXTINF:-1 type="stream" tvg-id="HBO SIGNATURE FULLHD H264" tvg-logo="http://4f.rs:80/images/fb6982b453a52d2de4c94d37409ae718.png" group-title="CANAIS | LEGENDADOS",HBO SIGNATURE FULLHD H264
+http://4f.rs:80/57885776/76322283/1482602
+#EXTINF:-1 type="stream" tvg-id="HBO SIGNATURE FULLHD H265" tvg-logo="http://4f.rs:80/images/fb6982b453a52d2de4c94d37409ae718.png" group-title="CANAIS | HBO",HBO SIGNATURE FULLHD H265
+http://4f.rs:80/57885776/76322283/1469329
+#EXTINF:-1 type="stream" tvg-id="HBO SIGNATURE HD" tvg-logo="http://4f.rs:80/images/fb6982b453a52d2de4c94d37409ae718.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
+http://4f.rs:80/57885776/76322283/209003
+#EXTINF:-1 type="stream" tvg-id="HBO SIGNATURE HD" tvg-logo="http://4f.rs:80/images/fb6982b453a52d2de4c94d37409ae718.png" group-title="CANAIS | LEGENDADOS",HBO SIGNATURE HD
+http://4f.rs:80/57885776/76322283/1482603
+#EXTINF:-1 type="stream" tvg-id="HBO SIGNATURE SD" tvg-logo="http://4f.rs:80/images/fb6982b453a52d2de4c94d37409ae718.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
+http://4f.rs:80/57885776/76322283/209004
+#EXTINF:-1 type="stream" tvg-id="HBO XTREAM HD" tvg-logo="http://4f.rs:80/images/3b194b9c8c679e017f3a9b7c4f26ca8b.png" group-title="CANAIS | LEGENDADOS",HBO XTREAM HD
+http://4f.rs:80/57885776/76322283/1482604
+#EXTINF:-1 type="stream" tvg-id="HBO XTREME FULLHD" tvg-logo="http://4f.rs:80/images/3b194b9c8c679e017f3a9b7c4f26ca8b.png" group-title="CANAIS | HBO",HBO XTREME FULLHD
+http://4f.rs:80/57885776/76322283/209005
+#EXTINF:-1 type="stream" tvg-id="HBO XTREME FULLHD H264" tvg-logo="http://4f.rs:80/images/3b194b9c8c679e017f3a9b7c4f26ca8b.png" group-title="CANAIS | LEGENDADOS",HBO XTREME FULLHD H264
+http://4f.rs:80/57885776/76322283/1482605
+#EXTINF:-1 type="stream" tvg-id="HBO XTREME FULLHD H265" tvg-logo="http://4f.rs:80/images/3b194b9c8c679e017f3a9b7c4f26ca8b.png" group-title="CANAIS | HBO",HBO XTREME FULLHD H265
+http://4f.rs:80/57885776/76322283/1469324
+#EXTINF:-1 type="stream" tvg-id="HBO XTREME HD" tvg-logo="http://4f.rs:80/images/3b194b9c8c679e017f3a9b7c4f26ca8b.png" group-title="CANAIS | HBO",HBO XTREME HD
+http://4f.rs:80/57885776/76322283/209006
+#EXTINF:-1 type="stream" tvg-id="HBO XTREME SD" tvg-logo="http://4f.rs:80/images/3b194b9c8c679e017f3a9b7c4f26ca8b.png" group-title="CANAIS | HBO",HBO XTREME SD
+http://4f.rs:80/57885776/76322283/209007
+#EXTINF:-1 type="stream" tvg-id="HBO+ FULLHD H265" tvg-logo="http://4f.rs:80/images/bc1c54a9ce63545421862cf4945a7675.png" group-title="CANAIS | HBO",HBO+ FULLHD H265
+http://4f.rs:80/57885776/76322283/1469327
+#EXTINF:-1 type="stream" tvg-id="HGTV 4K" tvg-logo="http://4f.rs:80/images/f19dab94fd39ed7a5b795367bbc10463.png" group-title="CANAIS | 4K",HGTV 4K
+http://4f.rs:80/57885776/76322283/1465366
+#EXTINF:-1 type="stream" tvg-id="HGTV FULLHD" tvg-logo="http://4f.rs:80/images/f19dab94fd39ed7a5b795367bbc10463.png" group-title="CANAIS | DOCUMENTARIOS",HGTV FULLHD
+http://4f.rs:80/57885776/76322283/209008
+#EXTINF:-1 type="stream" tvg-id="HGTV FULLHD H265" tvg-logo="http://4f.rs:80/images/f19dab94fd39ed7a5b795367bbc10463.png" group-title="CANAIS | DOCUMENTARIOS",HGTV FULLHD H265
+http://4f.rs:80/57885776/76322283/1469356
+#EXTINF:-1 type="stream" tvg-id="HGTV HD" tvg-logo="http://4f.rs:80/images/f19dab94fd39ed7a5b795367bbc10463.png" group-title="CANAIS | DOCUMENTARIOS",HGTV HD
+http://4f.rs:80/57885776/76322283/209009
+#EXTINF:-1 type="stream" tvg-id="HGTV SD" tvg-logo="http://4f.rs:80/images/f19dab94fd39ed7a5b795367bbc10463.png" group-title="CANAIS | DOCUMENTARIOS",HGTV SD
+http://4f.rs:80/57885776/76322283/209010
+#EXTINF:-1 type="stream" tvg-id="HISTORY" tvg-logo="http://4f.rs:80/images/c7225a3dc6d01f76d73b8443b972e882.png" group-title="CANAIS | PORTUGAL",HISTORY
+http://4f.rs:80/57885776/76322283/1521399
+#EXTINF:-1 type="stream" tvg-id="HISTORY CHANNEL FULLHD" tvg-logo="http://4f.rs:80/images/440271743c32cf78f6dbc582dd29f048.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY CHANNEL FULLHD
+http://4f.rs:80/57885776/76322283/209014
+#EXTINF:-1 type="stream" tvg-id="HISTORY CHANNEL FULLHD H265" tvg-logo="http://4f.rs:80/images/440271743c32cf78f6dbc582dd29f048.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY CHANNEL FULLHD H265
+http://4f.rs:80/57885776/76322283/1469300
+#EXTINF:-1 type="stream" tvg-id="HISTORY CHANNEL HD" tvg-logo="http://4f.rs:80/images/440271743c32cf78f6dbc582dd29f048.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY CHANNEL HD
+http://4f.rs:80/57885776/76322283/209015
+#EXTINF:-1 type="stream" tvg-id="HISTORY CHANNEL SD" tvg-logo="http://4f.rs:80/images/440271743c32cf78f6dbc582dd29f048.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY CHANNEL SD
+http://4f.rs:80/57885776/76322283/209016
+#EXTINF:-1 type="stream" tvg-id="ID HD" tvg-logo="http://4f.rs:80/images/5a92a58abb827b4349eeed49317b423b.png" group-title="CANAIS | PORTUGAL",ID HD
+http://4f.rs:80/57885776/76322283/1521398
+#EXTINF:-1 type="stream" tvg-id="INVESTIGATION DISCOVERY FULLHD H265" tvg-logo="http://4f.rs:80/images/5a92a58abb827b4349eeed49317b423b.png" group-title="CANAIS | DOCUMENTARIOS",INVESTIGATION DISCOVERY FULLHD H265
+http://4f.rs:80/57885776/76322283/1469305
+#EXTINF:-1 type="stream" tvg-id="INVESTIGATION DISCOVERY HD" tvg-logo="http://4f.rs:80/images/5a92a58abb827b4349eeed49317b423b.png" group-title="CANAIS | DOCUMENTARIOS",INVESTIGATION DISCOVERY HD
+http://4f.rs:80/57885776/76322283/209018
+#EXTINF:-1 type="stream" tvg-id="INVESTIGATION DISCOVERY SD" tvg-logo="http://4f.rs:80/images/5a92a58abb827b4349eeed49317b423b.png" group-title="CANAIS | DOCUMENTARIOS",INVESTIGATION DISCOVERY SD
+http://4f.rs:80/57885776/76322283/209019
+#EXTINF:-1 type="stream" tvg-id="LIFETIME FULLHD" tvg-logo="https://i.ibb.co/S3Zm8M6/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME FULLHD
+http://4f.rs:80/57885776/76322283/209020
+#EXTINF:-1 type="stream" tvg-id="LIFETIME FULLHD H265" tvg-logo="http://4f.rs:80/images/41e6981441a0435accc3681db6aafee3.png" group-title="CANAIS | VARIEDADES",LIFETIME FULLHD H265
+http://4f.rs:80/57885776/76322283/1469342
+#EXTINF:-1 type="stream" tvg-id="LIFETIME HD" tvg-logo="http://4f.rs:80/images/086d55533d72bb37cfec88e925e8009b.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
+http://4f.rs:80/57885776/76322283/209021
+#EXTINF:-1 type="stream" tvg-id="LIFETIME SD" tvg-logo="https://i.ibb.co/S3Zm8M6/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME SD
+http://4f.rs:80/57885776/76322283/209022
+#EXTINF:-1 type="stream" tvg-id="MEGAPIX 4K" tvg-logo="http://4f.rs:80/images/87e56278a6bc3e68d119bc53cd85db6b.png" group-title="CANAIS | 4K",MEGAPIX 4K
+http://4f.rs:80/57885776/76322283/1465267
+#EXTINF:-1 type="stream" tvg-id="MEGAPIX FULLHD" tvg-logo="http://4f.rs:80/images/87e56278a6bc3e68d119bc53cd85db6b.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FULLHD
+http://4f.rs:80/57885776/76322283/209029
+#EXTINF:-1 type="stream" tvg-id="MEGAPIX FULLHD H264" tvg-logo="http://4f.rs:80/images/87e56278a6bc3e68d119bc53cd85db6b.png" group-title="CANAIS | LEGENDADOS",MEGAPIX FULLHD H264
+http://4f.rs:80/57885776/76322283/1482606
+#EXTINF:-1 type="stream" tvg-id="MEGAPIX FULLHD H265" tvg-logo="http://4f.rs:80/images/87e56278a6bc3e68d119bc53cd85db6b.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FULLHD H265
+http://4f.rs:80/57885776/76322283/1469322
+#EXTINF:-1 type="stream" tvg-id="MEGAPIX HD" tvg-logo="http://4f.rs:80/images/87e56278a6bc3e68d119bc53cd85db6b.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX HD
+http://4f.rs:80/57885776/76322283/209030
+#EXTINF:-1 type="stream" tvg-id="MEGAPIX HD" tvg-logo="http://4f.rs:80/images/87e56278a6bc3e68d119bc53cd85db6b.png" group-title="CANAIS | LEGENDADOS",MEGAPIX HD
+http://4f.rs:80/57885776/76322283/1482607
+#EXTINF:-1 type="stream" tvg-id="MEGAPIX SD" tvg-logo="http://4f.rs:80/images/87e56278a6bc3e68d119bc53cd85db6b.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX SD
+http://4f.rs:80/57885776/76322283/209031
 
-
+#EXTINF:-1 type="stream" tvg-id="MODO VIAGEM FULLHD H265" tvg-logo="http://4f.rs:80/images/abac59538e823a18c7701c369f696cc3.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM FULLHD H265
+http://4f.rs:80/57885776/76322283/1482629
+#EXTINF:-1 type="stream" tvg-id="MTV FULLHD" tvg-logo="http://4f.rs:80/images/dbef82575a169e7b116e5b8e14a96239.png" group-title="CANAIS | MÚSICA",MTV FULLHD
+http://4f.rs:80/57885776/76322283/209032
+#EXTINF:-1 type="stream" tvg-id="MTV'S 00 FULLHD" tvg-logo="http://4f.rs:80/images/dbef82575a169e7b116e5b8e14a96239.png" group-title="CANAIS | MÚSICA",MTV'S 00 FULLHD
+http://4f.rs:80/57885776/76322283/209182
+#EXTINF:-1 type="stream" tvg-id="MTV'S 00 HD" tvg-logo="http://4f.rs:80/images/dbef82575a169e7b116e5b8e14a96239.png" group-title="CANAIS | MÚSICA",MTV'S 00 HD
+http://4f.rs:80/57885776/76322283/209183
+#EXTINF:-1 type="stream" tvg-id="MULTISHOW FULLHD" tvg-logo="http://4f.rs:80/images/73e880a4c53dedab42e4bcfc4419844a.png" group-title="CANAIS | VARIEDADES",MULTISHOW FULLHD
+http://4f.rs:80/57885776/76322283/298896
+#EXTINF:-1 type="stream" tvg-id="MULTISHOW FULLHD H265" tvg-logo="http://4f.rs:80/images/73e880a4c53dedab42e4bcfc4419844a.png" group-title="CANAIS | MÚSICA",MULTISHOW FULLHD H265
+http://4f.rs:80/57885776/76322283/1469274
+#EXTINF:-1 type="stream" tvg-id="MULTSHOW FULLHD" tvg-logo="http://4f.rs:80/images/73e880a4c53dedab42e4bcfc4419844a.png" group-title="CANAIS | VARIEDADES",MULTSHOW FULLHD
+http://4f.rs:80/57885776/76322283/209038
+#EXTINF:-1 type="stream" tvg-id="MULTSHOW FULLHD H265" tvg-logo="http://4f.rs:80/images/f426750b787c3dff262e73d321130cb5.png" group-title="CANAIS | VARIEDADES",MULTSHOW FULLHD H265
+http://4f.rs:80/57885776/76322283/1482625
+#EXTINF:-1 type="stream" tvg-id="MULTSHOW HD" tvg-logo="http://4f.rs:80/images/73e880a4c53dedab42e4bcfc4419844a.png" group-title="CANAIS | VARIEDADES",MULTSHOW HD
+http://4f.rs:80/57885776/76322283/209039
+#EXTINF:-1 type="stream" tvg-id="MULTSHOW HD" tvg-logo="http://4f.rs:80/images/73e880a4c53dedab42e4bcfc4419844a.png" group-title="CANAIS | VARIEDADES",MULTSHOW HD
+http://4f.rs:80/57885776/76322283/100771
+#EXTINF:-1 type="stream" tvg-id="MULTSHOW SD" tvg-logo="http://4f.rs:80/images/73e880a4c53dedab42e4bcfc4419844a.png" group-title="CANAIS | VARIEDADES",MULTSHOW SD
+http://4f.rs:80/57885776/76322283/209040
+#EXTINF:-1 type="stream" tvg-id="MUSIC BOX BRAZIL FULLHD" tvg-logo="http://4f.rs:80/images/42d27d7ef3cfbd53e1ad1f457833764b.png" group-title="CANAIS | MÚSICA",MUSIC BOX BRAZIL FULLHD
+http://4f.rs:80/57885776/76322283/209194
+#EXTINF:-1 type="stream" tvg-id="MUSIC BOX BRAZIL HD" tvg-logo="http://4f.rs:80/images/42d27d7ef3cfbd53e1ad1f457833764b.png" group-title="CANAIS | MÚSICA",MUSIC BOX BRAZIL HD
+http://4f.rs:80/57885776/76322283/209195
+#EXTINF:-1 type="stream" tvg-id="MUSIC BOX BRAZIL SD" tvg-logo="http://4f.rs:80/images/42d27d7ef3cfbd53e1ad1f457833764b.png" group-title="CANAIS | MÚSICA",MUSIC BOX BRAZIL SD
+http://4f.rs:80/57885776/76322283/209196
+#EXTINF:-1 type="stream" tvg-id="MUSIC BOX FULLHD H265" tvg-logo="http://4f.rs:80/images/42d27d7ef3cfbd53e1ad1f457833764b.png" group-title="CANAIS | MÚSICA",MUSIC BOX FULLHD H265
+http://4f.rs:80/57885776/76322283/1469275
+#EXTINF:-1 type="stream" tvg-id="MUSICA AFRO" tvg-logo="http://4f.rs:80/images/ced415848ae7c7d9de98b9f69e8a5e22.png" group-title="CANAIS | PORTUGAL",MUSICA AFRO
+http://4f.rs:80/57885776/76322283/1521420
+#EXTINF:-1 type="stream" tvg-id="NATGEO 4K" tvg-logo="http://4f.rs:80/images/811490be9d9219802162d6d00819b607.png" group-title="CANAIS | 4K",NATGEO 4K
+http://4f.rs:80/57885776/76322283/1465940
+#EXTINF:-1 type="stream" tvg-id="NATGEO FULLHD" tvg-logo="http://4f.rs:80/images/05e3829585323df030f94d74c27c0b55.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO FULLHD
+http://4f.rs:80/57885776/76322283/209047
+#EXTINF:-1 type="stream" tvg-id="NATGEO FULLHD H265" tvg-logo="http://4f.rs:80/images/05e3829585323df030f94d74c27c0b55.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO FULLHD H265
+http://4f.rs:80/57885776/76322283/1469302
+#EXTINF:-1 type="stream" tvg-id="NATGEO HD" tvg-logo="http://4f.rs:80/images/05e3829585323df030f94d74c27c0b55.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO HD
+http://4f.rs:80/57885776/76322283/209048
+#EXTINF:-1 type="stream" tvg-id="NATGEO HD" tvg-logo="http://4f.rs:80/images/05e3829585323df030f94d74c27c0b55.png" group-title="CANAIS | PORTUGAL",NATGEO HD
+http://4f.rs:80/57885776/76322283/1521401
+#EXTINF:-1 type="stream" tvg-id="NATGEO SD" tvg-logo="http://4f.rs:80/images/05e3829585323df030f94d74c27c0b55.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO SD
+http://4f.rs:80/57885776/76322283/209049
+#EXTINF:-1 type="stream" tvg-id="NBA 1 4K" tvg-logo="http://4f.rs:80/images/f21a022980bb74fa5761e100f8cf90ad.png" group-title="CANAIS | 4K",NBA 1 4K
+http://4f.rs:80/57885776/76322283/1464343
+#EXTINF:-1 type="stream" tvg-id="NBA HD" tvg-logo="http://4f.rs:80/images/f21a022980bb74fa5761e100f8cf90ad.png" group-title="CANAIS | ESPORTES ESPECIAIS",NBA HD
+http://4f.rs:80/57885776/76322283/1482777
+#EXTINF:-1 type="stream" tvg-id="NBA HD" tvg-logo="http://4f.rs:80/images/f21a022980bb74fa5761e100f8cf90ad.png" group-title="CANAIS | NBA",NBA HD
+http://4f.rs:80/57885776/76322283/1484271
+#EXTINF:-1 type="stream" tvg-id="NBA HD" tvg-logo="http://4f.rs:80/images/1928e4062b866cf2f56ef271ce41c662.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",NBA HD
+http://4f.rs:80/57885776/76322283/1519182
+#EXTINF:-1 type="stream" tvg-id="NBA LEAGUE PASS 01" tvg-logo="http://4f.rs:80/images/49a1e4e17d2511e9c5d5f9504244561c.png" group-title="CANAIS | NBA",NBA LEAGUE PASS 01
+http://4f.rs:80/57885776/76322283/1499977
+#EXTINF:-1 type="stream" tvg-id="NBA LEAGUE PASS 02" tvg-logo="http://4f.rs:80/images/bdc844c9b9ee2b996d70ec6abbf40862.png" group-title="CANAIS | NBA",NBA LEAGUE PASS 02
+http://4f.rs:80/57885776/76322283/1499978
+#EXTINF:-1 type="stream" tvg-id="NBA LEAGUE PASS 03" tvg-logo="http://4f.rs:80/images/0c9b82eb1402d90bde13f400fa2d934f.png" group-title="CANAIS | NBA",NBA LEAGUE PASS 03
+http://4f.rs:80/57885776/76322283/1499979
+#EXTINF:-1 type="stream" tvg-id="NBA LEAGUE PASS 04" tvg-logo="http://4f.rs:80/images/17d446c64e83444caf9b2dea207d9582.png" group-title="CANAIS | NBA",NBA LEAGUE PASS 04
+http://4f.rs:80/57885776/76322283/1499980
+#EXTINF:-1 type="stream" tvg-id="NBA LEAGUE PASS 05" tvg-logo="http://4f.rs:80/images/13b145345537847f8a04a355aea2b73c.png" group-title="CANAIS | NBA",NBA LEAGUE PASS 05
+http://4f.rs:80/57885776/76322283/1499981
+#EXTINF:-1 type="stream" tvg-id="NBA LEAGUE PASS 06" tvg-logo="http://4f.rs:80/images/6639775f9a15b4ebe34ea54507244207.png" group-title="CANAIS | NBA",NBA LEAGUE PASS 06
+http://4f.rs:80/57885776/76322283/1499982
+#EXTINF:-1 type="stream" tvg-id="NBA LEAGUE PASS 07" tvg-logo="http://4f.rs:80/images/628e41d40c56c546f5d71718298ffb80.png" group-title="CANAIS | NBA",NBA LEAGUE PASS 07
+http://4f.rs:80/57885776/76322283/1499983
+#EXTINF:-1 type="stream" tvg-id="NBA LEAGUE PASS 08" tvg-logo="http://4f.rs:80/images/3f2f4128c952fb3412c44d654d70ed8f.png" group-title="CANAIS | NBA",NBA LEAGUE PASS 08
+http://4f.rs:80/57885776/76322283/1499984
+#EXTINF:-1 type="stream" tvg-id="NBA LEAGUE PASS 09" tvg-logo="http://4f.rs:80/images/c31a1b1a764a1e8fd59e9bf33c6b63f2.png" group-title="CANAIS | NBA",NBA LEAGUE PASS 09
+http://4f.rs:80/57885776/76322283/1499985
+#EXTINF:-1 type="stream" tvg-id="NBA LEAGUE PASS 10" tvg-logo="http://4f.rs:80/images/67bbe015e8ff1c34340ca86f2792332d.png" group-title="CANAIS | NBA",NBA LEAGUE PASS 10
+http://4f.rs:80/57885776/76322283/1499986
+#EXTINF:-1 type="stream" tvg-id="NBA PASS LIVE 1 HD" tvg-logo="http://4f.rs:80/images/f21a022980bb74fa5761e100f8cf90ad.png" group-title="CANAIS | ESPORTES ESPECIAIS",NBA PASS LIVE 1 HD
+http://4f.rs:80/57885776/76322283/1482778
+#EXTINF:-1 type="stream" tvg-id="NBA PASS LIVE 1 HD" tvg-logo="http://4f.rs:80/images/c2fbbed055be89af326b7fd0c33902c4.png" group-title="CANAIS | NBA",NBA PASS LIVE 1 HD
+http://4f.rs:80/57885776/76322283/1485989
+#EXTINF:-1 type="stream" tvg-id="NBA TV HD" tvg-logo="http://4f.rs:80/images/d48771186e573905d9a86840a18b598c.png" group-title="CANAIS | PORTUGAL",NBA TV HD
+http://4f.rs:80/57885776/76322283/1521416
+#EXTINF:-1 type="stream" tvg-id="NBA: ATLANTA HAWKS" tvg-logo="" group-title="CANAIS | NBA",NBA: ATLANTA HAWKS
+http://4f.rs:80/57885776/76322283/1484241
+#EXTINF:-1 type="stream" tvg-id="NBA: BOSTON CELTICS" tvg-logo="" group-title="CANAIS | NBA",NBA: BOSTON CELTICS
+http://4f.rs:80/57885776/76322283/1484242
+#EXTINF:-1 type="stream" tvg-id="NBA: BROOKLYN NETS" tvg-logo="" group-title="CANAIS | NBA",NBA: BROOKLYN NETS
+http://4f.rs:80/57885776/76322283/1484243
+#EXTINF:-1 type="stream" tvg-id="NBA: CHARLOTTE HORNETS" tvg-logo="" group-title="CANAIS | NBA",NBA: CHARLOTTE HORNETS
+http://4f.rs:80/57885776/76322283/1484244
+#EXTINF:-1 type="stream" tvg-id="NBA: CHICAGO BULLS" tvg-logo="" group-title="CANAIS | NBA",NBA: CHICAGO BULLS
+http://4f.rs:80/57885776/76322283/1484245
+#EXTINF:-1 type="stream" tvg-id="NBA: CLEVELAND CAVALIERS" tvg-logo="" group-title="CANAIS | NBA",NBA: CLEVELAND CAVALIERS
+http://4f.rs:80/57885776/76322283/1484246
+#EXTINF:-1 type="stream" tvg-id="NBA: DALLAS MAVERICKS" tvg-logo="" group-title="CANAIS | NBA",NBA: DALLAS MAVERICKS
+http://4f.rs:80/57885776/76322283/1484247
+#EXTINF:-1 type="stream" tvg-id="NBA: DENVER NUGGETS" tvg-logo="" group-title="CANAIS | NBA",NBA: DENVER NUGGETS
+http://4f.rs:80/57885776/76322283/1484248
+#EXTINF:-1 type="stream" tvg-id="NBA: DETROIT PISTONS" tvg-logo="" group-title="CANAIS | NBA",NBA: DETROIT PISTONS
+http://4f.rs:80/57885776/76322283/1484249
+#EXTINF:-1 type="stream" tvg-id="NBA: GOLDEN STATE WARRIORS" tvg-logo="" group-title="CANAIS | NBA",NBA: GOLDEN STATE WARRIORS
+http://4f.rs:80/57885776/76322283/1484250
+#EXTINF:-1 type="stream" tvg-id="NFL HD" tvg-logo="http://4f.rs:80/images/7a4d2061c5c68d603d84b984b6e881ad.png" group-title="CANAIS | ESPORTES ESPECIAIS",NFL HD
+http://4f.rs:80/57885776/76322283/1482779
+#EXTINF:-1 type="stream" tvg-id="NHK HD (JAPONES)" tvg-logo="http://4f.rs:80/images/855aae3ecdce7f58d2d43e8151e58f33.png" group-title="CANAIS | NOTICIAS",NHK HD (JAPONES)
+http://4f.rs:80/57885776/76322283/412424
+#EXTINF:-1 type="stream" tvg-id="NHK JAPÃO  HD" tvg-logo="http://4f.rs:80/images/855aae3ecdce7f58d2d43e8151e58f33.png" group-title="CANAIS | NOTICIAS",NHK JAPÃO  HD
+http://4f.rs:80/57885776/76322283/99367
+#EXTINF:-1 type="stream" tvg-id="NICK JR" tvg-logo="http://4f.rs:80/images/aea5efd5b691a13e8c565384a3fab04f.png" group-title="CANAIS | PORTUGAL",NICK JR
+http://4f.rs:80/57885776/76322283/1521428
+#EXTINF:-1 type="stream" tvg-id="NICK JR FULLHD" tvg-logo="http://4f.rs:80/images/5a51ee96974e83088c82beaf4fc50cc2.png" group-title="CANAIS | INFANTIS",NICK JR FULLHD
+http://4f.rs:80/57885776/76322283/209050
+#EXTINF:-1 type="stream" tvg-id="NICK JR FULLHD H265" tvg-logo="http://4f.rs:80/images/aea5efd5b691a13e8c565384a3fab04f.png" group-title="CANAIS | INFANTIS",NICK JR FULLHD H265
+http://4f.rs:80/57885776/76322283/1469265
+#EXTINF:-1 type="stream" tvg-id="NICK JR HD" tvg-logo="http://4f.rs:80/images/5a51ee96974e83088c82beaf4fc50cc2.png" group-title="CANAIS | INFANTIS",NICK JR HD
+http://4f.rs:80/57885776/76322283/209051
+#EXTINF:-1 type="stream" tvg-id="NICK JR SD" tvg-logo="http://4f.rs:80/images/5a51ee96974e83088c82beaf4fc50cc2.png" group-title="CANAIS | INFANTIS",NICK JR SD
+http://4f.rs:80/57885776/76322283/209052
+#EXTINF:-1 type="stream" tvg-id="NICKELODEON" tvg-logo="http://4f.rs:80/images/75817c6e9a5dbd9f4352ef0e7e3910dc.png" group-title="CANAIS | PORTUGAL",NICKELODEON
+http://4f.rs:80/57885776/76322283/1521427
+#EXTINF:-1 type="stream" tvg-id="NICKELODEON FULLHD" tvg-logo="http://4f.rs:80/images/961e570238956b16bc338bffbba89d4d.png" group-title="CANAIS | INFANTIS",NICKELODEON FULLHD
+http://4f.rs:80/57885776/76322283/209053
+#EXTINF:-1 type="stream" tvg-id="NICKELODEON FULLHD H265" tvg-logo="http://4f.rs:80/images/bd7951336bf46be1ebc05d39b3cd6de2.png" group-title="CANAIS | INFANTIS",NICKELODEON FULLHD H265
+http://4f.rs:80/57885776/76322283/1482624
+#EXTINF:-1 type="stream" tvg-id="NICKELODEON HD" tvg-logo="http://4f.rs:80/images/961e570238956b16bc338bffbba89d4d.png" group-title="CANAIS | INFANTIS",NICKELODEON HD
+http://4f.rs:80/57885776/76322283/209054
+#EXTINF:-1 type="stream" tvg-id="NICKELODEON SD" tvg-logo="http://4f.rs:80/images/961e570238956b16bc338bffbba89d4d.png" group-title="CANAIS | INFANTIS",NICKELODEON SD
+http://4f.rs:80/57885776/76322283/209055
+#EXTINF:-1 type="stream" tvg-id="NOS STUDIOS HD" tvg-logo="http://4f.rs:80/images/a1d57cfc7761ac81121a1639a0eb5c6a.png" group-title="CANAIS | PORTUGAL",NOS STUDIOS HD
+http://4f.rs:80/57885776/76322283/1521393
+#EXTINF:-1 type="stream" tvg-id="ODESSEIA" tvg-logo="http://4f.rs:80/images/c7204f7d1abb300c9843982b103fa50f.png" group-title="CANAIS | PORTUGAL",ODESSEIA
+http://4f.rs:80/57885776/76322283/1521373
+#EXTINF:-1 type="stream" tvg-id="OFF FULLHD" tvg-logo="http://4f.rs:80/images/8366d7cd24810b670b04c34f4abd3a77.png" group-title="CANAIS | ESPORTES",OFF FULLHD
+http://4f.rs:80/57885776/76322283/209056
+#EXTINF:-1 type="stream" tvg-id="OFF FULLHD H265" tvg-logo="]https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES",OFF FULLHD H265
+http://4f.rs:80/57885776/76322283/1469282
+#EXTINF:-1 type="stream" tvg-id="OFF HD" tvg-logo="http://4f.rs:80/images/8366d7cd24810b670b04c34f4abd3a77.png" group-title="CANAIS | ESPORTES",OFF HD
+http://4f.rs:80/57885776/76322283/209057
+#EXTINF:-1 type="stream" tvg-id="OFF SD" tvg-logo="http://4f.rs:80/images/8366d7cd24810b670b04c34f4abd3a77.png" group-title="CANAIS | ESPORTES",OFF SD
+http://4f.rs:80/57885776/76322283/209058
+#EXTINF:-1 type="stream" tvg-id="ONEFOOTBALL" tvg-logo="http://4f.rs:80/images/4092dc29ac0f0259befc18992ec1c090.png" group-title="CANAIS | ESPORTES ESPECIAIS",ONEFOOTBALL
+http://4f.rs:80/57885776/76322283/1471979
+#EXTINF:-1 type="stream" tvg-id="PAGODE" tvg-logo="http://imagensemoldes.com.br/wp-content/uploads/2020/03/Ilustra%C3%A7%C3%A3o-de-M%C3%BAsica-PNG.png" group-title="CANAIS | MÚSICA",PAGODE
+http://4f.rs:80/57885776/76322283/428910
+#EXTINF:-1 type="stream" tvg-id="PAI ETERNO HD" tvg-logo="http://4f.rs:80/images/5bb36419c1f4e0dd2df0e3ab74feb07b.png" group-title="CANAIS | RELIGIOSOS",PAI ETERNO HD
+http://4f.rs:80/57885776/76322283/209060
+#EXTINF:-1 type="stream" tvg-id="PARAMOUNT CHANNEL FULLHD H265" tvg-logo="http://4f.rs:80/images/b74733877b917a68660fe90cfd3b3a4a.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT CHANNEL FULLHD H265
+http://4f.rs:80/57885776/76322283/1469316
+#EXTINF:-1 type="stream" tvg-id="PARAMOUNT NETWORK FULLHD" tvg-logo="http://4f.rs:80/images/b74733877b917a68660fe90cfd3b3a4a.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT NETWORK FULLHD
+http://4f.rs:80/57885776/76322283/209062
+#EXTINF:-1 type="stream" tvg-id="PARAMOUNT NETWORK HD" tvg-logo="http://4f.rs:80/images/b74733877b917a68660fe90cfd3b3a4a.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT NETWORK HD
+http://4f.rs:80/57885776/76322283/209063
+#EXTINF:-1 type="stream" tvg-id="PARAMOUNT NETWORK SD" tvg-logo="http://i.ibb.co/rx9nkBy/paramountok.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT NETWORK SD
+http://4f.rs:80/57885776/76322283/209064
+#EXTINF:-1 type="stream" tvg-id="PFC" tvg-logo="http://4f.rs:80/images/0b5c6a0c964088afd956e5713aae8325.png" group-title="CANAIS | PORTUGAL",PFC
+http://4f.rs:80/57885776/76322283/1521415
+#EXTINF:-1 type="stream" tvg-id="PLAY KIDS" tvg-logo="http://4f.rs:80/images/c5bfb08e160d78f4b5b575fa75b4c7c0.png" group-title="CANAIS | INFANTIS",PLAY KIDS
+http://4f.rs:80/57885776/76322283/1482782
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 1 4K" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | 4K",PREMIERE 1 4K
+http://4f.rs:80/57885776/76322283/1464344
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 1 CLUBES FULLHD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FULLHD
+http://4f.rs:80/57885776/76322283/209086
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 1 CLUBES FULLHD H265" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FULLHD H265
+http://4f.rs:80/57885776/76322283/1469289
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 1 CLUBES HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES HD
+http://4f.rs:80/57885776/76322283/209087
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 1 CLUBES SD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES SD
+http://4f.rs:80/57885776/76322283/209088
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 2 FULLHD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FULLHD
+http://4f.rs:80/57885776/76322283/209068
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 2 FULLHD H265" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469288
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 2 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
+http://4f.rs:80/57885776/76322283/209069
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 2 SD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
+http://4f.rs:80/57885776/76322283/209070
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 3 FULLHD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FULLHD
+http://4f.rs:80/57885776/76322283/209071
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 3 FULLHD H265" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469286
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 3 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
+http://4f.rs:80/57885776/76322283/209072
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 3 SD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
+http://4f.rs:80/57885776/76322283/209073
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 4 FULLHD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FULLHD
+http://4f.rs:80/57885776/76322283/209074
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 4 FULLHD H265" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469287
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 4 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
+http://4f.rs:80/57885776/76322283/209075
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 4 SD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
+http://4f.rs:80/57885776/76322283/209076
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 5 4K" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | 4K",PREMIERE 5 4K
+http://4f.rs:80/57885776/76322283/1465269
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 5 FULLHD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FULLHD
+http://4f.rs:80/57885776/76322283/209077
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 5 FULLHD H265" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469285
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 5 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
+http://4f.rs:80/57885776/76322283/209078
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 5 SD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
+http://4f.rs:80/57885776/76322283/209079
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 6 FULLHD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FULLHD
+http://4f.rs:80/57885776/76322283/209080
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 6 FULLHD H265" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469284
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 6 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
+http://4f.rs:80/57885776/76322283/209081
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 6 SD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
+http://4f.rs:80/57885776/76322283/209082
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 7 FULLHD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FULLHD
+http://4f.rs:80/57885776/76322283/209083
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 7 FULLHD H265" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469283
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 7 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
+http://4f.rs:80/57885776/76322283/209084
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 7 SD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
+http://4f.rs:80/57885776/76322283/209085
+#EXTINF:-1 type="stream" tvg-id="PREMIERE 8" tvg-logo="" group-title="CANAIS | PREMIERE",PREMIERE 8
+http://4f.rs:80/57885776/76322283/1499927
+#EXTINF:-1 type="stream" tvg-id="PRIME BOX BRASIL FULLHD" tvg-logo="http://4f.rs:80/images/115a70ec5837f3ecfec1f9799060d480.png" group-title="CANAIS | MÚSICA",PRIME BOX BRASIL FULLHD
+http://4f.rs:80/57885776/76322283/209089
+#EXTINF:-1 type="stream" tvg-id="PRIME BOX BRASIL HD" tvg-logo="http://4f.rs:80/images/115a70ec5837f3ecfec1f9799060d480.png" group-title="CANAIS | MÚSICA",PRIME BOX BRASIL HD
+http://4f.rs:80/57885776/76322283/209090
+#EXTINF:-1 type="stream" tvg-id="PRIME BOX BRASIL SD" tvg-logo="http://4f.rs:80/images/115a70ec5837f3ecfec1f9799060d480.png" group-title="CANAIS | MÚSICA",PRIME BOX BRASIL SD
+http://4f.rs:80/57885776/76322283/209091
+#EXTINF:-1 type="stream" tvg-id="PRIME VIDEO 01 HD¹" tvg-logo="http://logodownload.org/wp-content/uploads/2018/07/prime-video-1.png" group-title="CANAIS | ESPORTES ESPECIAIS",PRIME VIDEO 01 HD¹
+http://4f.rs:80/57885776/76322283/1189799
+#EXTINF:-1 type="stream" tvg-id="PRIME VIDEO 02 HD¹" tvg-logo="http://logodownload.org/wp-content/uploads/2018/07/prime-video-1.png" group-title="CANAIS | ESPORTES ESPECIAIS",PRIME VIDEO 02 HD¹
+http://4f.rs:80/57885776/76322283/1189802
+#EXTINF:-1 type="stream" tvg-id="PRIME VIDEO 03 HD" tvg-logo="http://logodownload.org/wp-content/uploads/2018/07/prime-video-1.png" group-title="CANAIS | ESPORTES ESPECIAIS",PRIME VIDEO 03 HD
+http://4f.rs:80/57885776/76322283/1189803
+#EXTINF:-1 type="stream" tvg-id="PT: CACA E PESCA" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: CACA E PESCA
+http://4f.rs:80/57885776/76322283/1472359
+#EXTINF:-1 type="stream" tvg-id="PT: CACAVISION" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: CACAVISION
+http://4f.rs:80/57885776/76322283/1472360
+#EXTINF:-1 type="stream" tvg-id="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: ELEVEN SPORTS 1
+http://4f.rs:80/57885776/76322283/1472378
+#EXTINF:-1 type="stream" tvg-id="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: ELEVEN SPORTS 2
+http://4f.rs:80/57885776/76322283/1472379
+#EXTINF:-1 type="stream" tvg-id="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: ELEVEN SPORTS 3
+http://4f.rs:80/57885776/76322283/1472380
+#EXTINF:-1 type="stream" tvg-id="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: ELEVEN SPORTS 4
+http://4f.rs:80/57885776/76322283/1472381
+#EXTINF:-1 type="stream" tvg-id="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: ELEVEN SPORTS 5
+http://4f.rs:80/57885776/76322283/1472382
+#EXTINF:-1 type="stream" tvg-id="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: ELEVEN SPORTS 6
+http://4f.rs:80/57885776/76322283/1472383
+#EXTINF:-1 type="stream" tvg-id="PT: EUROSPORT 1" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: EUROSPORT 1
+http://4f.rs:80/57885776/76322283/1472385
+#EXTINF:-1 type="stream" tvg-id="PT: EUROSPORT 2" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: EUROSPORT 2
+http://4f.rs:80/57885776/76322283/1472386
+#EXTINF:-1 type="stream" tvg-id="PT: SPORT TV" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: SPORT TV
+http://4f.rs:80/57885776/76322283/1472437
+#EXTINF:-1 type="stream" tvg-id="PT: SPORT TV +" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: SPORT TV +
+http://4f.rs:80/57885776/76322283/1472438
+#EXTINF:-1 type="stream" tvg-id="PT: SPORT TV 2" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: SPORT TV 2
+http://4f.rs:80/57885776/76322283/1472439
+#EXTINF:-1 type="stream" tvg-id="PT: SPORT TV 3" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: SPORT TV 3
+http://4f.rs:80/57885776/76322283/1472440
+#EXTINF:-1 type="stream" tvg-id="PT: SPORT TV 4" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: SPORT TV 4
+http://4f.rs:80/57885776/76322283/1472441
+#EXTINF:-1 type="stream" tvg-id="PT: SPORT TV 5" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: SPORT TV 5
+http://4f.rs:80/57885776/76322283/1472442
+#EXTINF:-1 type="stream" tvg-id="PT: SPORT TV 6" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: SPORT TV 6
+http://4f.rs:80/57885776/76322283/1472443
+#EXTINF:-1 type="stream" tvg-id="PT: SPORT TV NBA" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: SPORT TV NBA
+http://4f.rs:80/57885776/76322283/1472444
+#EXTINF:-1 type="stream" tvg-id="PT: SPORTING TV" tvg-logo="" group-title="CANAIS | ESPORTES INTERNACIONAIS",PT: SPORTING TV
+http://4f.rs:80/57885776/76322283/1472445
+#EXTINF:-1 type="stream" tvg-id="PT: TRACE TOCA" tvg-logo="http://4f.rs:80/images/5cbf27db8b2651005a2653383ffe3887.png" group-title="CANAIS | TRACE",PT: TRACE TOCA
+http://4f.rs:80/57885776/76322283/1472452
+#EXTINF:-1 type="stream" tvg-id="PT: TRACE URBAN" tvg-logo="http://4f.rs:80/images/91bc71cd0a33d7c7a9e59e26f643080e.png" group-title="CANAIS | TRACE",PT: TRACE URBAN
+http://4f.rs:80/57885776/76322283/1472453
+#EXTINF:-1 type="stream" tvg-id="Radio Vitória 87.9 FM Contagem / MG - Brasil" tvg-logo="http://4f.rs:80/images/e5385ac7e37c051d0035c4cb738e0f85.jpg" group-title="CANAIS | RADIOS",Radio Vitória 87.9 FM Contagem / MG - Brasil
+http://4f.rs:80/57885776/76322283/282277
+#EXTINF:-1 type="stream" tvg-id="RAI HD" tvg-logo="http://4f.rs:80/images/8202536e719ba37da102f07f5d0de493.png" group-title="CANAIS | NOTICIAS",RAI HD
+http://4f.rs:80/57885776/76322283/375455
+#EXTINF:-1 type="stream" tvg-id="RAI SPORTS ITALIA HD" tvg-logo="http://4f.rs:80/images/5aacb03ca4937287eb6486aa68410404.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",RAI SPORTS ITALIA HD
+http://4f.rs:80/57885776/76322283/1519271
+#EXTINF:-1 type="stream" tvg-id="RAP" tvg-logo="http://imagensemoldes.com.br/wp-content/uploads/2020/03/Ilustra%C3%A7%C3%A3o-de-M%C3%BAsica-PNG.png" group-title="CANAIS | MÚSICA",RAP
+http://4f.rs:80/57885776/76322283/428907
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS ARENA HD" tvg-logo="http://4f.rs:80/images/3ccb48ae187d586166fd49452d5d8637.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS ARENA HD
+http://4f.rs:80/57885776/76322283/1519213
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS F1 HD" tvg-logo="http://4f.rs:80/images/ebf848ab235b77e3917a5423ecb8b70d.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS F1 HD
+http://4f.rs:80/57885776/76322283/1519211
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS F1 SD" tvg-logo="http://4f.rs:80/images/ebf848ab235b77e3917a5423ecb8b70d.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS F1 SD
+http://4f.rs:80/57885776/76322283/1519212
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS FOOTBALL SD" tvg-logo="http://4f.rs:80/images/108028858b0216e0c8a4ba68b0592790.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS FOOTBALL SD
+http://4f.rs:80/57885776/76322283/1519216
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS GOLF HD" tvg-logo="http://4f.rs:80/images/47b571a7d0c44b0b3016ae9a34ef3700.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS GOLF HD
+http://4f.rs:80/57885776/76322283/1519206
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS MAIN EVENT UK HD" tvg-logo="http://4f.rs:80/images/d3e3181d0c26bfcd94d84f54ad1504bc.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS MAIN EVENT UK HD
+http://4f.rs:80/57885776/76322283/1519204
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS MIX UK HD" tvg-logo="http://4f.rs:80/images/96418cf33b6a303119fd69c436a5f278.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS MIX UK HD
+http://4f.rs:80/57885776/76322283/1519207
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS NEWS UK HD" tvg-logo="http://4f.rs:80/images/4960b283708266d22d5506349849106a.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS NEWS UK HD
+http://4f.rs:80/57885776/76322283/1519203
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS NFL UK FULL HD" tvg-logo="http://4f.rs:80/images/66e20c7a033ff764b52529100deeaa5e.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS NFL UK FULL HD
+http://4f.rs:80/57885776/76322283/1519208
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS NFL UK HD" tvg-logo="http://4f.rs:80/images/66e20c7a033ff764b52529100deeaa5e.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS NFL UK HD
+http://4f.rs:80/57885776/76322283/1519209
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS NFL UK SD" tvg-logo="http://4f.rs:80/images/66e20c7a033ff764b52529100deeaa5e.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS NFL UK SD
+http://4f.rs:80/57885776/76322283/1519210
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS PREMIERE LEAGUE HD" tvg-logo="http://4f.rs:80/images/5934e510aed4e24602624157ee4701fb.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS PREMIERE LEAGUE HD
+http://4f.rs:80/57885776/76322283/1519205
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS RACING" tvg-logo="http://4f.rs:80/images/040b4ff95955bba835d0c3ed9f0eab37.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS RACING
+http://4f.rs:80/57885776/76322283/1519215
+#EXTINF:-1 type="stream" tvg-id="SKY SPORTS RACING HD" tvg-logo="http://4f.rs:80/images/040b4ff95955bba835d0c3ed9f0eab37.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKY SPORTS RACING HD
+http://4f.rs:80/57885776/76322283/1519214
+#EXTINF:-1 type="stream" tvg-id="SKYSPORTS F1 HD" tvg-logo="http://4f.rs:80/images/89f577cef44a948eab7fa10669ce7e66.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SKYSPORTS F1 HD
+http://4f.rs:80/57885776/76322283/1519264
+#EXTINF:-1 type="stream" tvg-id="SMITHSONIAN CHANNEL FULLHD" tvg-logo="http://4f.rs:80/images/b222af5970a501dc8caf9778e4c5d669.png" group-title="CANAIS | DOCUMENTARIOS",SMITHSONIAN CHANNEL FULLHD
+http://4f.rs:80/57885776/76322283/209098
+#EXTINF:-1 type="stream" tvg-id="SMITHSONIAN CHANNEL HD" tvg-logo="http://4f.rs:80/images/b222af5970a501dc8caf9778e4c5d669.png" group-title="CANAIS | DOCUMENTARIOS",SMITHSONIAN CHANNEL HD
+http://4f.rs:80/57885776/76322283/209099
+#EXTINF:-1 type="stream" tvg-id="SMITHSONIAN CHANNEL  SD" tvg-logo="http://4f.rs:80/images/b222af5970a501dc8caf9778e4c5d669.png" group-title="CANAIS | DOCUMENTARIOS",SMITHSONIAN CHANNEL  SD
+http://4f.rs:80/57885776/76322283/209100
+#EXTINF:-1 type="stream" tvg-id="SMITHSONIAN FULLHD H265" tvg-logo="http://4f.rs:80/images/b222af5970a501dc8caf9778e4c5d669.png" group-title="CANAIS | DOCUMENTARIOS",SMITHSONIAN FULLHD H265
+http://4f.rs:80/57885776/76322283/1469301
+#EXTINF:-1 type="stream" tvg-id="SONY CHANNEL FULLHD" tvg-logo="http://4f.rs:80/images/a5372f4d6183c78bd42e4f6855ea96e8.png" group-title="CANAIS | FILMES E SERIES",SONY CHANNEL FULLHD
+http://4f.rs:80/57885776/76322283/208885
+#EXTINF:-1 type="stream" tvg-id="SONY CHANNEL HD" tvg-logo="http://4f.rs:80/images/a5372f4d6183c78bd42e4f6855ea96e8.png" group-title="CANAIS | FILMES E SERIES",SONY CHANNEL HD
+http://4f.rs:80/57885776/76322283/208886
+#EXTINF:-1 type="stream" tvg-id="SONY CHANNEL SD" tvg-logo="http://4f.rs:80/images/a5372f4d6183c78bd42e4f6855ea96e8.png" group-title="CANAIS | FILMES E SERIES",SONY CHANNEL SD
+http://4f.rs:80/57885776/76322283/208887
+#EXTINF:-1 type="stream" tvg-id="SOULCINE (LEG)" tvg-logo="http://4f.rs:80/images/1e7bb90db77567262ff4281d44787b40.png" group-title="CANAIS | FILMES ESPECIAIS",SOULCINE (LEG)
+http://4f.rs:80/57885776/76322283/1490353
+#EXTINF:-1 type="stream" tvg-id="SPACE FULLHD" tvg-logo="http://4f.rs:80/images/02c7358204ca6249be76bfaed3ab67de.png" group-title="CANAIS | FILMES E SERIES",SPACE FULLHD
+http://4f.rs:80/57885776/76322283/209101
+#EXTINF:-1 type="stream" tvg-id="SPACE FULLHD H265" tvg-logo="http://4f.rs:80/images/02c7358204ca6249be76bfaed3ab67de.png" group-title="CANAIS | FILMES E SERIES",SPACE FULLHD H265
+http://4f.rs:80/57885776/76322283/1469338
+#EXTINF:-1 type="stream" tvg-id="SPACE HD" tvg-logo="http://4f.rs:80/images/02c7358204ca6249be76bfaed3ab67de.png" group-title="CANAIS | FILMES E SERIES",SPACE HD
+http://4f.rs:80/57885776/76322283/209102
+#EXTINF:-1 type="stream" tvg-id="SPACE SD" tvg-logo="http://4f.rs:80/images/02c7358204ca6249be76bfaed3ab67de.png" group-title="CANAIS | FILMES E SERIES",SPACE SD
+http://4f.rs:80/57885776/76322283/209103
+#EXTINF:-1 type="stream" tvg-id="SPORT TV 2 4K" tvg-logo="http://4f.rs:80/images/a036aee84bdacd206827ab41ebaf9c7b.png" group-title="CANAIS | 4K",SPORT TV 2 4K
+http://4f.rs:80/57885776/76322283/1464341
+#EXTINF:-1 type="stream" tvg-id="SPORTING TV" tvg-logo="http://4f.rs:80/images/9204988980603f66f768b71e9b21f1d5.png" group-title="CANAIS | PORTUGAL",SPORTING TV
+http://4f.rs:80/57885776/76322283/1521413
+#EXTINF:-1 type="stream" tvg-id="SPORTV 1 FULLHD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 1 FULLHD
+http://4f.rs:80/57885776/76322283/217303
+#EXTINF:-1 type="stream" tvg-id="SPORTV 1 FULLHD H265" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 1 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469298
+#EXTINF:-1 type="stream" tvg-id="SPORTV 1 HD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 1 HD
+http://4f.rs:80/57885776/76322283/209111
+#EXTINF:-1 type="stream" tvg-id="SPORTV 1 HD" tvg-logo="http://4f.rs:80/images/9df29f5db0f5ac08ccefbd4b3c96a75e.png" group-title="CANAIS | PORTUGAL",SPORTV 1 HD
+http://4f.rs:80/57885776/76322283/1521402
+#EXTINF:-1 type="stream" tvg-id="SPORTV 1 HD PORTUGAL" tvg-logo="http://4f.rs:80/images/dfaa8351f58a3130fc817c04f8bc85d7.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SPORTV 1 HD PORTUGAL
+http://4f.rs:80/57885776/76322283/1519272
+#EXTINF:-1 type="stream" tvg-id="SPORTV 1 SD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 1 SD
+http://4f.rs:80/57885776/76322283/209112
+#EXTINF:-1 type="stream" tvg-id="SPORTV 2 FULLHD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 2 FULLHD
+http://4f.rs:80/57885776/76322283/209104
+#EXTINF:-1 type="stream" tvg-id="SPORTV 2 FULLHD H265" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 2 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469297
+#EXTINF:-1 type="stream" tvg-id="SPORTV 2 HD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
+http://4f.rs:80/57885776/76322283/209105
+#EXTINF:-1 type="stream" tvg-id="SPORTV 2 HD" tvg-logo="http://4f.rs:80/images/9df29f5db0f5ac08ccefbd4b3c96a75e.png" group-title="CANAIS | PORTUGAL",SPORTV 2 HD
+http://4f.rs:80/57885776/76322283/1521403
+#EXTINF:-1 type="stream" tvg-id="SPORTV 2 HD PORTUGAL" tvg-logo="http://4f.rs:80/images/dfaa8351f58a3130fc817c04f8bc85d7.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SPORTV 2 HD PORTUGAL
+http://4f.rs:80/57885776/76322283/1519273
+#EXTINF:-1 type="stream" tvg-id="SPORTV 2 SD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
+http://4f.rs:80/57885776/76322283/209106
+#EXTINF:-1 type="stream" tvg-id="SPORTV 3 FULLHD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 3 FULLHD
+http://4f.rs:80/57885776/76322283/209107
+#EXTINF:-1 type="stream" tvg-id="SPORTV 3 FULLHD H265" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 3 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469296
+#EXTINF:-1 type="stream" tvg-id="SPORTV 3 HD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
+http://4f.rs:80/57885776/76322283/209108
+#EXTINF:-1 type="stream" tvg-id="SPORTV 3 HD" tvg-logo="http://4f.rs:80/images/9fa066e010e8964517fc582dac2d0b22.png" group-title="CANAIS | PORTUGAL",SPORTV 3 HD
+http://4f.rs:80/57885776/76322283/1521404
+#EXTINF:-1 type="stream" tvg-id="SPORTV 3 SD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
+http://4f.rs:80/57885776/76322283/209109
+#EXTINF:-1 type="stream" tvg-id="SPORTV 4 HD" tvg-logo="http://4f.rs:80/images/9df29f5db0f5ac08ccefbd4b3c96a75e.png" group-title="CANAIS | PORTUGAL",SPORTV 4 HD
+http://4f.rs:80/57885776/76322283/1521405
+#EXTINF:-1 type="stream" tvg-id="SPORTV 4K" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | 4K",SPORTV 4K
+http://4f.rs:80/57885776/76322283/1464332
+#EXTINF:-1 type="stream" tvg-id="SPORTV 5 HD" tvg-logo="http://4f.rs:80/images/8a35f29a952ddb03cd0b6eca975d48bc.png" group-title="CANAIS | PORTUGAL",SPORTV 5 HD
+http://4f.rs:80/57885776/76322283/1521406
+#EXTINF:-1 type="stream" tvg-id="SPORTV 6 HD" tvg-logo="http://4f.rs:80/images/57535e376ba8db4796ba74d41d04181e.png" group-title="CANAIS | PORTUGAL",SPORTV 6 HD
+http://4f.rs:80/57885776/76322283/1521407
+#EXTINF:-1 type="stream" tvg-id="SPORTV PLUS" tvg-logo="http://4f.rs:80/images/9df29f5db0f5ac08ccefbd4b3c96a75e.png" group-title="CANAIS | PORTUGAL",SPORTV PLUS
+http://4f.rs:80/57885776/76322283/1521408
+#EXTINF:-1 type="stream" tvg-id="SSC 01 HD" tvg-logo="http://4f.rs:80/images/dae9fc0d5369030cb4fd3ba03046014a.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SSC 01 HD
+http://4f.rs:80/57885776/76322283/1519194
+#EXTINF:-1 type="stream" tvg-id="SSC 02 HD" tvg-logo="http://4f.rs:80/images/dae9fc0d5369030cb4fd3ba03046014a.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SSC 02 HD
+http://4f.rs:80/57885776/76322283/1519195
+#EXTINF:-1 type="stream" tvg-id="SSC 03 HD" tvg-logo="http://4f.rs:80/images/dae9fc0d5369030cb4fd3ba03046014a.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SSC 03 HD
+http://4f.rs:80/57885776/76322283/1519196
+#EXTINF:-1 type="stream" tvg-id="SSC 04 HD" tvg-logo="http://4f.rs:80/images/dae9fc0d5369030cb4fd3ba03046014a.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SSC 04 HD
+http://4f.rs:80/57885776/76322283/1519197
+#EXTINF:-1 type="stream" tvg-id="SSC 05 HD" tvg-logo="http://4f.rs:80/images/dae9fc0d5369030cb4fd3ba03046014a.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SSC 05 HD
+http://4f.rs:80/57885776/76322283/1519198
+#EXTINF:-1 type="stream" tvg-id="SSC 06 HD" tvg-logo="http://4f.rs:80/images/dae9fc0d5369030cb4fd3ba03046014a.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SSC 06 HD
+http://4f.rs:80/57885776/76322283/1519199
+#EXTINF:-1 type="stream" tvg-id="SSC 07 HD" tvg-logo="http://4f.rs:80/images/dae9fc0d5369030cb4fd3ba03046014a.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SSC 07 HD
+http://4f.rs:80/57885776/76322283/1519200
+#EXTINF:-1 type="stream" tvg-id="SSC NEWS HD" tvg-logo="http://4f.rs:80/images/dae9fc0d5369030cb4fd3ba03046014a.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",SSC NEWS HD
+http://4f.rs:80/57885776/76322283/1519201
+#EXTINF:-1 type="stream" tvg-id="STAR CHANNEL 4K" tvg-logo="http://4f.rs:80/images/1f7b383c300c68e3a04d8aee08ac8d51.png" group-title="CANAIS | 4K",STAR CHANNEL 4K
+http://4f.rs:80/57885776/76322283/1465274
+#EXTINF:-1 type="stream" tvg-id="STAR CHANNEL FULLHD" tvg-logo="http://4f.rs:80/images/1f7b383c300c68e3a04d8aee08ac8d51.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FULLHD
+http://4f.rs:80/57885776/76322283/396723
+#EXTINF:-1 type="stream" tvg-id="STAR CHANNEL FULLHD H264" tvg-logo="http://4f.rs:80/images/1f7b383c300c68e3a04d8aee08ac8d51.png" group-title="CANAIS | LEGENDADOS",STAR CHANNEL FULLHD H264
+http://4f.rs:80/57885776/76322283/1482608
+#EXTINF:-1 type="stream" tvg-id="STAR CHANNEL H265" tvg-logo="http://4f.rs:80/images/1f7b383c300c68e3a04d8aee08ac8d51.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL H265
+http://4f.rs:80/57885776/76322283/396724
+#EXTINF:-1 type="stream" tvg-id="STAR CHANNEL HD" tvg-logo="http://4f.rs:80/images/1f7b383c300c68e3a04d8aee08ac8d51.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL HD
+http://4f.rs:80/57885776/76322283/396722
+#EXTINF:-1 type="stream" tvg-id="STAR CHANNEL HD" tvg-logo="http://4f.rs:80/images/1f7b383c300c68e3a04d8aee08ac8d51.png" group-title="CANAIS | LEGENDADOS",STAR CHANNEL HD
+http://4f.rs:80/57885776/76322283/1482609
+#EXTINF:-1 type="stream" tvg-id="STAR CHANNEL SD" tvg-logo="http://4f.rs:80/images/1f7b383c300c68e3a04d8aee08ac8d51.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL SD
+http://4f.rs:80/57885776/76322283/396721
+#EXTINF:-1 type="stream" tvg-id="STAR+ 01 HD" tvg-logo="http://4f.rs/4xoffice/resize?maxw=96&maxh=32&url=http%3A%2F%2Flumiere-a.akamaihd.net%2Fv1%2Fimages%2Fstar_monochromatic_white_rgb_c839525d.png" group-title="CANAIS | ESPORTES ESPECIAIS",STAR+ 01 HD
+http://4f.rs:80/57885776/76322283/1454447
+#EXTINF:-1 type="stream" tvg-id="STAR+ 06" tvg-logo="http://4f.rs/4xoffice/resize?maxw=96&maxh=32&url=s%3A1%3A%2Fimages%2Fe37863a27efa2a5bdad18501b5495634.png" group-title="CANAIS | ESPORTES ESPECIAIS",STAR+ 06
+http://4f.rs:80/57885776/76322283/1454441
+#EXTINF:-1 type="stream" tvg-id="STAR+ 1 HD¹" tvg-logo="http://4f.rs:80/images/e37863a27efa2a5bdad18501b5495634.png" group-title="CANAIS | ESPORTES ESPECIAIS",STAR+ 1 HD¹
+http://4f.rs:80/57885776/76322283/1438095
+#EXTINF:-1 type="stream" tvg-id="STAR+ 2 HD¹" tvg-logo="http://4f.rs:80/images/e37863a27efa2a5bdad18501b5495634.png" group-title="CANAIS | ESPORTES ESPECIAIS",STAR+ 2 HD¹
+http://4f.rs:80/57885776/76322283/1438096
+#EXTINF:-1 type="stream" tvg-id="STAR+ 3 HD" tvg-logo="http://4f.rs:80/images/e37863a27efa2a5bdad18501b5495634.png" group-title="CANAIS | ESPORTES ESPECIAIS",STAR+ 3 HD
+http://4f.rs:80/57885776/76322283/1438097
+#EXTINF:-1 type="stream" tvg-id="STAR+ 4 HD" tvg-logo="http://4f.rs:80/images/e37863a27efa2a5bdad18501b5495634.png" group-title="CANAIS | ESPORTES ESPECIAIS",STAR+ 4 HD
+http://4f.rs:80/57885776/76322283/1438099
+#EXTINF:-1 type="stream" tvg-id="STAR+ 5 HD" tvg-logo="http://4f.rs:80/images/e37863a27efa2a5bdad18501b5495634.png" group-title="CANAIS | ESPORTES ESPECIAIS",STAR+ 5 HD
+http://4f.rs:80/57885776/76322283/1438100
+#EXTINF:-1 type="stream" tvg-id="STUDIO UNIVERSAL FULLHD" tvg-logo="http://4f.rs:80/images/29ddd17b140491e37d7299ce826080bb.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL FULLHD
+http://4f.rs:80/57885776/76322283/209125
+#EXTINF:-1 type="stream" tvg-id="STUDIO UNIVERSAL FULLHD H265" tvg-logo="http://4f.rs:80/images/1121c00eb55f724c5ed0e938d3f80082.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL FULLHD H265
+http://4f.rs:80/57885776/76322283/1469366
+#EXTINF:-1 type="stream" tvg-id="STUDIO UNIVERSAL HD" tvg-logo="http://4f.rs:80/images/29ddd17b140491e37d7299ce826080bb.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL HD
+http://4f.rs:80/57885776/76322283/209126
+#EXTINF:-1 type="stream" tvg-id="STUDIO UNIVERSAL SD" tvg-logo="http://4f.rs:80/images/29ddd17b140491e37d7299ce826080bb.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL SD
+http://4f.rs:80/57885776/76322283/209127
+#EXTINF:-1 type="stream" tvg-id="SYFY" tvg-logo="http://4f.rs:80/images/953ddbd43a9abfa3764163b28f61e46d.png" group-title="CANAIS | PORTUGAL",SYFY
+http://4f.rs:80/57885776/76322283/1521387
+#EXTINF:-1 type="stream" tvg-id="SYFY FULLHD" tvg-logo="http://4f.rs:80/images/953ddbd43a9abfa3764163b28f61e46d.png" group-title="CANAIS | FILMES E SERIES",SYFY FULLHD
+http://4f.rs:80/57885776/76322283/209128
+#EXTINF:-1 type="stream" tvg-id="SYFY FULLHD H265" tvg-logo="http://4f.rs:80/images/953ddbd43a9abfa3764163b28f61e46d.png" group-title="CANAIS | FILMES E SERIES",SYFY FULLHD H265
+http://4f.rs:80/57885776/76322283/1469315
+#EXTINF:-1 type="stream" tvg-id="SYFY HD" tvg-logo="http://4f.rs:80/images/953ddbd43a9abfa3764163b28f61e46d.png" group-title="CANAIS | FILMES E SERIES",SYFY HD
+http://4f.rs:80/57885776/76322283/209129
+#EXTINF:-1 type="stream" tvg-id="SYFY SD" tvg-logo="http://4f.rs:80/images/953ddbd43a9abfa3764163b28f61e46d.png" group-title="CANAIS | FILMES E SERIES",SYFY SD
+http://4f.rs:80/57885776/76322283/209130
+#EXTINF:-1 type="stream" tvg-id="TBS FULLHD" tvg-logo="http://4f.rs:80/images/855a4a3d95c88b79b9b10dbcdc60d763.png" group-title="CANAIS | FILMES E SERIES",TBS FULLHD
+http://4f.rs:80/57885776/76322283/209131
+#EXTINF:-1 type="stream" tvg-id="TBS FULLHD H265" tvg-logo="http://4f.rs:80/images/855a4a3d95c88b79b9b10dbcdc60d763.png" group-title="CANAIS | FILMES E SERIES",TBS FULLHD H265
+http://4f.rs:80/57885776/76322283/1469369
+#EXTINF:-1 type="stream" tvg-id="TBS HD" tvg-logo="http://4f.rs:80/images/855a4a3d95c88b79b9b10dbcdc60d763.png" group-title="CANAIS | FILMES E SERIES",TBS HD
+http://4f.rs:80/57885776/76322283/209132
+#EXTINF:-1 type="stream" tvg-id="TBS SD" tvg-logo="http://4f.rs:80/images/855a4a3d95c88b79b9b10dbcdc60d763.png" group-title="CANAIS | FILMES E SERIES",TBS SD
+http://4f.rs:80/57885776/76322283/209133
+#EXTINF:-1 type="stream" tvg-id="TCM FULLHD" tvg-logo="http://4f.rs:80/images/15c48ce8800e0eb30cdff36633c5cf1c.png" group-title="CANAIS | FILMES E SERIES",TCM FULLHD
+http://4f.rs:80/57885776/76322283/132254
+#EXTINF:-1 type="stream" tvg-id="TCM FULLHD H265" tvg-logo="http://4f.rs:80/images/15c48ce8800e0eb30cdff36633c5cf1c.png" group-title="CANAIS | FILMES E SERIES",TCM FULLHD H265
+http://4f.rs:80/57885776/76322283/1469335
+#EXTINF:-1 type="stream" tvg-id="TCM HD" tvg-logo="http://4f.rs:80/images/d169e8d153bbbdccf003531fb709b16e.png" group-title="CANAIS | FILMES E SERIES",TCM HD
+http://4f.rs:80/57885776/76322283/57185
+#EXTINF:-1 type="stream" tvg-id="TELA VIVA" tvg-logo="http://4f.rs:80/images/77539ad274ce585f3ee0bfc3a61ababa.png" group-title="CANAIS | ABERTOS",TELA VIVA
+http://4f.rs:80/57885776/76322283/1490376
+#EXTINF:-1 type="stream" tvg-id="TELECINE ACTION 4K" tvg-logo="http://4f.rs:80/images/9b03c283ba5c7f0ff052f5c1aa51ef03.png" group-title="CANAIS | 4K",TELECINE ACTION 4K
+http://4f.rs:80/57885776/76322283/1465942
+#EXTINF:-1 type="stream" tvg-id="TELECINE ACTION FULLHD" tvg-logo="http://4f.rs:80/images/9b03c283ba5c7f0ff052f5c1aa51ef03.png" group-title="CANAIS | TELECINE",TELECINE ACTION FULLHD
+http://4f.rs:80/57885776/76322283/209134
+#EXTINF:-1 type="stream" tvg-id="TELECINE ACTION FULLHD H264" tvg-logo="http://4f.rs:80/images/9b03c283ba5c7f0ff052f5c1aa51ef03.png" group-title="CANAIS | LEGENDADOS",TELECINE ACTION FULLHD H264
+http://4f.rs:80/57885776/76322283/1482610
+#EXTINF:-1 type="stream" tvg-id="TELECINE ACTION FULLHD H265" tvg-logo="http://4f.rs:80/images/9b03c283ba5c7f0ff052f5c1aa51ef03.png" group-title="CANAIS | TELECINE",TELECINE ACTION FULLHD H265
+http://4f.rs:80/57885776/76322283/1469337
+#EXTINF:-1 type="stream" tvg-id="TELECINE ACTION HD" tvg-logo="http://4f.rs:80/images/9b03c283ba5c7f0ff052f5c1aa51ef03.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
+http://4f.rs:80/57885776/76322283/209135
+#EXTINF:-1 type="stream" tvg-id="TELECINE ACTION HD" tvg-logo="http://4f.rs:80/images/9b03c283ba5c7f0ff052f5c1aa51ef03.png" group-title="CANAIS | LEGENDADOS",TELECINE ACTION HD
+http://4f.rs:80/57885776/76322283/1482611
+#EXTINF:-1 type="stream" tvg-id="TELECINE ACTION SD" tvg-logo="http://4f.rs:80/images/9b03c283ba5c7f0ff052f5c1aa51ef03.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
+http://4f.rs:80/57885776/76322283/443308
+#EXTINF:-1 type="stream" tvg-id="TELECINE CULT FULLHD" tvg-logo="http://4f.rs:80/images/127eb52e9ba2be88c20007246dab6394.png" group-title="CANAIS | TELECINE",TELECINE CULT FULLHD
+http://4f.rs:80/57885776/76322283/209137
+#EXTINF:-1 type="stream" tvg-id="TELECINE CULT FULLHD H264" tvg-logo="http://4f.rs:80/images/127eb52e9ba2be88c20007246dab6394.png" group-title="CANAIS | LEGENDADOS",TELECINE CULT FULLHD H264
+http://4f.rs:80/57885776/76322283/1482612
+#EXTINF:-1 type="stream" tvg-id="TELECINE CULT FULLHD H265" tvg-logo="http://4f.rs:80/images/127eb52e9ba2be88c20007246dab6394.png" group-title="CANAIS | TELECINE",TELECINE CULT FULLHD H265
+http://4f.rs:80/57885776/76322283/1469334
+#EXTINF:-1 type="stream" tvg-id="TELECINE CULT HD" tvg-logo="http://4f.rs:80/images/127eb52e9ba2be88c20007246dab6394.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
+http://4f.rs:80/57885776/76322283/209138
+#EXTINF:-1 type="stream" tvg-id="TELECINE CULT HD" tvg-logo="http://4f.rs:80/images/127eb52e9ba2be88c20007246dab6394.png" group-title="CANAIS | LEGENDADOS",TELECINE CULT HD
+http://4f.rs:80/57885776/76322283/1482613
+#EXTINF:-1 type="stream" tvg-id="TELECINE CULT SD" tvg-logo="http://4f.rs:80/images/127eb52e9ba2be88c20007246dab6394.png" group-title="CANAIS | TELECINE",TELECINE CULT SD
+http://4f.rs:80/57885776/76322283/209139
+#EXTINF:-1 type="stream" tvg-id="TELECINE FUN FULLHD" tvg-logo="http://4f.rs:80/images/2a9098c36955fb624e99e76ff8f8814b.png" group-title="CANAIS | TELECINE",TELECINE FUN FULLHD
+http://4f.rs:80/57885776/76322283/209140
+#EXTINF:-1 type="stream" tvg-id="TELECINE FUN FULLHD H264" tvg-logo="http://4f.rs:80/images/2a9098c36955fb624e99e76ff8f8814b.png" group-title="CANAIS | LEGENDADOS",TELECINE FUN FULLHD H264
+http://4f.rs:80/57885776/76322283/1482614
+#EXTINF:-1 type="stream" tvg-id="TELECINE FUN FULLHD H265" tvg-logo="http://4f.rs:80/images/2a9098c36955fb624e99e76ff8f8814b.png" group-title="CANAIS | TELECINE",TELECINE FUN FULLHD H265
+http://4f.rs:80/57885776/76322283/1469333
+#EXTINF:-1 type="stream" tvg-id="TELECINE FUN HD" tvg-logo="http://4f.rs:80/images/2a9098c36955fb624e99e76ff8f8814b.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
+http://4f.rs:80/57885776/76322283/209141
+#EXTINF:-1 type="stream" tvg-id="TELECINE FUN HD H264" tvg-logo="http://4f.rs:80/images/2a9098c36955fb624e99e76ff8f8814b.png" group-title="CANAIS | LEGENDADOS",TELECINE FUN HD H264
+http://4f.rs:80/57885776/76322283/1482615
+#EXTINF:-1 type="stream" tvg-id="TELECINE FUN SD" tvg-logo="http://4f.rs:80/images/2a9098c36955fb624e99e76ff8f8814b.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
+http://4f.rs:80/57885776/76322283/209142
+#EXTINF:-1 type="stream" tvg-id="TELECINE PIPOCA FULLHD" tvg-logo="http://4f.rs:80/images/6fed1813f1091453c298a5f3b9b5138a.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FULLHD
+http://4f.rs:80/57885776/76322283/132258
+#EXTINF:-1 type="stream" tvg-id="TELECINE PIPOCA FULLHD H264" tvg-logo="http://4f.rs:80/images/6fed1813f1091453c298a5f3b9b5138a.png" group-title="CANAIS | LEGENDADOS",TELECINE PIPOCA FULLHD H264
+http://4f.rs:80/57885776/76322283/1482616
+#EXTINF:-1 type="stream" tvg-id="TELECINE PIPOCA FULLHD H265" tvg-logo="http://4f.rs:80/images/6fed1813f1091453c298a5f3b9b5138a.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FULLHD H265
+http://4f.rs:80/57885776/76322283/1469336
+#EXTINF:-1 type="stream" tvg-id="TELECINE PIPOCA HD" tvg-logo="http://4f.rs:80/images/6fed1813f1091453c298a5f3b9b5138a.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
+http://4f.rs:80/57885776/76322283/39954
+#EXTINF:-1 type="stream" tvg-id="TELECINE PIPOCA HD" tvg-logo="http://4f.rs:80/images/6fed1813f1091453c298a5f3b9b5138a.png" group-title="CANAIS | LEGENDADOS",TELECINE PIPOCA HD
+http://4f.rs:80/57885776/76322283/1482617
+#EXTINF:-1 type="stream" tvg-id="TELECINE PREMIUM 4K" tvg-logo="http://4f.rs:80/images/56dff865c599210f65c9fa87e3aea1bb.png" group-title="CANAIS | 4K",TELECINE PREMIUM 4K
+http://4f.rs:80/57885776/76322283/1465941
+#EXTINF:-1 type="stream" tvg-id="TELECINE PREMIUM FULLHD" tvg-logo="http://4f.rs:80/images/56dff865c599210f65c9fa87e3aea1bb.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FULLHD
+http://4f.rs:80/57885776/76322283/209146
+#EXTINF:-1 type="stream" tvg-id="TELECINE PREMIUM FULLHD H264" tvg-logo="http://4f.rs:80/images/56dff865c599210f65c9fa87e3aea1bb.png" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM FULLHD H264
+http://4f.rs:80/57885776/76322283/1482618
+#EXTINF:-1 type="stream" tvg-id="TELECINE PREMIUM FULLHD H265" tvg-logo="http://4f.rs:80/images/56dff865c599210f65c9fa87e3aea1bb.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FULLHD H265
+http://4f.rs:80/57885776/76322283/1469340
+#EXTINF:-1 type="stream" tvg-id="TELECINE PREMIUM HD" tvg-logo="http://4f.rs:80/images/56dff865c599210f65c9fa87e3aea1bb.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+http://4f.rs:80/57885776/76322283/209147
+#EXTINF:-1 type="stream" tvg-id="TELECINE PREMIUM HD" tvg-logo="http://4f.rs:80/images/56dff865c599210f65c9fa87e3aea1bb.png" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM HD
+http://4f.rs:80/57885776/76322283/1482619
+#EXTINF:-1 type="stream" tvg-id="TELECINE PREMIUM SD" tvg-logo="http://4f.rs:80/images/56dff865c599210f65c9fa87e3aea1bb.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
+http://4f.rs:80/57885776/76322283/209148
+#EXTINF:-1 type="stream" tvg-id="TELECINE TOUCH FULLHD" tvg-logo="http://4f.rs:80/images/bc25506250888aeefffe5fff94068024.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FULLHD
+http://4f.rs:80/57885776/76322283/209149
+#EXTINF:-1 type="stream" tvg-id="TELECINE TOUCH FULLHD H264" tvg-logo="http://4f.rs:80/images/bc25506250888aeefffe5fff94068024.png" group-title="CANAIS | LEGENDADOS",TELECINE TOUCH FULLHD H264
+http://4f.rs:80/57885776/76322283/1482620
+#EXTINF:-1 type="stream" tvg-id="TELECINE TOUCH FULLHD H265" tvg-logo="http://4f.rs:80/images/bc25506250888aeefffe5fff94068024.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FULLHD H265
+http://4f.rs:80/57885776/76322283/1469332
+#EXTINF:-1 type="stream" tvg-id="TELECINE TOUCH HD" tvg-logo="http://4f.rs:80/images/bc25506250888aeefffe5fff94068024.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
+http://4f.rs:80/57885776/76322283/39956
+#EXTINF:-1 type="stream" tvg-id="TELECINE TOUCH SD" tvg-logo="http://4f.rs:80/images/bc25506250888aeefffe5fff94068024.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
+http://4f.rs:80/57885776/76322283/209151
+#EXTINF:-1 type="stream" tvg-id="TLC" tvg-logo="http://4f.rs:80/images/fd5384ac4365df5da9c59d5cad58c894.png" group-title="CANAIS | PORTUGAL",TLC
+http://4f.rs:80/57885776/76322283/1521395
+#EXTINF:-1 type="stream" tvg-id="TLC 4K" tvg-logo="http://4f.rs:80/images/dbc0a51845e6bd4ec18ebe6b0840f973.png" group-title="CANAIS | 4K",TLC 4K
+http://4f.rs:80/57885776/76322283/1465360
+#EXTINF:-1 type="stream" tvg-id="TNA IMPACT" tvg-logo="http://4f.rs:80/images/974fb90e4ea03f8ddf7a7c285f0d3c21.png" group-title="CANAIS | FILMES ESPECIAIS",TNA IMPACT
+http://4f.rs:80/57885776/76322283/1490354
+#EXTINF:-1 type="stream" tvg-id="TNT 4K" tvg-logo="http://4f.rs:80/images/f08bde9785acf256a32a293114e394a5.png" group-title="CANAIS | 4K",TNT 4K
+http://4f.rs:80/57885776/76322283/1465272
+#EXTINF:-1 type="stream" tvg-id="TNT FULLHD" tvg-logo="http://4f.rs:80/images/f08bde9785acf256a32a293114e394a5.png" group-title="CANAIS | FILMES E SERIES",TNT FULLHD
+http://4f.rs:80/57885776/76322283/209155
+#EXTINF:-1 type="stream" tvg-id="TNT FULLHD H265" tvg-logo="http://4f.rs:80/images/f08bde9785acf256a32a293114e394a5.png" group-title="CANAIS | FILMES E SERIES",TNT FULLHD H265
+http://4f.rs:80/57885776/76322283/1469318
+#EXTINF:-1 type="stream" tvg-id="TNT HD" tvg-logo="http://4f.rs:80/images/f08bde9785acf256a32a293114e394a5.png" group-title="CANAIS | FILMES E SERIES",TNT HD
+http://4f.rs:80/57885776/76322283/209156
+#EXTINF:-1 type="stream" tvg-id="TNT HD*" tvg-logo="http://4f.rs:80/images/f08bde9785acf256a32a293114e394a5.png" group-title="CANAIS | FILMES E SERIES",TNT HD*
+http://4f.rs:80/57885776/76322283/1490135
+#EXTINF:-1 type="stream" tvg-id="TNT SD" tvg-logo="http://4f.rs:80/images/f08bde9785acf256a32a293114e394a5.png" group-title="CANAIS | FILMES E SERIES",TNT SD
+http://4f.rs:80/57885776/76322283/209157
+#EXTINF:-1 type="stream" tvg-id="TNT SERIES 4K" tvg-logo="http://4f.rs:80/images/93edf186db04bee837e5962f85cf0fa1.png" group-title="CANAIS | 4K",TNT SERIES 4K
+http://4f.rs:80/57885776/76322283/1465944
+#EXTINF:-1 type="stream" tvg-id="TNT SERIES FULLHD" tvg-logo="http://4f.rs:80/images/93edf186db04bee837e5962f85cf0fa1.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES FULLHD
+http://4f.rs:80/57885776/76322283/209158
+#EXTINF:-1 type="stream" tvg-id="TNT SERIES FULLHD H265" tvg-logo="http://4f.rs:80/images/93edf186db04bee837e5962f85cf0fa1.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES FULLHD H265
+http://4f.rs:80/57885776/76322283/1469317
+#EXTINF:-1 type="stream" tvg-id="TNT SERIES HD" tvg-logo="http://4f.rs:80/images/93edf186db04bee837e5962f85cf0fa1.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES HD
+http://4f.rs:80/57885776/76322283/209159
+#EXTINF:-1 type="stream" tvg-id="TNT SERIES SD" tvg-logo="http://4f.rs:80/images/93edf186db04bee837e5962f85cf0fa1.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES SD
+http://4f.rs:80/57885776/76322283/209160
+#EXTINF:-1 type="stream" tvg-id="TOONCAST FULLHD H265" tvg-logo="http://4f.rs:80/images/6fb329f746cd5996f8d9f27eefda1935.png" group-title="CANAIS | INFANTIS",TOONCAST FULLHD H265
+http://4f.rs:80/57885776/76322283/1469269
+#EXTINF:-1 type="stream" tvg-id="TOONCAST HD" tvg-logo="http://4f.rs:80/images/739fa848e0dbc229b3787bc1685c9f3f.png" group-title="CANAIS | INFANTIS",TOONCAST HD
+http://4f.rs:80/57885776/76322283/57196
+#EXTINF:-1 type="stream" tvg-id="TOONCAST SD" tvg-logo="http://4f.rs:80/images/739fa848e0dbc229b3787bc1685c9f3f.png" group-title="CANAIS | INFANTIS",TOONCAST SD
+http://4f.rs:80/57885776/76322283/198307
+#EXTINF:-1 type="stream" tvg-id="TRACE BRAZUCA HD" tvg-logo="https://th.bing.com/th/id/OIP.PDPNQ7jZT4GwYanvQ3Jz7wHaDi?pid=ImgDet&rs=1" group-title="CANAIS | TRACE",TRACE BRAZUCA HD
+http://4f.rs:80/57885776/76322283/283580
+#EXTINF:-1 type="stream" tvg-id="TRACE LATINA" tvg-logo="http://4f.rs:80/images/8f4f91d512c896337127b8f7a69ccdd0.png" group-title="CANAIS | TRACE",TRACE LATINA
+http://4f.rs:80/57885776/76322283/1490357
+#EXTINF:-1 type="stream" tvg-id="TRACE TOCA" tvg-logo="http://4f.rs:80/images/5cbf27db8b2651005a2653383ffe3887.png" group-title="CANAIS | TRACE",TRACE TOCA
+http://4f.rs:80/57885776/76322283/1480162
+#EXTINF:-1 type="stream" tvg-id="TRACE TOCA" tvg-logo="http://4f.rs:80/images/f715919bacad6ad7c5b2b0a7a74cd1cb.png" group-title="CANAIS | PORTUGAL",TRACE TOCA
+http://4f.rs:80/57885776/76322283/1521421
+#EXTINF:-1 type="stream" tvg-id="TRACE URBAN" tvg-logo="http://4f.rs:80/images/91bc71cd0a33d7c7a9e59e26f643080e.png" group-title="CANAIS | TRACE",TRACE URBAN
+http://4f.rs:80/57885776/76322283/1490356
+#EXTINF:-1 type="stream" tvg-id="TRACE URBAN" tvg-logo="https://th.bing.com/th/id/OIP.ws6PZ68lmQn2Jz7UzF-bFAAAAA?pid=ImgDet&rs=1" group-title="CANAIS | TRACE",TRACE URBAN
+http://4f.rs:80/57885776/76322283/1480163
+#EXTINF:-1 type="stream" tvg-id="Transamérica 100.1 FM São Paulo / SP - Brasil" tvg-logo="http://4f.rs:80/images/48cd60e821e63788551e21cbfa674244.png" group-title="CANAIS | RADIOS",Transamérica 100.1 FM São Paulo / SP - Brasil
+http://4f.rs:80/57885776/76322283/232617
+#EXTINF:-1 type="stream" tvg-id="TRANSFORMERS" tvg-logo="http://4f.rs:80/images/7c469711af98fd80e594631d31e0e7c0.png" group-title="CANAIS | FILMES ESPECIAIS",TRANSFORMERS
+http://4f.rs:80/57885776/76322283/1471787
+#EXTINF:-1 type="stream" tvg-id="TRAVEL BOX BRAZIL FULLHD" tvg-logo="http://4f.rs:80/images/5b5b8c60bba0f6f11d5158c01ed5a612.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL FULLHD
+http://4f.rs:80/57885776/76322283/209161
+#EXTINF:-1 type="stream" tvg-id="TRAVEL BOX BRAZIL HD" tvg-logo="http://4f.rs:80/images/5b5b8c60bba0f6f11d5158c01ed5a612.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL HD
+http://4f.rs:80/57885776/76322283/209162
+#EXTINF:-1 type="stream" tvg-id="TRUTV FULLHD H265" tvg-logo="http://4f.rs:80/images/b69836d9bbcaf0d26a9e212888f830e4.png" group-title="CANAIS | VARIEDADES",TRUTV FULLHD H265
+http://4f.rs:80/57885776/76322283/1469353
+#EXTINF:-1 type="stream" tvg-id="TRUTV HD" tvg-logo="http://4f.rs:80/images/ffc8cc0e0663398f1f55eb442adf3865.png" group-title="CANAIS | VARIEDADES",TRUTV HD
+http://4f.rs:80/57885776/76322283/99109
+#EXTINF:-1 type="stream" tvg-id="TV APARECIDA" tvg-logo="http://4f.rs:80/images/585309e72bf4236a6c059a05190e7b08.png" group-title="CANAIS | ABERTOS",TV APARECIDA
+http://4f.rs:80/57885776/76322283/1490374
+#EXTINF:-1 type="stream" tvg-id="TV APARECIDA HD" tvg-logo="http://4f.rs:80/images/d4093c37d723957263d9dd9597a096d5.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
+http://4f.rs:80/57885776/76322283/209166
+#EXTINF:-1 type="stream" tvg-id="TV ARACATI" tvg-logo="http://4f.rs:80/images/6522dd98578d7a9e8a855c49a0dd5924.png" group-title="CANAIS | ABERTOS",TV ARACATI
+http://4f.rs:80/57885776/76322283/1490377
+#EXTINF:-1 type="stream" tvg-id="TV BRASIL HD" tvg-logo="http://4f.rs:80/images/87da5ec4faac1628df48ab46b0fd5c4e.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
+http://4f.rs:80/57885776/76322283/209168
+#EXTINF:-1 type="stream" tvg-id="TV CINE" tvg-logo="http://4f.rs:80/images/7b256e01ac733c1d91953850461c2b24.png" group-title="CANAIS | FILMES ESPECIAIS",TV CINE
+http://4f.rs:80/57885776/76322283/1490369
+#EXTINF:-1 type="stream" tvg-id="TV CINE 1 HD" tvg-logo="http://4f.rs:80/images/43102a5702cc9e65f41b9ad2cc793787.png" group-title="CANAIS | FILMES ESPECIAIS",TV CINE 1 HD
+http://4f.rs:80/57885776/76322283/1521383
+#EXTINF:-1 type="stream" tvg-id="TV CINE 2 HD" tvg-logo="http://4f.rs:80/images/43102a5702cc9e65f41b9ad2cc793787.png" group-title="CANAIS | FILMES ESPECIAIS",TV CINE 2 HD
+http://4f.rs:80/57885776/76322283/1521384
+#EXTINF:-1 type="stream" tvg-id="TV CINE 3 HD" tvg-logo="http://4f.rs:80/images/43102a5702cc9e65f41b9ad2cc793787.png" group-title="CANAIS | FILMES ESPECIAIS",TV CINE 3 HD
+http://4f.rs:80/57885776/76322283/1521385
+#EXTINF:-1 type="stream" tvg-id="TV CINE 4 HD" tvg-logo="http://4f.rs:80/images/43102a5702cc9e65f41b9ad2cc793787.png" group-title="CANAIS | FILMES ESPECIAIS",TV CINE 4 HD
+http://4f.rs:80/57885776/76322283/1521386
+#EXTINF:-1 type="stream" tvg-id="TV CULTURA" tvg-logo="http://4f.rs:80/images/9526c548b80b00611d3a71976e32c052.png" group-title="CANAIS | ABERTOS",TV CULTURA
+http://4f.rs:80/57885776/76322283/98296
+#EXTINF:-1 type="stream" tvg-id="TV CULTURA HD" tvg-logo="http://4f.rs:80/images/9526c548b80b00611d3a71976e32c052.png" group-title="CANAIS | ABERTOS",TV CULTURA HD
+http://4f.rs:80/57885776/76322283/209171
+#EXTINF:-1 type="stream" tvg-id="TV CULTURA PARA HD" tvg-logo="http://4f.rs:80/images/9526c548b80b00611d3a71976e32c052.png" group-title="CANAIS | ABERTOS",TV CULTURA PARA HD
+http://4f.rs:80/57885776/76322283/418472
+#EXTINF:-1 type="stream" tvg-id="TV CULTURA SD" tvg-logo="http://4f.rs:80/images/9526c548b80b00611d3a71976e32c052.png" group-title="CANAIS | ABERTOS",TV CULTURA SD
+http://4f.rs:80/57885776/76322283/209172
+#EXTINF:-1 type="stream" tvg-id="TV DIARIO FORTALEZA HD" tvg-logo="http://4f.rs:80/images/3442a56a8b0fda5b78fe753a75146aa1.png" group-title="CANAIS | ABERTOS",TV DIARIO FORTALEZA HD
+http://4f.rs:80/57885776/76322283/397927
+#EXTINF:-1 type="stream" tvg-id="TV DIARIO FULLHD H265" tvg-logo="http://4f.rs:80/images/3442a56a8b0fda5b78fe753a75146aa1.png" group-title="CANAIS | ABERTOS",TV DIARIO FULLHD H265
+http://4f.rs:80/57885776/76322283/1469349
+#EXTINF:-1 type="stream" tvg-id="TV DIARIO HD" tvg-logo="http://4f.rs:80/images/3442a56a8b0fda5b78fe753a75146aa1.png" group-title="CANAIS | ABERTOS",TV DIARIO HD
+http://4f.rs:80/57885776/76322283/132267
+#EXTINF:-1 type="stream" tvg-id="TV DIFUSORA SÃO LUIZ SBT" tvg-logo="http://4f.rs:80/images/3eb6e8673698a90c3efa2159c2c95549.png" group-title="CANAIS | BAND - RECORD - SBT",TV DIFUSORA SÃO LUIZ SBT
+http://4f.rs:80/57885776/76322283/1490360
+#EXTINF:-1 type="stream" tvg-id="TV EVANGELIZAR HD" tvg-logo="http://4f.rs:80/images/20ef5cd29d6fd210f7f3e1757cf8fc12.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR HD
+http://4f.rs:80/57885776/76322283/307345
+#EXTINF:-1 type="stream" tvg-id="TV GAZETA HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1280px-TV_Gazeta.svg.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
+http://4f.rs:80/57885776/76322283/98304
+#EXTINF:-1 type="stream" tvg-id="TV GRANDE NATAL HD" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipO5m-K8vI4HE7lOhvesqJ_jp1cA_qQjCTOE7NEa=w1080-h608-p-no-v0" group-title="CANAIS | ABERTOS",TV GRANDE NATAL HD
+http://4f.rs:80/57885776/76322283/1468898
+#EXTINF:-1 type="stream" tvg-id="TV MAX RIO" tvg-logo="http://4f.rs:80/images/bfe708edfc32b97c35de8ab1f8bc6082.png" group-title="CANAIS | ABERTOS",TV MAX RIO
+http://4f.rs:80/57885776/76322283/1490347
+#EXTINF:-1 type="stream" tvg-id="TV NOVO TEMPO" tvg-logo="http://4f.rs:80/images/0644dbfc3c731b2e29781aadde2e827c.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO
+http://4f.rs:80/57885776/76322283/209175
+#EXTINF:-1 type="stream" tvg-id="TV NOVO TEMPO FULLHD" tvg-logo="http://4f.rs:80/images/0644dbfc3c731b2e29781aadde2e827c.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO FULLHD
+http://4f.rs:80/57885776/76322283/209173
+#EXTINF:-1 type="stream" tvg-id="TV PAMPA HD" tvg-logo="http://4f.rs:80/images/f7fe259921279bf41c2eb2ca4c7e5216.png" group-title="CANAIS | ABERTOS",TV PAMPA HD
+http://4f.rs:80/57885776/76322283/1486549
+#EXTINF:-1 type="stream" tvg-id="TV RA TIM BUM FULLHD" tvg-logo="http://4f.rs:80/images/5a13521c2f921b27735f0913ebaa022a.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM FULLHD
+http://4f.rs:80/57885776/76322283/209176
+#EXTINF:-1 type="stream" tvg-id="TV RA TIM BUM FULLHD H265" tvg-logo="http://4f.rs:80/images/626a00d9923a9138abec5e208ea4a182.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM FULLHD H265
+http://4f.rs:80/57885776/76322283/1469360
+#EXTINF:-1 type="stream" tvg-id="TV RA TIM BUM HD" tvg-logo="http://4f.rs:80/images/5a13521c2f921b27735f0913ebaa022a.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM HD
+http://4f.rs:80/57885776/76322283/40046
+#EXTINF:-1 type="stream" tvg-id="TV SENADO" tvg-logo="http://4f.rs:80/images/82b38c381b7367ecda48a95b640d8d8a.png" group-title="CANAIS | ABERTOS",TV SENADO
+http://4f.rs:80/57885776/76322283/275065
+#EXTINF:-1 type="stream" tvg-id="TV SUPER GOSPEL" tvg-logo="http://i.ibb.co/cFCwJ52/logo-tv-super-gospel.png" group-title="CANAIS | RELIGIOSOS",TV SUPER GOSPEL
+http://4f.rs:80/57885776/76322283/1189871
+#EXTINF:-1 type="stream" tvg-id="TV SÉCULO 21" tvg-logo="http://4f.rs:80/images/1fd1bc951569ce14d666f2ce45702c84.png" group-title="CANAIS | RELIGIOSOS",TV SÉCULO 21
+http://4f.rs:80/57885776/76322283/1470766
+#EXTINF:-1 type="stream" tvg-id="TV UNIVERSAL" tvg-logo="http://4f.rs:80/images/a31d924a6c5ccca39ed9c2c288edb1b8.png" group-title="CANAIS | RELIGIOSOS",TV UNIVERSAL
+http://4f.rs:80/57885776/76322283/1486578
+#EXTINF:-1 type="stream" tvg-id="TVE BAHIA" tvg-logo="http://4f.rs:80/images/c6ae726de2de7aa55dd3f8840278ced8.png" group-title="CANAIS | ABERTOS",TVE BAHIA
+http://4f.rs:80/57885776/76322283/444692
+#EXTINF:-1 type="stream" tvg-id="TVI FICCAO" tvg-logo="http://4f.rs:80/images/aa0c3e062da96cb3930879b6c9828ca9.png" group-title="CANAIS | PORTUGAL",TVI FICCAO
+http://4f.rs:80/57885776/76322283/1521366
+#EXTINF:-1 type="stream" tvg-id="TVI REALITY" tvg-logo="http://4f.rs:80/images/9942151199674897d982b6865953bdaa.png" group-title="CANAIS | PORTUGAL",TVI REALITY
+http://4f.rs:80/57885776/76322283/1521367
+#EXTINF:-1 type="stream" tvg-id="TVR MARILIA" tvg-logo="" group-title="CANAIS | ABERTOS",TVR MARILIA
+http://4f.rs:80/57885776/76322283/1189927
+#EXTINF:-1 type="stream" tvg-id="UK RACING HD" tvg-logo="http://4f.rs:80/images/64221fd36dabd223e009d453b41d6c36.png" group-title="CANAIS | ESPORTES INTERNACIONAIS",UK RACING HD
+http://4f.rs:80/57885776/76322283/1519226
+#EXTINF:-1 type="stream" tvg-id="UNIVERSAL TV 4K" tvg-logo="http://4f.rs:80/images/46b85168b12fc89a023cf75d2f25110d.png" group-title="CANAIS | 4K",UNIVERSAL TV 4K
+http://4f.rs:80/57885776/76322283/1465361
+#EXTINF:-1 type="stream" tvg-id="UNIVERSAL TV FULLHD" tvg-logo="http://4f.rs:80/images/46b85168b12fc89a023cf75d2f25110d.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV FULLHD
+http://4f.rs:80/57885776/76322283/209179
+#EXTINF:-1 type="stream" tvg-id="UNIVERSAL TV FULLHD H265" tvg-logo="http://4f.rs:80/images/46b85168b12fc89a023cf75d2f25110d.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV FULLHD H265
+http://4f.rs:80/57885776/76322283/1469365
+#EXTINF:-1 type="stream" tvg-id="UNIVERSAL TV HD" tvg-logo="http://4f.rs:80/images/46b85168b12fc89a023cf75d2f25110d.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV HD
+http://4f.rs:80/57885776/76322283/209180
+#EXTINF:-1 type="stream" tvg-id="UNIVERSAL TV SD" tvg-logo="http://4f.rs:80/images/46b85168b12fc89a023cf75d2f25110d.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV SD
+http://4f.rs:80/57885776/76322283/209181
+#EXTINF:-1 type="stream" tvg-id="VELOZES E FURIOSOS" tvg-logo="http://4f.rs:80/images/86c751261ac14a051d694f0d5664f994.png" group-title="CANAIS | FILMES ESPECIAIS",VELOZES E FURIOSOS
+http://4f.rs:80/57885776/76322283/1471788
+#EXTINF:-1 type="stream" tvg-id="VH1 FULLHD H265" tvg-logo="http://4f.rs:80/images/617abfdc764acd850cb8e9038c4e5f04.png" group-title="CANAIS | MÚSICA",VH1 FULLHD H265
+http://4f.rs:80/57885776/76322283/1469271
+#EXTINF:-1 type="stream" tvg-id="VIVA FULLHD" tvg-logo="http://4f.rs:80/images/5cf0107e1b01d311cb94a1e5c33c5f72.png" group-title="CANAIS | VARIEDADES",VIVA FULLHD
+http://4f.rs:80/57885776/76322283/209185
+#EXTINF:-1 type="stream" tvg-id="VIVA HD" tvg-logo="http://4f.rs:80/images/5cf0107e1b01d311cb94a1e5c33c5f72.png" group-title="CANAIS | VARIEDADES",VIVA HD
+http://4f.rs:80/57885776/76322283/40072
+#EXTINF:-1 type="stream" tvg-id="VIVA SD" tvg-logo="http://4f.rs:80/images/5cf0107e1b01d311cb94a1e5c33c5f72.png" group-title="CANAIS | VARIEDADES",VIVA SD
+http://4f.rs:80/57885776/76322283/209187
+#EXTINF:-1 type="stream" tvg-id="VOLEI BRASIL" tvg-logo="http://4f.rs:80/images/15a378274eefd7fde4a5dcaa49c7ff7e.png" group-title="CANAIS | ESPORTES ESPECIAIS",VOLEI BRASIL
+http://4f.rs:80/57885776/76322283/1494142
+#EXTINF:-1 type="stream" tvg-id="WARNER CHANNEL 4K" tvg-logo="http://4f.rs:80/images/7630c4d7a9b471aa9a580c3a9badcca9.png" group-title="CANAIS | 4K",WARNER CHANNEL 4K
+http://4f.rs:80/57885776/76322283/1465271
+#EXTINF:-1 type="stream" tvg-id="WARNER CHANNEL FULLHD" tvg-logo="http://4f.rs:80/images/7630c4d7a9b471aa9a580c3a9badcca9.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FULLHD
+http://4f.rs:80/57885776/76322283/209188
+#EXTINF:-1 type="stream" tvg-id="WARNER CHANNEL FULLHD H265" tvg-logo="http://4f.rs:80/images/7630c4d7a9b471aa9a580c3a9badcca9.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FULLHD H265
+http://4f.rs:80/57885776/76322283/1469344
+#EXTINF:-1 type="stream" tvg-id="WARNER CHANNEL HD" tvg-logo="http://4f.rs:80/images/7630c4d7a9b471aa9a580c3a9badcca9.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL HD
+http://4f.rs:80/57885776/76322283/40112
+#EXTINF:-1 type="stream" tvg-id="WARNER CHANNEL SD" tvg-logo="http://4f.rs:80/images/7630c4d7a9b471aa9a580c3a9badcca9.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD
+http://4f.rs:80/57885776/76322283/209190
+#EXTINF:-1 type="stream" tvg-id="WOOHOO FULLHD" tvg-logo="http://4f.rs:80/images/64ec31b19f46384acc90c5c8f0909216.png" group-title="CANAIS | ESPORTES",WOOHOO FULLHD
+http://4f.rs:80/57885776/76322283/209191
+#EXTINF:-1 type="stream" tvg-id="WOOHOO FULLHD H265" tvg-logo="http://4f.rs:80/images/64ec31b19f46384acc90c5c8f0909216.png" group-title="CANAIS | ESPORTES",WOOHOO FULLHD H265
+http://4f.rs:80/57885776/76322283/1482622
+#EXTINF:-1 type="stream" tvg-id="WOOHOO HD" tvg-logo="http://4f.rs:80/images/64ec31b19f46384acc90c5c8f0909216.png" group-title="CANAIS | ESPORTES",WOOHOO HD
+http://4f.rs:80/57885776/76322283/209192
+#EXTINF:-1 type="stream" tvg-id="WOOHOO SD" tvg-logo="http://4f.rs:80/images/64ec31b19f46384acc90c5c8f0909216.png" group-title="CANAIS | ESPORTES",WOOHOO SD
+http://4f.rs:80/57885776/76322283/209193
+#EXTINF:-1 type="stream" tvg-id="ZOOMOO FULLHD H265" tvg-logo="http://4f.rs:80/images/80195d540287fc7d4335c500ccd608f4.png" group-title="CANAIS | INFANTIS",ZOOMOO FULLHD H265
+http://4f.rs:80/57885776/76322283/1469260
+#EXTINF:-1 type="stream" tvg-id="GEEKDOT" tvg-logo="http://4f.rs:80/images/084d24f4ad8efc5a0ba1afd2e814e9b3.png" group-title="CANAIS | INFANTIS",GEEKDOT
+http://4f.rs:80/57885776/76322283/1522250
+#EXTINF:-1 type="stream" tvg-id="PAULISTAO PLAY 04 HD" tvg-logo="http://4f.rs:80/images/13de6c7c4f24e611d34b9fdeec2f7c00.png" group-title="CANAIS | ESPORTES ESPECIAIS",PAULISTAO PLAY 04 HD
+http://4f.rs:80/57885776/76322283/1522259
+#EXTINF:-1 type="stream" tvg-id="PAULISTAO PLAY 05 HD" tvg-logo="http://4f.rs:80/images/13de6c7c4f24e611d34b9fdeec2f7c00.png" group-title="CANAIS | ESPORTES ESPECIAIS",PAULISTAO PLAY 05 HD
+http://4f.rs:80/57885776/76322283/1522260
+#EXTINF:-1 type="stream" tvg-id="PAULISTÃO PLAY 01 HD" tvg-logo="http://4f.rs:80/images/13de6c7c4f24e611d34b9fdeec2f7c00.png" group-title="CANAIS | ESPORTES ESPECIAIS",PAULISTÃO PLAY 01 HD
+http://4f.rs:80/57885776/76322283/1522261
+#EXTINF:-1 type="stream" tvg-id="PAULISTÃO PLAY 02 HD" tvg-logo="http://4f.rs:80/images/13de6c7c4f24e611d34b9fdeec2f7c00.png" group-title="CANAIS | ESPORTES ESPECIAIS",PAULISTÃO PLAY 02 HD
+http://4f.rs:80/57885776/76322283/1522262
+#EXTINF:-1 type="stream" tvg-id="PAULISTÃO PLAY 03 HD" tvg-logo="http://4f.rs:80/images/13de6c7c4f24e611d34b9fdeec2f7c00.png" group-title="CANAIS | ESPORTES ESPECIAIS",PAULISTÃO PLAY 03 HD
+http://4f.rs:80/57885776/76322283/1522263
