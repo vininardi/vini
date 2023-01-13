@@ -1,233 +1,67 @@
-#EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="http://4f.rs:80/images/73b53670df6d694aa4eda8b153b89cb7.png" group-title="CANAIS | FILMES E SERIES",A&E HD
-http://4f.rs:80/57885776/76322283/208850
-#EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="http://4f.rs:80/images/e0d8627398797128c82dec080cf53033.png" group-title="CANAIS | FILMES E SERIES",AMC HD
-http://4f.rs:80/57885776/76322283/208853
-#EXTINF:-1 type="stream" tvg-id="ANIMAL PLANET HD" tvg-logo="http://4f.rs:80/images/2acac70152ed6ddcaf812299b79cb3ff.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET HD
-http://4f.rs:80/57885776/76322283/208856
-#EXTINF:-1 type="stream" tvg-id="ARTE 1 HD" tvg-logo="http://4f.rs:80/images/0697159d8b4300efd144e280c5b4fa2b.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
-http://4f.rs:80/57885776/76322283/208859
-#EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="http://4f.rs:80/images/8398177cad69454d3b69d91522d6f9e4.png" group-title="CANAIS | FILMES E SERIES",AXN HD
-http://4f.rs:80/57885776/76322283/208862
-#EXTINF:-1 type="stream" tvg-id="BABY TV HD" tvg-logo="http://4f.rs:80/images/f34f404c5f422984b19883a6194be099.png" group-title="CANAIS | INFANTIS",BABY TV HD
-http://4f.rs:80/57885776/76322283/57195
-#EXTINF:-1 type="stream" tvg-id="BAND NEWS HD" tvg-logo="http://4f.rs:80/images/ab86d067b62d59373641e4a74983efcb.png" group-title="CANAIS | NOTICIAS",BAND NEWS HD
-http://4f.rs:80/57885776/76322283/208867
-#EXTINF:-1 type="stream" tvg-id="BAND SPORTS HD" tvg-logo="http://4f.rs:80/images/35e0ff6dc3a0b794c7a9fc9c16863476.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-http://4f.rs:80/57885776/76322283/208871
-#EXTINF:-1 type="stream" tvg-id="BIS HD" tvg-logo="http://4f.rs:80/images/aab401c9dab3c0b97fc48e296a53f8d2.png" group-title="CANAIS | MÚSICA",BIS HD
-http://4f.rs:80/57885776/76322283/208874
-#EXTINF:-1 type="stream" tvg-id="CANAL SONY FULLHD H265" tvg-logo="http://4f.rs:80/images/a5372f4d6183c78bd42e4f6855ea96e8.png" group-title="CANAIS | FILMES E SERIES",CANAL SONY FULLHD H265
-http://4f.rs:80/57885776/76322283/1469323
-#EXTINF:-1 type="stream" tvg-id="CARTOON NETWORK HD" tvg-logo="http://4f.rs:80/images/699ef3d69981bdc911b445c582401a70.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
-http://4f.rs:80/57885776/76322283/208889
-#EXTINF:-1 type="stream" tvg-id="CARTOONITO HD" tvg-logo="http://iconape.com/wp-content/files/cu/193260/png/193260.png" group-title="CANAIS | INFANTIS",CARTOONITO HD
-http://4f.rs:80/57885776/76322283/208877
-#EXTINF:-1 type="stream" tvg-id="CINEMAX HD" tvg-logo="http://4f.rs:80/images/71c02d4b2e5e22438fe3de26c7fe99e5.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD
-http://4f.rs:80/57885776/76322283/208892
-#EXTINF:-1 type="stream" tvg-id="CNN BRASIL HD" tvg-logo="http://4f.rs:80/images/3b657de5de1292f1171601d36a2f117d.png" group-title="CANAIS | NOTICIAS",CNN BRASIL HD
-http://4f.rs:80/57885776/76322283/39937
-#EXTINF:-1 type="stream" tvg-id="COMBATE HD" tvg-logo="http://4f.rs:80/images/b3311e735e09e7b41f3c03ad09d1ad7b.png" group-title="CANAIS | ESPORTES",COMBATE HD
-http://4f.rs:80/57885776/76322283/208898
-#EXTINF:-1 type="stream" tvg-id="COMEDY CENTRAL HD" tvg-logo="http://4f.rs:80/images/450a66b10573e35c47e4049c324063dd.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
-http://4f.rs:80/57885776/76322283/208901
-#EXTINF:-1 type="stream" tvg-id="CURTA! HD" tvg-logo="http://4f.rs:80/images/b9149b310b771fed37e74fa177846aa7.png" group-title="CANAIS | VARIEDADES",CURTA! HD
-http://4f.rs:80/57885776/76322283/57210
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY CHANNEL HD" tvg-logo="http://4f.rs:80/images/62fc8a0d68196838f50458709fb839b0.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://4f.rs:80/57885776/76322283/208910
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY HOME AND HEALTH HD" tvg-logo="http://4f.rs:80/images/8763338d24800cf574099551f8452c7b.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME AND HEALTH HD
-http://4f.rs:80/57885776/76322283/208913
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY KIDS HD" tvg-logo="http://4f.rs:80/images/0e8bae4d4d467d93e591c5ab326118b9.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
-http://4f.rs:80/57885776/76322283/208916
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY SCIENCE HD" tvg-logo="http://4f.rs:80/images/a5e593256ec825906ea7521edd596343.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://4f.rs:80/57885776/76322283/208919
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY THEATER HD" tvg-logo="http://4f.rs:80/images/83651991d07188d7b37b39a052a71158.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATER HD
-http://4f.rs:80/57885776/76322283/208922
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY TLC HD" tvg-logo="http://4f.rs:80/images/6a1babe4f8a692849f31ba74932646fe.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TLC HD
-http://4f.rs:80/57885776/76322283/209153
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY TURBO HD" tvg-logo="http://4f.rs:80/images/bfae08e0c72227ef48c830b77f1f80a4.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO HD
-http://4f.rs:80/57885776/76322283/208925
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY WORLD HD" tvg-logo="http://4f.rs:80/images/492529372c7e93459903e185ff13b192.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD HD
-http://4f.rs:80/57885776/76322283/208928
-#EXTINF:-1 type="stream" tvg-id="DISNEY CHANNEL HD" tvg-logo="http://4f.rs:80/images/8f3ff7a8ea3c17fe9a259780c39ac0d9.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD
-http://4f.rs:80/57885776/76322283/208931
-#EXTINF:-1 type="stream" tvg-id="DISNEY JUNIOR" tvg-logo="http://4f.rs:80/images/2f3cdc3a536c1f28316cae5552ebcc5f.png" group-title="CANAIS | PORTUGAL",DISNEY JUNIOR
-http://4f.rs:80/57885776/76322283/1521426
-#EXTINF:-1 type="stream" tvg-id="E! ENTERTAINMENT HD" tvg-logo="http://4f.rs:80/images/2dcf8ea7f1d638441126ee8697507500.png" group-title="CANAIS | VARIEDADES",E! ENTERTAINMENT HD
-http://4f.rs:80/57885776/76322283/208937
-#EXTINF:-1 type="stream" tvg-id="ESPN 1 HD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 1 HD
-http://4f.rs:80/57885776/76322283/208943
-#EXTINF:-1 type="stream" tvg-id="ESPN 2 HD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
-http://4f.rs:80/57885776/76322283/208949
-#EXTINF:-1 type="stream" tvg-id="ESPN 3 HD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 3 HD
-http://4f.rs:80/57885776/76322283/208940
-#EXTINF:-1 type="stream" tvg-id="ESPN 4 HD" tvg-logo="http://4f.rs:80/images/faece7bfe8a42c583d66ee9f435e8e5d.png" group-title="CANAIS | ESPORTES",ESPN 4 HD
-http://4f.rs:80/57885776/76322283/208961
-#EXTINF:-1 type="stream" tvg-id="ESPN EXTRA HD" tvg-logo="http://4f.rs:80/images/e59b26a45823ec56821577d7758d351d.PNG" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
-http://4f.rs:80/57885776/76322283/208946
-#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORT 01 HD PPV" tvg-logo="http://4f.rs/4xoffice/resize?maxw=96&maxh=32&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F33%2FTNTSportsLA.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORT 01 HD PPV
-http://4f.rs:80/57885776/76322283/1454436
-#EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 01 HD" tvg-logo="http://4f.rs:80/images/2cfc5bd3ff9a46ab4c588a376a84968e.png" group-title="CANAIS | ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 01 HD
-http://4f.rs:80/57885776/76322283/1455110
-#EXTINF:-1 type="stream" tvg-id="FISH TV HD" tvg-logo="http://4f.rs:80/images/0f40b496cc1af10c48b10703cb60310b.png" group-title="CANAIS | ESPORTES",FISH TV HD
-http://4f.rs:80/57885776/76322283/57150
-#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK HD" tvg-logo="http://4f.rs:80/images/5d706c8db6b306b1e533c5b9747ea274.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
-http://4f.rs:80/57885776/76322283/40058
-#EXTINF:-1 type="stream" tvg-id="FOX CRIME HD" tvg-logo="http://4f.rs:80/images/ad3d90fed5cc5eacc862009835a155c5.png" group-title="CANAIS | PORTUGAL",FOX CRIME HD
-http://4f.rs:80/57885776/76322283/1521390
-#EXTINF:-1 type="stream" tvg-id="FOX LIFE HD" tvg-logo="http://4f.rs:80/images/3b6d5a3beaab6187582439a31c4b7cba.png" group-title="CANAIS | PORTUGAL",FOX LIFE HD
-http://4f.rs:80/57885776/76322283/1521388
-#EXTINF:-1 type="stream" tvg-id="FOX SPORTS 2 FULLHD" tvg-logo="http://4f.rs:80/images/c8fa592c1d549464213bd9687a89b664.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FULLHD
-http://4f.rs:80/57885776/76322283/208957
-#EXTINF:-1 type="stream" tvg-id="FOX SPORTS 2 HD" tvg-logo="http://4f.rs:80/images/c8fa592c1d549464213bd9687a89b664.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
-http://4f.rs:80/57885776/76322283/208958
-#EXTINF:-1 type="stream" tvg-id="FUTURA HD" tvg-logo="http://4f.rs:80/images/064516dda36ba30e341062a07acdb229.png" group-title="CANAIS | ABERTOS",FUTURA HD
-http://4f.rs:80/57885776/76322283/208964
-#EXTINF:-1 type="stream" tvg-id="FX HD" tvg-logo="http://4f.rs:80/images/1df5dba537130973ddab6cdb35e85361.png" group-title="CANAIS | FILMES E SERIES",FX HD
-http://4f.rs:80/57885776/76322283/208967
-#EXTINF:-1 type="stream" tvg-id="GLOOB HD" tvg-logo="http://4f.rs:80/images/a588c4f2664caeddc1409c73ee42bae4.png" group-title="CANAIS | INFANTIS",GLOOB HD
-http://4f.rs:80/57885776/76322283/208976
-#EXTINF:-1 type="stream" tvg-id="GLOOBINHO HD" tvg-logo="http://4f.rs:80/images/dbe6f9ceda7320453f87345ea6f2fb7a.png" group-title="CANAIS | INFANTIS",GLOOBINHO HD
-http://4f.rs:80/57885776/76322283/208979
-#EXTINF:-1 type="stream" tvg-id="GNT HD" tvg-logo="http://4f.rs:80/images/172d31bbfad9d1d216bb0251cdb990a0.png" group-title="CANAIS | VARIEDADES",GNT HD
-http://4f.rs:80/57885776/76322283/208982
-#EXTINF:-1 type="stream" tvg-id="H2 HD" tvg-logo="http://4f.rs:80/images/5184ede87707d5ff99eb3487369d970d.png" group-title="CANAIS | DOCUMENTARIOS",H2 HD
-http://4f.rs:80/57885776/76322283/209012
-#EXTINF:-1 type="stream" tvg-id="HBO + HD" tvg-logo="http://4f.rs:80/images/bc1c54a9ce63545421862cf4945a7675.png" group-title="CANAIS | HBO",HBO + HD
-http://4f.rs:80/57885776/76322283/208985
-#EXTINF:-1 type="stream" tvg-id="HBO 1 HD" tvg-logo="http://4f.rs:80/images/b292f6a4eac09f4f9722812a5804f371.png" group-title="CANAIS | HBO",HBO 1 HD
-http://4f.rs:80/57885776/76322283/208994
-#EXTINF:-1 type="stream" tvg-id="HBO 2 HD" tvg-logo="http://4f.rs:80/images/d374a78accf02ea7c453f729ffbfe6b9.png" group-title="CANAIS | HBO",HBO 2 HD
-http://4f.rs:80/57885776/76322283/208988
-#EXTINF:-1 type="stream" tvg-id="HBO FAMILY HD" tvg-logo="http://4f.rs:80/images/d827ebf26445f3b1e2048c4134a92a9b.png" group-title="CANAIS | HBO",HBO FAMILY HD
-http://4f.rs:80/57885776/76322283/208991
-#EXTINF:-1 type="stream" tvg-id="HBO MAX 01 HD" tvg-logo="http://4f.rs:80/images/5cb7b6fb40ef16ac04207e0286357756.png" group-title="CANAIS | ESPORTES ESPECIAIS",HBO MAX 01 HD
-http://4f.rs:80/57885776/76322283/1454442
-#EXTINF:-1 type="stream" tvg-id="HBO MAX 05 HD" tvg-logo="http://4f.rs:80/images/5cb7b6fb40ef16ac04207e0286357756.png" group-title="CANAIS | ESPORTES ESPECIAIS",HBO MAX 05 HD
-http://4f.rs:80/57885776/76322283/1454446
-#EXTINF:-1 type="stream" tvg-id="HBO MUNDI HD" tvg-logo="http://4f.rs:80/images/18936b8220d4448797bf74f0501ccda1.png" group-title="CANAIS | HBO",HBO MUNDI HD
-http://4f.rs:80/57885776/76322283/208996
-#EXTINF:-1 type="stream" tvg-id="HBO MUNDI HD" tvg-logo="http://4f.rs:80/images/18936b8220d4448797bf74f0501ccda1.png" group-title="CANAIS | LEGENDADOS",HBO MUNDI HD
-http://4f.rs:80/57885776/76322283/1482597
-#EXTINF:-1 type="stream" tvg-id="HBO PLUS HD" tvg-logo="http://4f.rs:80/images/bc1c54a9ce63545421862cf4945a7675.png" group-title="CANAIS | LEGENDADOS",HBO PLUS HD
-http://4f.rs:80/57885776/76322283/1482599
-#EXTINF:-1 type="stream" tvg-id="HBO POP HD" tvg-logo="http://4f.rs:80/images/104b10a1eb06bc86fe84e4488ee43622.png" group-title="CANAIS | HBO",HBO POP HD
-http://4f.rs:80/57885776/76322283/208999
-#EXTINF:-1 type="stream" tvg-id="HBO SIGNATURE HD" tvg-logo="http://4f.rs:80/images/fb6982b453a52d2de4c94d37409ae718.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
-http://4f.rs:80/57885776/76322283/209003
-#EXTINF:-1 type="stream" tvg-id="HBO XTREAM HD" tvg-logo="http://4f.rs:80/images/3b194b9c8c679e017f3a9b7c4f26ca8b.png" group-title="CANAIS | LEGENDADOS",HBO XTREAM HD
-http://4f.rs:80/57885776/76322283/1482604
-#EXTINF:-1 type="stream" tvg-id="HBO XTREME HD" tvg-logo="http://4f.rs:80/images/3b194b9c8c679e017f3a9b7c4f26ca8b.png" group-title="CANAIS | HBO",HBO XTREME HD
-http://4f.rs:80/57885776/76322283/209006
-#EXTINF:-1 type="stream" tvg-id="HGTV HD" tvg-logo="http://4f.rs:80/images/f19dab94fd39ed7a5b795367bbc10463.png" group-title="CANAIS | DOCUMENTARIOS",HGTV HD
-http://4f.rs:80/57885776/76322283/209009
-#EXTINF:-1 type="stream" tvg-id="HISTORY" tvg-logo="http://4f.rs:80/images/c7225a3dc6d01f76d73b8443b972e882.png" group-title="CANAIS | PORTUGAL",HISTORY
-http://4f.rs:80/57885776/76322283/1521399
-#EXTINF:-1 type="stream" tvg-id="HISTORY CHANNEL HD" tvg-logo="http://4f.rs:80/images/440271743c32cf78f6dbc582dd29f048.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY CHANNEL HD
-http://4f.rs:80/57885776/76322283/209015
-#EXTINF:-1 type="stream" tvg-id="ID HD" tvg-logo="http://4f.rs:80/images/5a92a58abb827b4349eeed49317b423b.png" group-title="CANAIS | PORTUGAL",ID HD
-http://4f.rs:80/57885776/76322283/1521398
-#EXTINF:-1 type="stream" tvg-id="INVESTIGATION DISCOVERY HD" tvg-logo="http://4f.rs:80/images/5a92a58abb827b4349eeed49317b423b.png" group-title="CANAIS | DOCUMENTARIOS",INVESTIGATION DISCOVERY HD
-http://4f.rs:80/57885776/76322283/209018
-#EXTINF:-1 type="stream" tvg-id="LIFETIME HD" tvg-logo="http://4f.rs:80/images/086d55533d72bb37cfec88e925e8009b.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
-http://4f.rs:80/57885776/76322283/209021
-#EXTINF:-1 type="stream" tvg-id="MEGAPIX HD" tvg-logo="http://4f.rs:80/images/87e56278a6bc3e68d119bc53cd85db6b.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX HD
-http://4f.rs:80/57885776/76322283/209030
-#EXTINF:-1 type="stream" tvg-id="MEGAPIX HD" tvg-logo="http://4f.rs:80/images/87e56278a6bc3e68d119bc53cd85db6b.png" group-title="CANAIS | LEGENDADOS",MEGAPIX HD
-http://4f.rs:80/57885776/76322283/1482607
-#EXTINF:-1 type="stream" tvg-id="MULTSHOW HD" tvg-logo="http://4f.rs:80/images/73e880a4c53dedab42e4bcfc4419844a.png" group-title="CANAIS | VARIEDADES",MULTSHOW HD
-http://4f.rs:80/57885776/76322283/209039
-#EXTINF:-1 type="stream" tvg-id="MULTSHOW HD" tvg-logo="http://4f.rs:80/images/73e880a4c53dedab42e4bcfc4419844a.png" group-title="CANAIS | VARIEDADES",MULTSHOW HD
-http://4f.rs:80/57885776/76322283/100771
-#EXTINF:-1 type="stream" tvg-id="NATGEO HD" tvg-logo="http://4f.rs:80/images/05e3829585323df030f94d74c27c0b55.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO HD
-http://4f.rs:80/57885776/76322283/209048
-#EXTINF:-1 type="stream" tvg-id="NATGEO HD" tvg-logo="http://4f.rs:80/images/05e3829585323df030f94d74c27c0b55.png" group-title="CANAIS | PORTUGAL",NATGEO HD
-http://4f.rs:80/57885776/76322283/1521401
-#EXTINF:-1 type="stream" tvg-id="NICK JR HD" tvg-logo="http://4f.rs:80/images/5a51ee96974e83088c82beaf4fc50cc2.png" group-title="CANAIS | INFANTIS",NICK JR HD
-http://4f.rs:80/57885776/76322283/209051
-#EXTINF:-1 type="stream" tvg-id="NICKELODEON HD" tvg-logo="http://4f.rs:80/images/961e570238956b16bc338bffbba89d4d.png" group-title="CANAIS | INFANTIS",NICKELODEON HD
-http://4f.rs:80/57885776/76322283/209054
-#EXTINF:-1 type="stream" tvg-id="OFF HD" tvg-logo="http://4f.rs:80/images/8366d7cd24810b670b04c34f4abd3a77.png" group-title="CANAIS | ESPORTES",OFF HD
-http://4f.rs:80/57885776/76322283/209057
-#EXTINF:-1 type="stream" tvg-id="PARAMOUNT CHANNEL FULLHD H265" tvg-logo="http://4f.rs:80/images/b74733877b917a68660fe90cfd3b3a4a.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT CHANNEL FULLHD H265
-http://4f.rs:80/57885776/76322283/1469316
-#EXTINF:-1 type="stream" tvg-id="PARAMOUNT NETWORK HD" tvg-logo="http://4f.rs:80/images/b74733877b917a68660fe90cfd3b3a4a.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT NETWORK HD
-http://4f.rs:80/57885776/76322283/209063
-#EXTINF:-1 type="stream" tvg-id="PFC" tvg-logo="http://4f.rs:80/images/0b5c6a0c964088afd956e5713aae8325.png" group-title="CANAIS | PORTUGAL",PFC
-http://4f.rs:80/57885776/76322283/1521415
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 1 CLUBES HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES HD
-http://4f.rs:80/57885776/76322283/209087
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 2 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
-http://4f.rs:80/57885776/76322283/209069
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 3 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
-http://4f.rs:80/57885776/76322283/209072
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 4 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
-http://4f.rs:80/57885776/76322283/209075
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 5 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
-http://4f.rs:80/57885776/76322283/209078
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 6 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
-http://4f.rs:80/57885776/76322283/209081
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 7 HD" tvg-logo="http://4f.rs:80/images/ef481f48f4bc42081099c5ad4112d538.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
-http://4f.rs:80/57885776/76322283/209084
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 8" tvg-logo="" group-title="CANAIS | PREMIERE",PREMIERE 8
-http://4f.rs:80/57885776/76322283/1499927
-#EXTINF:-1 type="stream" tvg-id="SONY CHANNEL HD" tvg-logo="http://4f.rs:80/images/a5372f4d6183c78bd42e4f6855ea96e8.png" group-title="CANAIS | FILMES E SERIES",SONY CHANNEL HD
-http://4f.rs:80/57885776/76322283/208886
-#EXTINF:-1 type="stream" tvg-id="SPACE HD" tvg-logo="http://4f.rs:80/images/02c7358204ca6249be76bfaed3ab67de.png" group-title="CANAIS | FILMES E SERIES",SPACE HD
-http://4f.rs:80/57885776/76322283/209102
-#EXTINF:-1 type="stream" tvg-id="SPORTV 1 HD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 1 HD
-http://4f.rs:80/57885776/76322283/209111
-#EXTINF:-1 type="stream" tvg-id="SPORTV 2 HD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
-http://4f.rs:80/57885776/76322283/209105
-http://4f.rs:80/57885776/76322283/209106
-#EXTINF:-1 type="stream" tvg-id="SPORTV 3 HD" tvg-logo="http://4f.rs:80/images/0faebdf4eddf42517199bf69f8b1a584.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
-http://4f.rs:80/57885776/76322283/209108
-#EXTINF:-1 type="stream" tvg-id="SPORTV 4 HD" tvg-logo="http://4f.rs:80/images/9df29f5db0f5ac08ccefbd4b3c96a75e.png" group-title="CANAIS | PORTUGAL",SPORTV 4 HD
-http://4f.rs:80/57885776/76322283/1521405
-#EXTINF:-1 type="stream" tvg-id="SPORTV 5 HD" tvg-logo="http://4f.rs:80/images/8a35f29a952ddb03cd0b6eca975d48bc.png" group-title="CANAIS | PORTUGAL",SPORTV 5 HD
-http://4f.rs:80/57885776/76322283/1521406
-#EXTINF:-1 type="stream" tvg-id="STAR CHANNEL HD" tvg-logo="http://4f.rs:80/images/1f7b383c300c68e3a04d8aee08ac8d51.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL HD
-http://4f.rs:80/57885776/76322283/396722
-#EXTINF:-1 type="stream" tvg-id="STAR CHANNEL HD" tvg-logo="http://4f.rs:80/images/1f7b383c300c68e3a04d8aee08ac8d51.png" group-title="CANAIS | LEGENDADOS",STAR CHANNEL HD
-http://4f.rs:80/57885776/76322283/1482609
-#EXTINF:-1 type="stream" tvg-id="STUDIO UNIVERSAL HD" tvg-logo="http://4f.rs:80/images/29ddd17b140491e37d7299ce826080bb.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL HD
-http://4f.rs:80/57885776/76322283/209126
-#EXTINF:-1 type="stream" tvg-id="SYFY HD" tvg-logo="http://4f.rs:80/images/953ddbd43a9abfa3764163b28f61e46d.png" group-title="CANAIS | FILMES E SERIES",SYFY HD
-http://4f.rs:80/57885776/76322283/209129
-#EXTINF:-1 type="stream" tvg-id="TBS HD" tvg-logo="http://4f.rs:80/images/855a4a3d95c88b79b9b10dbcdc60d763.png" group-title="CANAIS | FILMES E SERIES",TBS HD
-http://4f.rs:80/57885776/76322283/209132
-#EXTINF:-1 type="stream" tvg-id="TCM HD" tvg-logo="http://4f.rs:80/images/d169e8d153bbbdccf003531fb709b16e.png" group-title="CANAIS | FILMES E SERIES",TCM HD
-http://4f.rs:80/57885776/76322283/57185
-#EXTINF:-1 type="stream" tvg-id="TELECINE ACTION HD" tvg-logo="http://4f.rs:80/images/9b03c283ba5c7f0ff052f5c1aa51ef03.png" group-title="CANAIS | LEGENDADOS",TELECINE ACTION HD
-http://4f.rs:80/57885776/76322283/1482611
-#EXTINF:-1 type="stream" tvg-id="TELECINE CULT HD" tvg-logo="http://4f.rs:80/images/127eb52e9ba2be88c20007246dab6394.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
-http://4f.rs:80/57885776/76322283/209138
-#EXTINF:-1 type="stream" tvg-id="TELECINE FUN HD H264" tvg-logo="http://4f.rs:80/images/2a9098c36955fb624e99e76ff8f8814b.png" group-title="CANAIS | LEGENDADOS",TELECINE FUN HD H264
-http://4f.rs:80/57885776/76322283/1482615
-#EXTINF:-1 type="stream" tvg-id="TELECINE PIPOCA HD" tvg-logo="http://4f.rs:80/images/6fed1813f1091453c298a5f3b9b5138a.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
-http://4f.rs:80/57885776/76322283/39954
-#EXTINF:-1 type="stream" tvg-id="TELECINE PREMIUM HD" tvg-logo="http://4f.rs:80/images/56dff865c599210f65c9fa87e3aea1bb.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-http://4f.rs:80/57885776/76322283/209147
-#EXTINF:-1 type="stream" tvg-id="TELECINE TOUCH FULLHD H265" tvg-logo="http://4f.rs:80/images/bc25506250888aeefffe5fff94068024.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FULLHD H265
-http://4f.rs:80/57885776/76322283/1469332
-#EXTINF:-1 type="stream" tvg-id="TELECINE TOUCH HD" tvg-logo="http://4f.rs:80/images/bc25506250888aeefffe5fff94068024.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
-http://4f.rs:80/57885776/76322283/39956
-#EXTINF:-1 type="stream" tvg-id="TLC" tvg-logo="http://4f.rs:80/images/fd5384ac4365df5da9c59d5cad58c894.png" group-title="CANAIS | PORTUGAL",TLC
-http://4f.rs:80/57885776/76322283/1521395
-#EXTINF:-1 type="stream" tvg-id="TNT HD" tvg-logo="http://4f.rs:80/images/f08bde9785acf256a32a293114e394a5.png" group-title="CANAIS | FILMES E SERIES",TNT HD
-http://4f.rs:80/57885776/76322283/209156
-#EXTINF:-1 type="stream" tvg-id="TNT HD*" tvg-logo="http://4f.rs:80/images/f08bde9785acf256a32a293114e394a5.png" group-title="CANAIS | FILMES E SERIES",TNT HD*
-http://4f.rs:80/57885776/76322283/1490135
-#EXTINF:-1 type="stream" tvg-id="TNT SERIES HD" tvg-logo="http://4f.rs:80/images/93edf186db04bee837e5962f85cf0fa1.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES HD
-http://4f.rs:80/57885776/76322283/209159
-#EXTINF:-1 type="stream" tvg-id="TOONCAST HD" tvg-logo="http://4f.rs:80/images/739fa848e0dbc229b3787bc1685c9f3f.png" group-title="CANAIS | INFANTIS",TOONCAST HD
-http://4f.rs:80/57885776/76322283/57196
-#EXTINF:-1 type="stream" tvg-id="TRUTV HD" tvg-logo="http://4f.rs:80/images/ffc8cc0e0663398f1f55eb442adf3865.png" group-title="CANAIS | VARIEDADES",TRUTV HD
-http://4f.rs:80/57885776/76322283/99109
-#EXTINF:-1 type="stream" tvg-id="UNIVERSAL TV HD" tvg-logo="http://4f.rs:80/images/46b85168b12fc89a023cf75d2f25110d.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV HD
-http://4f.rs:80/57885776/76322283/209180
-#EXTINF:-1 type="stream" tvg-id="VIVA HD" tvg-logo="http://4f.rs:80/images/5cf0107e1b01d311cb94a1e5c33c5f72.png" group-title="CANAIS | VARIEDADES",VIVA HD
-http://4f.rs:80/57885776/76322283/40072
-#EXTINF:-1 type="stream" tvg-id="WARNER CHANNEL HD" tvg-logo="http://4f.rs:80/images/7630c4d7a9b471aa9a580c3a9badcca9.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL HD
-http://4f.rs:80/57885776/76322283/40112
-#EXTINF:-1 type="stream" tvg-id="WOOHOO HD" tvg-logo="http://4f.rs:80/images/64ec31b19f46384acc90c5c8f0909216.png" group-title="CANAIS | ESPORTES",WOOHOO HD
-http://4f.rs:80/57885776/76322283/209192
+#EXTM3U
+#EXTINF:-1,RECORDTV HD
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16748
+#EXTINF:-1,ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16693
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16705
+#EXTINF:-1,COMEDY CENTRAL HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16704
+#EXTINF:-1,CINEMAX HD
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16702
+#EXTINF:-1,Discovery Science HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16708
+#EXTINF:-1,SporTV 1 HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16753
+#EXTINF:-1,Discovery World HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16712
+#EXTINF:-1,Space HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16750
+#EXTINF:-1,ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16736
+#EXTINF:-1,HBO FAMILY HD
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31462
+#EXTINF:-1,Paramount Channel HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16746
+#EXTINF:-1,TNT HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16760
+#EXTINF:-1,Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16711
+#EXTINF:-1,TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16761
+#EXTINF:-1,H2 HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16733
+#EXTINF:-1,AXN HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16695
+#EXTINF:-1,SBT SP HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16749
+#EXTINF:-1,Globo SP HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16730
+#EXTINF:-1,Canal Sony HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16700
+#EXTINF:-1,Combate HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16703
+#EXTINF:-1,HBO 2 HD
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31460
+#EXTINF:-1,HBO 1 HD
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31465
+#EXTINF:-1,Telecine Fun HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16756
+#EXTINF:-1,Telecine Premium HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16758
+#EXTINF:-1,TELECINE ACTION HD
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31583
+#EXTINF:-1,ESPN 3
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16725
+#EXTINF:-1,Telecine Pipoca HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16757
+#EXTINF:-1,ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16716
+#EXTINF:-1,ESPN 4K
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31034
+#EXTINF:-1,ESPN 4 HD
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31148
+#EXTINF:-1,MEGAPIX FULLHD
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31278
+#EXTINF:-1,HBO SIGNATURE HD
+http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31473
