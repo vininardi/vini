@@ -1,67 +1,951 @@
 #EXTM3U
-#EXTINF:-1,RECORDTV HD
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16748
-#EXTINF:-1,ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16693
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16705
-#EXTINF:-1,COMEDY CENTRAL HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16704
-#EXTINF:-1,CINEMAX HD
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16702
-#EXTINF:-1,Discovery Science HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16708
-#EXTINF:-1,SporTV 1 HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16753
-#EXTINF:-1,Discovery World HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16712
-#EXTINF:-1,Space HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16750
-#EXTINF:-1,ID Investigao Discovery HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16736
-#EXTINF:-1,HBO FAMILY HD
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31462
-#EXTINF:-1,Paramount Channel HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16746
-#EXTINF:-1,TNT HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16760
-#EXTINF:-1,Discovery Turbo HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16711
-#EXTINF:-1,TNT Sies HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16761
-#EXTINF:-1,H2 HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16733
-#EXTINF:-1,AXN HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16695
-#EXTINF:-1,SBT SP HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16749
-#EXTINF:-1,Globo SP HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16730
-#EXTINF:-1,Canal Sony HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16700
-#EXTINF:-1,Combate HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16703
-#EXTINF:-1,HBO 2 HD
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31460
-#EXTINF:-1,HBO 1 HD
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31465
-#EXTINF:-1,Telecine Fun HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16756
-#EXTINF:-1,Telecine Premium HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16758
-#EXTINF:-1,TELECINE ACTION HD
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31583
-#EXTINF:-1,ESPN 3
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16725
-#EXTINF:-1,Telecine Pipoca HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16757
-#EXTINF:-1,ESPN 2 HD+
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/16716
-#EXTINF:-1,ESPN 4K
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31034
-#EXTINF:-1,ESPN 4 HD
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31148
-#EXTINF:-1,MEGAPIX FULLHD
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31278
-#EXTINF:-1,HBO SIGNATURE HD
-http://xcui.vitvabc.xyz:8880/287994018368/287994018368/31473
+#EXTINF:0 type="stream" channelId="2503" size="Small", A&E HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/332
+#EXTINF:0 type="stream" channelId="-1" name="AMC FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/AMC.jpg", AMC FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/175
+#EXTINF:0 type="stream" channelId="-1" name="AXN FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/AXN.jpg", AXN FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234878
+#EXTINF:0 type="stream" channelId="-1" name="CANAL SONY FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/canaldasony250.png", CANAL SONY FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234915
+#EXTINF:0 type="stream" channelId="-1" name="ID FHD²" group="CANAIS: DISCOVERY", ID FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235013
+#EXTINF:0 type="stream" channelId="-1" name="CINEMAX FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/CINEMAX.png", CINEMAX FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234929
+#EXTINF:0 type="stream" channelId="240" name="ANIMAL PLANET HD" group="CANAIS: DOCUMENTARIOS" logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png", ANIMAL PLANET HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/349
+#EXTINF:0 type="stream" channelId="-1" name="ARTE1 FHD²" group="CANAIS: VARIEDADES", ARTE1 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234874
+#EXTINF:0 type="stream" channelId="-1" name="BABYTV HD²" group="CANAIS: INFANTIS", BABYTV HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234881
+#EXTINF:0 type="stream" channelId="-1" name="BAND FHD H265" group="CANAIS: ABERTOS" logo="http://www.rochagalaxia.live/logos/bandlogo480.png", BAND FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/35
+#EXTINF:0 type="stream" channelId="2573" name="BAND NEWS HD" group="CANAIS: NOTICIAS" logo="http://www.rochagalaxia.live/logos/bandnews-logo.png", BAND NEWS HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/335
+#EXTINF:0 type="stream" channelId="-1" name="BAND SP FHD²" group="CANAIS: ABERTOS" logo="http://www.rochagalaxia.live/logos/bandlogo480.png", BAND SP FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234889
+#EXTINF:0 type="stream" channelId="2575" name="BAND SPORTS HD" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/bandsport250.png", BAND SPORTS HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/321
+#EXTINF:0 type="stream" channelId="-1" name="BIS FHD²" group="CANAIS: MUSICA", BIS FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234894
+#EXTINF:0 type="stream" channelId="-1" name="BOOMERANG FHD H265²" group="CANAIS: INFANTIS", BOOMERANG FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234897
+#EXTINF:0 type="stream" channelId="-1" name="CANAL 29 SERIES ANTIGAS" group="CANAIS: ABERTOS" logo="https://www.rochagalaxia.live/logos/canal29seriesantigas250.png", CANAL 29 SERIES ANTIGAS
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/198416
+#EXTINF:0 type="stream" channelId="-1" name="CANAL BRASIL FHD²" group="CANAIS: ABERTOS" logo="http://www.rochagalaxia.live/logos/CANAL%20BRASIL.jpg", CANAL BRASIL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234902
+#EXTINF:0 type="stream" channelId="-1" name="CANAL OFF FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/canaloff250.png", CANAL OFF FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234911
+#EXTINF:0 type="stream" channelId="-1" name="CANAL WOOHOO FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/canalwoohoo250.png", CANAL WOOHOO FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234919
+#EXTINF:0 type="stream" channelId="-1" name="CANÇÃO NOVA FHD²" group="CANAIS: RELIGIOSOS", CANÇÃO NOVA FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234922
+#EXTINF:0 type="stream" channelId="-1" name="CARTONITO FHD²" group="CANAIS: INFANTIS", CARTONITO FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235213
+#EXTINF:0 type="stream" channelId="-1" name="CARTOON NETWORK FHD²" group="CANAIS: INFANTIS", CARTOON NETWORK FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234926
+#EXTINF:0 type="stream" channelId="-1" name="CINE 01" group="CANAIS: PAY-PER-VIEW" logo="http://rochagalaxia.live/logos/cine250.png", CINE 01
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/110737
+#EXTINF:0 type="stream" channelId="-1" name="CINE 02" group="CANAIS: PAY-PER-VIEW" logo="http://rochagalaxia.live/logos/cine250.png", CINE 02
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/110738
+#EXTINF:0 type="stream" channelId="-1" name="CINE 03" group="CANAIS: PAY-PER-VIEW" logo="http://rochagalaxia.live/logos/cine250.png", CINE 03
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/110739
+#EXTINF:0 type="stream" channelId="-1" name="CINE 04" group="CANAIS: PAY-PER-VIEW" logo="http://rochagalaxia.live/logos/cine250.png", CINE 04
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/110740
+#EXTINF:0 type="stream" channelId="-1" name="CINE DISNEY" group="CANAIS: PAY-PER-VIEW" logo="https://www.einerd.com.br/wp-content/uploads/2019/06/Disney-logo-capa.jpg", CINE DISNEY
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/59711
+#EXTINF:0 type="stream" channelId="-1" name="CINE MARVEL" group="CANAIS: PAY-PER-VIEW" logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MarvelLogo.svg", CINE MARVEL
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/59557
+#EXTINF:0 type="stream" channelId="-1" name="CINE SKY 1" group="CANAIS: PAY-PER-VIEW" logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/cine-sky-hd-slide.png", CINE SKY 1
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/20574
+#EXTINF:0 type="stream" channelId="-1" name="CINE SKY 2" group="CANAIS: PAY-PER-VIEW" logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/cine-sky-hd-slide.png", CINE SKY 2
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/20575
+#EXTINF:0 type="stream" channelId="-1" name="CINE SKY 3" group="CANAIS: PAY-PER-VIEW" logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/cine-sky-hd-slide.png", CINE SKY 3
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/20629
+#EXTINF:0 type="stream" channelId="-1" name="CINE SKY 4" group="CANAIS: PAY-PER-VIEW" logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/cine-sky-hd-slide.png", CINE SKY 4
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/20630
+#EXTINF:0 type="stream" channelId="-1" name="CINE SKY 5" group="CANAIS: PAY-PER-VIEW" logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/cine-sky-hd-slide.png", CINE SKY 5
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/20719
+#EXTINF:0 type="stream" channelId="-1" name="CINE SUCESSOS" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/cinesucesso250.png", CINE SUCESSOS
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/166180
+#EXTINF:0 type="stream" channelId="-1" name="CNN BRASIL FHD²" group="CANAIS: NOTICIAS", CNN BRASIL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234932
+#EXTINF:0 type="stream" channelId="-1" name="CNN INTERNACIONAL HD" group="CANAIS: NOTICIAS" logo="http://www.rochagalaxia.live/logos/cnn%20internacional.png", CNN INTERNACIONAL HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/192
+#EXTINF:0 type="stream" channelId="-1" name="COMBATE FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/combat250.png", COMBATE FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234936
+#EXTINF:0 type="stream" channelId="-1" name="COMEDY CENTRAL FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg", COMEDY CENTRAL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234940
+#EXTINF:0 type="stream" channelId="-1" name="CULTURA FHD²" group="CANAIS: ABERTOS" logo="http://www.rochagalaxia.live/logos/tv-cultura.png", CULTURA FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234954
+#EXTINF:0 type="stream" channelId="-1" name="CURTA! FHD²" group="CANAIS: VARIEDADES", CURTA! FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234958
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 2 HD₁" group="CANAIS: DAZN |AMAZON PRIME" logo="http://rochagalaxia.live/logos/dazn250.png", DAZN 2 HD₁
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/110702
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 3 HD₁" group="CANAIS: DAZN |AMAZON PRIME" logo="http://rochagalaxia.live/logos/dazn250.png", DAZN 3 HD₁
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/110704
+#EXTINF:0 type="stream" channelId="-1" name="AMAZON PRIME 1" group="CANAIS: DAZN |AMAZON PRIME" logo="http://rochagalaxia.live/logos/dazn250.png", AMAZON PRIME 1
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/110706
+#EXTINF:0 type="stream" channelId="-1" name="AMAZON PRIME 2" group="CANAIS: DAZN |AMAZON PRIME" logo="http://rochagalaxia.live/logos/dazn250.png", AMAZON PRIME 2
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/110699
+#EXTINF:0 type="stream" channelId="-1" name="Dazn FHD" group="CANAIS: DAZN |AMAZON PRIME" logo="http://rochagalaxia.live/logos/dazn250.png", Dazn FHD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2046
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY CHANNEL FHD²" group="CANAIS: DISCOVERY", DISCOVERY CHANNEL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234802
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY H&H FHD²" group="CANAIS: DISCOVERY", DISCOVERY H&H FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234806
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY KIDS FHD²" group="CANAIS: INFANTIS", DISCOVERY KIDS FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234810
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY SCIENCE FHD²" group="CANAIS: DISCOVERY", DISCOVERY SCIENCE FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234814
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY THEATER FHD²" group="CANAIS: DISCOVERY", DISCOVERY THEATER FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234818
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY TURBO FHD²" group="CANAIS: DISCOVERY", DISCOVERY TURBO FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234822
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY WORLD FHD²" group="CANAIS: DISCOVERY", DISCOVERY WORLD FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234826
+#EXTINF:0 type="stream" channelId="-1" name="DISNEY CHANNEL FHD²" group="CANAIS: INFANTIS", DISNEY CHANNEL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234962
+#EXTINF:0 type="stream" channelId="-1" name="DOGTV FHD²" group="CANAIS: VARIEDADES", DOGTV FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234972
+#EXTINF:0 type="stream" channelId="-1" name="DUBAI SPORTS 1 FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/abudabisport250.png", DUBAI SPORTS 1 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234975
+#EXTINF:0 type="stream" channelId="-1" name="DUBAI SPORTS 2 FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/abudabisport250.png", DUBAI SPORTS 2 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234976
+#EXTINF:0 type="stream" channelId="-1" name="DW ALEMANHA HD" group="CANAIS: NOTICIAS" logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo_wordmark.png", DW ALEMANHA HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/271
+#EXTINF:0 type="stream" channelId="-1" name="DW DEUTSCH" group="CANAIS: VARIEDADES", DW DEUTSCH
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2205
+#EXTINF:0 type="stream" channelId="-1" name="DW DEUTSCHE +" group="CANAIS: VARIEDADES", DW DEUTSCHE +
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2149
+#EXTINF:0 type="stream" channelId="-1" name="DW ENGLISH" group="CANAIS: VARIEDADES" logo="https://i.pinimg.com/originals/87/a6/f7/87a6f7a17a1e9a95e4b28c3822568b48.png", DW ENGLISH
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2150
+#EXTINF:0 type="stream" channelId="-1" name="FILM&ARTS FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/films%20arts.png", FILM&ARTS FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234985
+#EXTINF:0 type="stream" channelId="-1" name="DW ESPANHOL" group="CANAIS: VARIEDADES" logo="https://achet.cl/wp-content/uploads/de-dw-espano.jpg", DW ESPANHOL
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2151
+#EXTINF:0 type="stream" channelId="-1" name="E! FHD²" group="CANAIS: VARIEDADES", E! FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234978
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 2 FHD²" group="CANAIS: ESPORTES" logo="http://rochagalaxia.live/logos/espn2250.png", ESPN 2 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234850
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 3 FHD²" group="CANAIS: ESPORTES" logo="https://logodix.com/logo/1706918.png", ESPN 3 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234854
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 4 FHD²" group="CANAIS: ESPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/6/66/ESPN4_logo.png", ESPN 4 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234858
+#EXTINF:0 type="stream" channelId="-1" name="ESPN EXTRA FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/espnhextra250.png", ESPN EXTRA FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234846
+#EXTINF:0 type="stream" channelId="-1" name="ESPN FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/espn250.png", ESPN FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234842
+#EXTINF:0 type="stream" channelId="-1" name="EUROCHANNEL FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/eurochanel250.png", EUROCHANNEL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235218
+#EXTINF:0 type="stream" channelId="-1" name="FASHION TV FHD²" group="CANAIS: VARIEDADES", FASHION TV FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234981
+#EXTINF:0 type="stream" channelId="-1" name="FISH TV FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/", FISH TV FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234989
+#EXTINF:0 type="stream" channelId="-1" name="FOOD NETWORK FHD²" group="CANAIS: VARIEDADES", FOOD NETWORK FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234993
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 2 FHD²" group="CANAIS: ESPORTES", FOX SPORTS 2 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234997
+#EXTINF:0 type="stream" channelId="2454" name="FUTURA HD" group="CANAIS: ABERTOS" logo="http://www.rochagalaxia.live/logos/FUTURA.png", FUTURA HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2042
+#EXTINF:0 type="stream" channelId="-1" name="FX FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/FX.jpg", FX FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235001
+#EXTINF:0 type="stream" channelId="-1" name="GLOBO MINAS HD" group="CANAIS : GLOBO" logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png", GLOBO MINAS HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/152
+#EXTINF:0 type="stream" channelId="-1" name="GLOBO NEWS FHD H265" group="CANAIS: NOTICIAS" logo="http://www.rochagalaxia.live/logos/globonews.jpg", GLOBO NEWS FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/162
+#EXTINF:0 type="stream" channelId="2893" name="GLOBO NEWS HD" group="CANAIS: NOTICIAS" logo="http://www.rochagalaxia.live/logos/globonews.jpg", GLOBO NEWS HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/365
+#EXTINF:0 type="stream" channelId="-1" name="GLOBO SP FHD H265" group="CANAIS : GLOBO" logo="http://www.rochagalaxia.live/logos/logglobonova.png", GLOBO SP FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/155
+#EXTINF:0 type="stream" channelId="-1" name="GLOOB FHD H265" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/GLOOB.jpg", GLOOB FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/91
+#EXTINF:0 type="stream" channelId="2581" name="GLOOB HD" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/GLOOB.jpg", GLOOB HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/318
+#EXTINF:0 type="stream" channelId="2581" name="GLOOB SD" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/GLOOB.jpg", GLOOB SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/233
+#EXTINF:0 type="stream" channelId="-1" name="GLOOBINHO FHD H265" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/GLOOBINHO.png", GLOOBINHO FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2226
+#EXTINF:0 type="stream" channelId="-1" name="GLOOBINHO HD" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/GLOOBINHO.png", GLOOBINHO HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2081
+#EXTINF:0 type="stream" channelId="5071" name="GLOOBINHO SD" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/GLOOBINHO.png", GLOOBINHO SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2080
+#EXTINF:0 type="stream" channelId="-1" name="GLOVO TVTEM SJRP FHD" group="CANAIS : GLOBO" logo="http://www.rochagalaxia.live/logos/TV_TEM.png", GLOVO TVTEM SJRP FHD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/36687
+#EXTINF:0 type="stream" channelId="-1" name="GNT FHD H265" group="CANAIS: VARIEDADES" logo="http://www.rochagalaxia.live/logos/GNT.jpg", GNT FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/116
+#EXTINF:0 type="stream" channelId="2722" name="GNT HD" group="CANAIS: VARIEDADES" logo="http://www.rochagalaxia.live/logos/Logo_Canal_OFF.png", GNT HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2082
+#EXTINF:0 type="stream" channelId="2582" name="GNT SD" group="CANAIS: VARIEDADES" logo="http://www.rochagalaxia.live/logos/GNT.jpg", GNT SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/225
+#EXTINF:0 type="stream" channelId="1330" name="HBO  HD" group="CANAIS: REDE HBO" logo="http://www.rochagalaxia.live/logos/HBO.png", HBO  HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/278
+#EXTINF:0 type="stream" channelId="-1" name="HBO + FHD²" group="CANAIS: REDE HBO" logo="http://www.rochagalaxia.live/logos/HBO.png", HBO + FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234478
+#EXTINF:0 type="stream" channelId="-1" name="HBO 2 FHD²" group="CANAIS: REDE HBO" logo="http://www.rochagalaxia.live/logos/HBO2.png", HBO 2 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234468
+#EXTINF:0 type="stream" channelId="-1" name="HBO FAMILY FHD²" group="CANAIS: REDE HBO" logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png", HBO FAMILY FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234471
+#EXTINF:0 type="stream" channelId="-1" name="HBO FHD²" group="CANAIS: REDE HBO" logo="http://www.rochagalaxia.live/logos/HBO.png", HBO FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234475
+#EXTINF:0 type="stream" channelId="-1" name="HBO MAX" group="CANAIS: ESPORTES" logo="https://www.rochagalaxia.live/logos/hbomax250.png", HBO MAX
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205469
+#EXTINF:0 type="stream" channelId="-1" name="HBO MAX 01 ALTERNATIVO" group="CANAIS: ESPORTES" logo="https://rochagalaxia.live/logos/hbomax250.png", HBO MAX 01 ALTERNATIVO
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205841
+#EXTINF:0 type="stream" channelId="-1" name="HBO MAX 02 ALTERNATIVO" group="CANAIS: ESPORTES" logo="https://rochagalaxia.live/logos/hbomax250.png", HBO MAX 02 ALTERNATIVO
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205842
+#EXTINF:0 type="stream" channelId="-1" name="HBO MAX 03 ALTERNATIVO" group="CANAIS: ESPORTES" logo="https://rochagalaxia.live/logos/hbomax250.png", HBO MAX 03 ALTERNATIVO
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205843
+#EXTINF:0 type="stream" channelId="-1" name="HBO MAX 04 ALTERNATIVO" group="CANAIS: ESPORTES" logo="https://rochagalaxia.live/logos/hbomax250.png", HBO MAX 04 ALTERNATIVO
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205844
+#EXTINF:0 type="stream" channelId="-1" name="HBO MAX 05 ALTERNATIVO" group="CANAIS: ESPORTES" logo="https://rochagalaxia.live/logos/hbomax250.png", HBO MAX 05 ALTERNATIVO
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205845
+#EXTINF:0 type="stream" channelId="-1" name="HBO MAX 2" group="CANAIS: ESPORTES" logo="https://rochagalaxia.live/logos/hbomax250.png", HBO MAX 2
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205470
+#EXTINF:0 type="stream" channelId="-1" name="HBO MAX 3" group="CANAIS: ESPORTES" logo="https://rochagalaxia.live/logos/hbomax250.png", HBO MAX 3
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205471
+#EXTINF:0 type="stream" channelId="-1" name="HBO MUNDI FHD²" group="CANAIS: REDE HBO" logo="http://rochagalaxia.live/logos/hbomundi.png", HBO MUNDI FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234481
+#EXTINF:0 type="stream" channelId="-1" name="HBO POP FHD²" group="CANAIS: REDE HBO" logo="http://rochagalaxia.live/logos/hbopop.png", HBO POP FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234485
+#EXTINF:0 type="stream" channelId="-1" name="HBO SIGNATURE FHD²" group="CANAIS: REDE HBO" logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png", HBO SIGNATURE FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234488
+#EXTINF:0 type="stream" channelId="-1" name="HBO XTREME FHD²" group="CANAIS: REDE HBO" logo="http://rochagalaxia.live/logos/hboxtreme.png", HBO XTREME FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234491
+#EXTINF:0 type="stream" channelId="-1" name="HBO+ FHD H265" group="CANAIS: REDE HBO" logo="http://www.rochagalaxia.live/logos/HBO.png", HBO+ FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/1992
+#EXTINF:0 type="stream" channelId="-1" name="HBO+ HD" group="CANAIS: REDE HBO" logo="http://www.rochagalaxia.live/logos/HBO.png", HBO+ HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/183686
+#EXTINF:0 type="stream" channelId="-1" name="HBO+ SD" group="CANAIS: REDE HBO" logo="http://www.rochagalaxia.live/logos/HBO.png", HBO+ SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2195
+#EXTINF:0 type="stream" channelId="-1" name="HGTV FHD²" group="CANAIS: DOCUMENTARIOS", HGTV FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235005
+#EXTINF:0 type="stream" channelId="-1" name="HISTORY 2 FHD H265" group="CANAIS: DOCUMENTARIOS" logo="http://www.rochagalaxia.live/logos/HISTORY.png", HISTORY 2 FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/50
+#EXTINF:0 type="stream" channelId="1201" name="HISTORY 2 SD" group="CANAIS: DOCUMENTARIOS" logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png", HISTORY 2 SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2086
+#EXTINF:0 type="stream" channelId="-1" name="HISTORY CHANNEL FHD H265²" group="CANAIS: DOCUMENTARIOS", HISTORY CHANNEL FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235007
+#EXTINF:0 type="stream" channelId="-1" name="HISTORY CHANNEL FHD²" group="CANAIS: DOCUMENTARIOS", HISTORY CHANNEL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235008
+#EXTINF:0 type="stream" channelId="-1" name="HISTORY CHANNEL HD²" group="CANAIS: DOCUMENTARIOS", HISTORY CHANNEL HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235009
+#EXTINF:0 type="stream" channelId="-1" name="HISTORY CHANNEL SD²" group="CANAIS: DOCUMENTARIOS", HISTORY CHANNEL SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235010
+#EXTINF:0 type="stream" channelId="-1" name="HISTORY FHD H265" group="CANAIS: DOCUMENTARIOS" logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png", HISTORY FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/93
+#EXTINF:0 type="stream" channelId="1456" name="HISTORY HD" group="CANAIS: DOCUMENTARIOS" logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png", HISTORY HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/281
+#EXTINF:0 type="stream" channelId="1455" name="HISTORY SD" group="CANAIS: DOCUMENTARIOS" logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png", HISTORY SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/196
+#EXTINF:0 type="stream" channelId="-1" name="I-SAT SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/ISAT250.png", I-SAT SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235011
+#EXTINF:0 type="stream" channelId="-1" name="ID FHD H265" group="CANAIS: DISCOVERY" logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png", ID FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/282
+#EXTINF:0 type="stream" channelId="-1" name="ID FHD H265²" group="CANAIS: DISCOVERY", ID FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235012
+#EXTINF:0 type="stream" channelId="-1" name="ID HD" group="CANAIS: DISCOVERY" logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png", ID HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/369
+#EXTINF:0 type="stream" channelId="-1" name="ID HD²" group="CANAIS: DISCOVERY", ID HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235014
+#EXTINF:0 type="stream" channelId="59" name="ID SD" group="CANAIS: DISCOVERY" logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png", ID SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2088
+#EXTINF:0 type="stream" channelId="-1" name="ID SD²" group="CANAIS: DISCOVERY", ID SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235015
+#EXTINF:0 type="stream" channelId="-1" name="JOVEM PAN NEWS FHD" group="CANAIS: NOTICIAS", JOVEM PAN NEWS FHD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235016
+#EXTINF:0 type="stream" channelId="-1" name="JOVEM PAN NEWS SD" group="CANAIS: NOTICIAS", JOVEM PAN NEWS SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235017
+#EXTINF:0 type="stream" channelId="-1" name="JOVEN PAN NEWS HD" group="CANAIS: NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jovem_Pan_logo_and_wordmark.svg/814px-Jovem_Pan_logo_and_wordmark.svg.png", JOVEN PAN NEWS HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/211526
+#EXTINF:0 type="stream" channelId="-1" name="LIFETIME FHD H265" group="CANAIS: VARIEDADES" logo="http://www.rochagalaxia.live/logos/LIFETIME.png", LIFETIME FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/94
+#EXTINF:0 type="stream" channelId="-1" name="LIFETIME FHD H265²" group="CANAIS: VARIEDADES", LIFETIME FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235018
+#EXTINF:0 type="stream" channelId="-1" name="LIFETIME FHD²" group="CANAIS: VARIEDADES", LIFETIME FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235019
+#EXTINF:0 type="stream" channelId="1200" name="LIFETIME HD" group="CANAIS: VARIEDADES", LIFETIME HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2209
+#EXTINF:0 type="stream" channelId="-1" name="LIFETIME HD²" group="CANAIS: VARIEDADES", LIFETIME HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235020
+#EXTINF:0 type="stream" channelId="1200" name="LIFETIME SD" group="CANAIS: VARIEDADES" logo="http://www.rochagalaxia.live/logos/LIFETIME.png", LIFETIME SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/246
+#EXTINF:0 type="stream" channelId="-1" name="LIFETIME SD²" group="CANAIS: VARIEDADES", LIFETIME SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235021
+#EXTINF:0 type="stream" channelId="-1" name="LIGA FUTSAL HD" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/ligadefutsal250.png", LIGA FUTSAL HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/109435
+#EXTINF:0 type="stream" channelId="-1" name="LIGA FUTSAL SD" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/ligadefutsal250.png", LIGA FUTSAL SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/109436
+#EXTINF:0 type="stream" channelId="-1" name="LIKE FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/LIKE.png", LIKE FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/128
+#EXTINF:0 type="stream" channelId="-1" name="LOADING FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/canalloading250.png", LOADING FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235022
+#EXTINF:0 type="stream" channelId="-1" name="LOADING FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/canalloading250.png", LOADING FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235023
+#EXTINF:0 type="stream" channelId="-1" name="LOADING HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/canalloading250.png", LOADING HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235024
+#EXTINF:0 type="stream" channelId="-1" name="LOADING SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/canalloading250.png", LOADING SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235025
+#EXTINF:0 type="stream" channelId="-1" name="MAIS GLOBOSAT FHD H265" group="CANAIS: DOCUMENTARIOS" logo="http://www.rochagalaxia.live/logos/mais%20globosat.png", MAIS GLOBOSAT FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/129
+#EXTINF:0 type="stream" channelId="2580" name="MAIS GLOBOSAT HD" group="CANAIS: DOCUMENTARIOS" logo="http://www.rochagalaxia.live/logos/mais%20globosat.png", MAIS GLOBOSAT HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2090
+#EXTINF:0 type="stream" channelId="2580" name="MAIS GLOBOSAT SD" group="CANAIS: DOCUMENTARIOS" logo="http://www.rochagalaxia.live/logos/mais%20globosat.png", MAIS GLOBOSAT SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/237
+#EXTINF:0 type="stream" channelId="-1" name="MAIS NA TELA FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/maisnatela250.png", MAIS NA TELA FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235026
+#EXTINF:0 type="stream" channelId="-1" name="MAIS NA TELA FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/maisnatela250.png", MAIS NA TELA FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235027
+#EXTINF:0 type="stream" channelId="-1" name="MAIS NA TELA HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/maisnatela250.png", MAIS NA TELA HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235028
+#EXTINF:0 type="stream" channelId="-1" name="MAIS NA TELA SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/maisnatela250.png", MAIS NA TELA SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235029
+#EXTINF:0 type="stream" channelId="-1" name="MEGAPIX FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/MEGAPIX.png", MEGAPIX FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/145
+#EXTINF:0 type="stream" channelId="-1" name="MEGAPIX FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/MEGAPIX.png", MEGAPIX FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235030
+#EXTINF:0 type="stream" channelId="-1" name="MEGAPIX FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/MEGAPIX.png", MEGAPIX FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235031
+#EXTINF:0 type="stream" channelId="2589" name="MEGAPIX HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/MEGAPIX.png", MEGAPIX HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/356
+#EXTINF:0 type="stream" channelId="-1" name="MEGAPIX HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/MEGAPIX.png", MEGAPIX HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235032
+#EXTINF:0 type="stream" channelId="2588" name="MEGAPIX SD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/MEGAPIX.png", MEGAPIX SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/219
+#EXTINF:0 type="stream" channelId="-1" name="MEGAPIX SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/MEGAPIX.png", MEGAPIX SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235033
+#EXTINF:0 type="stream" channelId="-1" name="MODO VIAGEM FHD²" group="CANAIS: VARIEDADES", MODO VIAGEM FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235224
+#EXTINF:0 type="stream" channelId="-1" name="MODO VIAGEM HD²" group="CANAIS: VARIEDADES", MODO VIAGEM HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235226
+#EXTINF:0 type="stream" channelId="-1" name="MODO VIAGEM HD²" group="CANAIS: VARIEDADES", MODO VIAGEM HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235225
+#EXTINF:0 type="stream" channelId="-1" name="MTV FHD H265" group="CANAIS: MUSICA" logo="http://www.rochagalaxia.live/logos/MTV.jpg", MTV FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/96
+#EXTINF:0 type="stream" channelId="-1" name="MTV FHD H265²" group="CANAIS: MUSICA", MTV FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235038
+#EXTINF:0 type="stream" channelId="-1" name="MTV FHD²" group="CANAIS: MUSICA", MTV FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235039
+#EXTINF:0 type="stream" channelId="1484" name="MTV HD" group="CANAIS: MUSICA" logo="http://www.rochagalaxia.live/logos/MTV.jpg", MTV HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/286
+#EXTINF:0 type="stream" channelId="-1" name="MTV HD²" group="CANAIS: MUSICA", MTV HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235040
+#EXTINF:0 type="stream" channelId="-1" name="MTV LIVE FHD H265" group="CANAIS: MUSICA" logo="http://www.rochagalaxia.live/logos/mtvLIVE.jpg", MTV LIVE FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/55
+#EXTINF:0 type="stream" channelId="-1" name="MTV LIVE FHD H265²" group="CANAIS: MUSICA", MTV LIVE FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235041
+#EXTINF:0 type="stream" channelId="-1" name="MTV LIVE FHD²" group="CANAIS: MUSICA", MTV LIVE FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235042
+#EXTINF:0 type="stream" channelId="237" name="MTV LIVE HD" group="CANAIS: MUSICA" logo="http://www.rochagalaxia.live/logos/MTV.jpg", MTV LIVE HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/287
+#EXTINF:0 type="stream" channelId="-1" name="MTV LIVE HD²" group="CANAIS: MUSICA", MTV LIVE HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235043
+#EXTINF:0 type="stream" channelId="-1" name="MTV LIVE SD²" group="CANAIS: MUSICA", MTV LIVE SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235044
+#EXTINF:0 type="stream" channelId="1973" name="MTV SD" group="CANAIS: VARIEDADES" logo="http://www.rochagalaxia.live/logos/MTV.jpg", MTV SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2197
+#EXTINF:0 type="stream" channelId="-1" name="MTV SD²" group="CANAIS: MUSICA", MTV SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235045
+#EXTINF:0 type="stream" channelId="-1" name="MULTISHOW  FHD H265" group="CANAIS: MUSICA" logo="http://www.rochagalaxia.live/logos/MULTISHOW.png", MULTISHOW  FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/97
+#EXTINF:0 type="stream" channelId="-1" name="MULTISHOW FHD H265²" group="CANAIS: VARIEDADES", MULTISHOW FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235046
+#EXTINF:0 type="stream" channelId="-1" name="MULTISHOW FHD²" group="CANAIS: VARIEDADES", MULTISHOW FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235047
+#EXTINF:0 type="stream" channelId="2590" name="MULTISHOW HD" group="CANAIS: MUSICA" logo="http://www.rochagalaxia.live/logos/MULTISHOW.png", MULTISHOW HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2091
+#EXTINF:0 type="stream" channelId="-1" name="MULTISHOW HD²" group="CANAIS: VARIEDADES", MULTISHOW HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235048
+#EXTINF:0 type="stream" channelId="2590" name="MULTISHOW SD" group="CANAIS: MUSICA" logo="http://www.rochagalaxia.live/logos/MULTISHOW.png", MULTISHOW SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/236
+#EXTINF:0 type="stream" channelId="-1" name="MULTISHOW SD²" group="CANAIS: VARIEDADES", MULTISHOW SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235049
+#EXTINF:0 type="stream" channelId="-1" name="MUSIC BOX BRAZIL FHD²" group="CANAIS: MUSICA", MUSIC BOX BRAZIL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235050
+#EXTINF:0 type="stream" channelId="-1" name="MUSIC BOX BRAZIL HD²" group="CANAIS: MUSICA", MUSIC BOX BRAZIL HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235051
+#EXTINF:0 type="stream" channelId="-1" name="MUSIC BOX BRAZIL SD²" group="CANAIS: MUSICA", MUSIC BOX BRAZIL SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235052
+#EXTINF:0 type="stream" channelId="27" name="MusicBox SD" group="CANAIS: MUSICA", MusicBox SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/248
+#EXTINF:0 type="stream" channelId="-1" name="NATGEO FHD H265²" group="CANAIS: DOCUMENTARIOS", NATGEO FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235053
+#EXTINF:0 type="stream" channelId="-1" name="NATGEO FHD²" group="CANAIS: DOCUMENTARIOS", NATGEO FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235054
+#EXTINF:0 type="stream" channelId="-1" name="NATGEO HD²" group="CANAIS: DOCUMENTARIOS", NATGEO HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235055
+#EXTINF:0 type="stream" channelId="-1" name="NATGEO SD²" group="CANAIS: DOCUMENTARIOS", NATGEO SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235060
+#EXTINF:0 type="stream" channelId="-1" name="NATIONAL GEOGRAPHIC FHD H265" group="CANAIS: DOCUMENTARIOS" logo="http://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg", NATIONAL GEOGRAPHIC FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/56
+#EXTINF:0 type="stream" channelId="207" name="NATIONAL GEOGRAPHIC HD" group="CANAIS: DOCUMENTARIOS" logo="http://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg", NATIONAL GEOGRAPHIC HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2212
+#EXTINF:0 type="stream" channelId="56" name="NATIONAL GEOGRAPHIC SD" group="CANAIS: DOCUMENTARIOS" logo="http://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg", NATIONAL GEOGRAPHIC SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2093
+#EXTINF:0 type="stream" channelId="-1" name="NHK HD²" group="CANAIS: INFANTIS", NHK HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235065
+#EXTINF:0 type="stream" channelId="-1" name="NHK SD²" group="CANAIS: INFANTIS", NHK SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235066
+#EXTINF:0 type="stream" channelId="-1" name="NICK FHD H265" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png", NICK FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2227
+#EXTINF:0 type="stream" channelId="334" name="NICK HD" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png", NICK HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/362
+#EXTINF:0 type="stream" channelId="-1" name="NICK JR FHD H265" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png", NICK JR FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/99
+#EXTINF:0 type="stream" channelId="-1" name="NICK JR FHD H265²" group="CANAIS: INFANTIS", NICK JR FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235067
+#EXTINF:0 type="stream" channelId="-1" name="NICK JR FHD²" group="CANAIS: INFANTIS", NICK JR FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235068
+#EXTINF:0 type="stream" channelId="2710" name="NICK JR HD" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png", NICK JR HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/288
+#EXTINF:0 type="stream" channelId="-1" name="NICK JR HD²" group="CANAIS: INFANTIS", NICK JR HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235069
+#EXTINF:0 type="stream" channelId="-1" name="NICK JR SD²" group="CANAIS: INFANTIS", NICK JR SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235070
+#EXTINF:0 type="stream" channelId="-1" name="NICKELODEON FHD H265²" group="CANAIS: INFANTIS", NICKELODEON FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235071
+#EXTINF:0 type="stream" channelId="-1" name="NICKELODEON FHD²" group="CANAIS: INFANTIS", NICKELODEON FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235072
+#EXTINF:0 type="stream" channelId="-1" name="NICKELODEON HD²" group="CANAIS: INFANTIS", NICKELODEON HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235073
+#EXTINF:0 type="stream" channelId="41" name="NICKELODEON SD" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png", NICKELODEON SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2214
+#EXTINF:0 type="stream" channelId="-1" name="NICKELODEON SD²" group="CANAIS: INFANTIS", NICKELODEON SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235074
+#EXTINF:0 type="stream" channelId="-1" name="NICKELONDEON FHD H265" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png", NICKELONDEON FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/143
+#EXTINF:0 type="stream" channelId="322" name="NICKJR SD" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png", NICKJR SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/250
+#EXTINF:0 type="stream" channelId="-1" name="NOSSA WEB TV" group="CANAIS: ABERTOS" logo="https://nossawebtv.noar24horas.com.br/images/Logotipos/171446507_367108864502770_7562834221812458722_n.png", NOSSA WEB TV
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/231998
+#EXTINF:0 type="stream" channelId="-1" name="OFF FHD H265" group="CANAIS: VARIEDADES" logo="http://www.rochagalaxia.live/logos/Logo_Canal_OFF.png", OFF FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/130
+#EXTINF:0 type="stream" channelId="2594" name="OFF HD" group="CANAIS: VARIEDADES" logo="http://www.rochagalaxia.live/logos/Logo_Canal_OFF.png", OFF HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2095
+#EXTINF:0 type="stream" channelId="2594" name="OFF SD" group="CANAIS: VARIEDADES" logo="http://www.rochagalaxia.live/logos/Logo_Canal_OFF.png", OFF SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2094
+#EXTINF:0 type="stream" channelId="-1" name="PARAMOUNT FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png", PARAMOUNT FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235076
+#EXTINF:0 type="stream" channelId="-1" name="PARAMOUNT FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png", PARAMOUNT FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235077
+#EXTINF:0 type="stream" channelId="-1" name="PARAMOUNT HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png", PARAMOUNT HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235078
+#EXTINF:0 type="stream" channelId="-1" name="PARAMOUNT CHANNEL SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png", PARAMOUNT CHANNEL SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235079
+#EXTINF:0 type="stream" channelId="-1" name="PARAMOUNT FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png", PARAMOUNT FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/100
+#EXTINF:0 type="stream" channelId="-1" name="PARAMOUNT HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png", PARAMOUNT HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2215
+#EXTINF:0 type="stream" channelId="1719" name="PARAMOUNT SD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png", PARAMOUNT SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/228
+#EXTINF:0 type="stream" channelId="-1" name="PLAYKIDS" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/playkids.png", PLAYKIDS
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2096
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 2 FHD H265" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 2 FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/71
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 2 FHD H265²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 2 FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234440
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 2 FHD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 2 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234441
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 2 HD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 2 HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/291
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 2 HD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 2 HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234442
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 2 SD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 2 SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2097
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 2 SD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 2 SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234443
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 3 FHD H265" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 3 FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/72
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 3 FHD H265²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 3 FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234444
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 3 FHD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 3 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234445
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 3 HD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 3 HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/292
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 3 SD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 3 SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2098
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 3 SD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 3 SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234446
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 4 FHD H265" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 4 FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/73
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 4 FHD H265²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 4 FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234447
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 4 FHD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 4 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234448
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 4 HD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 4 HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/290
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 4 HD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 4 HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234449
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 4 SD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 4 SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/251
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 4 SD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 4 SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234450
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 5 FHD H265" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 5 FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/101
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 5 FHD H265²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 5 FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234451
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 5 FHD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 5 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234452
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 5 HD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 5 HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/293
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 5 HD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 5 HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234453
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 5 SD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 5 SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2099
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 5 SD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 5 SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234454
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 6 FHD H265" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 6 FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/102
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 6 FHD H265²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 6 FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234455
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 6 FHD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 6 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234456
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 6 HD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 6 HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/294
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 6 HD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 6 HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234457
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 6 SD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 6 SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2100
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 6 SD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 6 SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234458
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 7 FHD H265" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 7 FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/115
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 7 FHD H265²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 7 FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234459
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 7 FHD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 7 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234460
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 7 HD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 7 HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2101
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 7 HD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 7 HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234461
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 7 SD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 7 SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/252
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 7 SD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 7 SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234462
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE 8 SD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 8 SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/253
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE CLUBES FHD H265" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE CLUBES FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/70
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE CLUBES FHD H265²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE CLUBES FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234463
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE CLUBES FHD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE CLUBES FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234464
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE CLUBES HD¹" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE CLUBES HD¹
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/289
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE CLUBES HD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE CLUBES HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234466
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE CLUBES SD" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE CLUBES SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/259
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE CLUBES SD²" group="CANAIS: REDE PREMIERE" logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE CLUBES SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234465
+#EXTINF:0 type="stream" channelId="-1" name="PRIME BOX BRAZIL FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/PRIMEBOX.png", PRIME BOX BRAZIL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235080
+#EXTINF:0 type="stream" channelId="-1" name="PRIME BOX BRAZIL HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/PRIMEBOX.png", PRIME BOX BRAZIL HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235081
+#EXTINF:0 type="stream" channelId="-1" name="PRIME BOX BRAZIL SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/PRIMEBOX.png", PRIME BOX BRAZIL SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235082
+#EXTINF:0 type="stream" channelId="2593" name="PRIMEBOX BRASIL SD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/PRIMEBOX.png", PRIMEBOX BRASIL SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/218
+#EXTINF:0 type="stream" channelId="-1" name="REDE VIDA FHD H265²" group="CANAIS: RELIGIOSOS", REDE VIDA FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235092
+#EXTINF:0 type="stream" channelId="-1" name="REDE VIDA FHD²" group="CANAIS: RELIGIOSOS", REDE VIDA FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235093
+#EXTINF:0 type="stream" channelId="2451" name="REDE VIDA HD" group="CANAIS: RELIGIOSOS", REDE VIDA HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2120
+#EXTINF:0 type="stream" channelId="-1" name="REDE VIDA HD²" group="CANAIS: RELIGIOSOS", REDE VIDA HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235094
+#EXTINF:0 type="stream" channelId="2451" name="REDE VIDA SD" group="CANAIS: RELIGIOSOS", REDE VIDA SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2119
+#EXTINF:0 type="stream" channelId="-1" name="REDE VIDA SD²" group="CANAIS: RELIGIOSOS", REDE VIDA SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235095
+#EXTINF:0 type="stream" channelId="-1" name="REDETV HD²" group="CANAIS: ABERTOS" logo="http://www.rochagalaxia.live/logos/REDE_TV.png", REDETV HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235096
+#EXTINF:0 type="stream" channelId="2571" name="SBT HD" group="CANAIS: SBT" logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png", SBT HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2123
+#EXTINF:0 type="stream" channelId="-1" name="SBT SP FHD H265" group="CANAIS: SBT" logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png", SBT SP FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/104
+#EXTINF:0 type="stream" channelId="-1" name="SBT SP HD" group="CANAIS: SBT" logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png", SBT SP HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/299
+#EXTINF:0 type="stream" channelId="-1" name="SBT SP SD" group="CANAIS: SBT" logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png", SBT SP SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/328
+#EXTINF:0 type="stream" channelId="-1" name="SIC INTERNACIONAL SD²" group="CANAIS: NOTICIAS", SIC INTERNACIONAL SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235098
+#EXTINF:0 type="stream" channelId="2645" name="SIC SD" group="CANAIS: ABERTOS" logo="http://www.rochagalaxia.live/logos/Logo_SIC_.png", SIC SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/254
+#EXTINF:0 type="stream" channelId="-1" name="SONY FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SONY.png", SONY FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/106
+#EXTINF:0 type="stream" channelId="530" name="SONY HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SONY.png", SONY HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/337
+#EXTINF:0 type="stream" channelId="188" name="SONY SD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SONY.png", SONY SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2043
+#EXTINF:0 type="stream" channelId="2896" name="SPACE HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SPACE.png", SPACE HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2219
+#EXTINF:0 type="stream" channelId="-1" name="SPACE HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SPACE.png", SPACE HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235105
+#EXTINF:0 type="stream" channelId="383" name="SPACE SD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SPACE.png", SPACE SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2128
+#EXTINF:0 type="stream" channelId="-1" name="SPACE SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SPACE.png", SPACE SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235106
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 2 FHD H265" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv2250.png", SPORTV 2 FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/68
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 2 FHD H265²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv2250.png", SPORTV 2 FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234829
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 2 FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv2250.png", SPORTV 2 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234830
+#EXTINF:0 type="stream" channelId="2898" name="SPORTV 2 HD" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv2250.png", SPORTV 2 HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/302
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 2 HD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv2250.png", SPORTV 2 HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234831
+#EXTINF:0 type="stream" channelId="2600" name="SPORTV 2 SD" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv2250.png", SPORTV 2 SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2130
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 2 SD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv2250.png", SPORTV 2 SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234832
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 3 FHD H265" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv3250.png", SPORTV 3 FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/69
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 3 FHD H265²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv3250.png", SPORTV 3 FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234833
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 3 FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv3250.png", SPORTV 3 FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234834
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 3 HD" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv3250.png", SPORTV 3 HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/303
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 3 HD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv3250.png", SPORTV 3 HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234835
+#EXTINF:0 type="stream" channelId="2601" name="SPORTV 3 SD" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv3250.png", SPORTV 3 SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/229
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 3 SD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv3250.png", SPORTV 3 SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234836
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV FHD H265" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv250.png", SPORTV FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/66
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV FHD H265²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv250.png", SPORTV FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234837
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV FHD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv250.png", SPORTV FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234838
+#EXTINF:0 type="stream" channelId="2897" name="SPORTV HD" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv250.png", SPORTV HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/301
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV HD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv250.png", SPORTV HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234839
+#EXTINF:0 type="stream" channelId="2599" name="SPORTV SD" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv250.png", SPORTV SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2129
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV SD²" group="CANAIS: ESPORTES" logo="http://www.rochagalaxia.live/logos/sportv250.png", SPORTV SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234840
+#EXTINF:0 type="stream" channelId="-1" name="STADIO TNT FHD 3" group="CANAIS: TNT STADIO" logo="http://rochagalaxia.live/logos/tntstadio250.png", STADIO TNT FHD 3
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/109402
+#EXTINF:0 type="stream" channelId="-1" name="STADIO TNT FHD 4" group="CANAIS: TNT STADIO" logo="http://rochagalaxia.live/logos/tntstadio250.png", STADIO TNT FHD 4
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/109403
+#EXTINF:0 type="stream" channelId="-1" name="STAR CHANNEL FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/starchannel.png", STAR CHANNEL FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/44
+#EXTINF:0 type="stream" channelId="-1" name="STAR CHANNEL FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/starchannel.png", STAR CHANNEL FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235107
+#EXTINF:0 type="stream" channelId="-1" name="STAR CHANNEL FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/starchannel.png", STAR CHANNEL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235108
+#EXTINF:0 type="stream" channelId="177" name="STAR CHANNEL HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/starchannel.png", STAR CHANNEL HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2207
+#EXTINF:0 type="stream" channelId="-1" name="STAR CHANNEL HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/starchannel.png", STAR CHANNEL HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235109
+#EXTINF:0 type="stream" channelId="177" name="STAR CHANNEL SD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/starchannel.png", STAR CHANNEL SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/244
+#EXTINF:0 type="stream" channelId="-1" name="STAR CHANNEL SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/starchannel.png", STAR CHANNEL SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235110
+#EXTINF:0 type="stream" channelId="-1" name="STAR LIFE FHD H265" group="CANAIS: VARIEDADES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png", STAR LIFE FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/45
+#EXTINF:0 type="stream" channelId="178" name="STAR LIFE HD" group="CANAIS: VARIEDADES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png", STAR LIFE HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/276
+#EXTINF:0 type="stream" channelId="178" name="STAR LIFE SD" group="CANAIS: VARIEDADES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png", STAR LIFE SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205
+#EXTINF:0 type="stream" channelId="-1" name="STAR+" group="CANAIS: ESPORTES" logo="https://www.rochagalaxia.live/logos/star+250.png", STAR+
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/184558
+#EXTINF:0 type="stream" channelId="-1" name="STAR+ 1" group="CANAIS: ESPORTES" logo="https://www.rochagalaxia.live/logos/star+250.png", STAR+ 1
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205475
+#EXTINF:0 type="stream" channelId="-1" name="STAR+ 2" group="CANAIS: ESPORTES" logo="https://www.rochagalaxia.live/logos/star+250.png", STAR+ 2
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205472
+#EXTINF:0 type="stream" channelId="-1" name="STAR+ 3" group="CANAIS: ESPORTES" logo="https://www.rochagalaxia.live/logos/star+250.png", STAR+ 3
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205473
+#EXTINF:0 type="stream" channelId="-1" name="STAR+ 4" group="CANAIS: ESPORTES" logo="https://www.rochagalaxia.live/logos/star+250.png", STAR+ 4
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/205474
+#EXTINF:0 type="stream" channelId="-1" name="STUDIO UNIVERSAL FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/studiouniversal.png", STUDIO UNIVERSAL FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/15251
+#EXTINF:0 type="stream" channelId="-1" name="STUDIO UNIVERSAL FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/studiouniversal.png", STUDIO UNIVERSAL FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235111
+#EXTINF:0 type="stream" channelId="-1" name="STUDIO UNIVERSAL FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/studiouniversal.png", STUDIO UNIVERSAL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235112
+#EXTINF:0 type="stream" channelId="2147" name="STUDIO UNIVERSAL HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/studiouniversal.png", STUDIO UNIVERSAL HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/15250
+#EXTINF:0 type="stream" channelId="-1" name="STUDIO UNIVERSAL HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/studiouniversal.png", STUDIO UNIVERSAL HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235113
+#EXTINF:0 type="stream" channelId="2625" name="STUDIO UNIVERSAL SD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/studiouniversal.png", STUDIO UNIVERSAL SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/15249
+#EXTINF:0 type="stream" channelId="-1" name="STUDIO UNIVERSAL SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/studiouniversal.png", STUDIO UNIVERSAL SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235114
+#EXTINF:0 type="stream" channelId="-1" name="SYFY FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SYFY.png", SYFY FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/107
+#EXTINF:0 type="stream" channelId="-1" name="SYFY FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SYFY.png", SYFY FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235115
+#EXTINF:0 type="stream" channelId="-1" name="SYFY FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SYFY.png", SYFY FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235116
+#EXTINF:0 type="stream" channelId="1192" name="SYFY HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SYFY.png", SYFY HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/361
+#EXTINF:0 type="stream" channelId="-1" name="SYFY HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SYFY.png", SYFY HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235117
+#EXTINF:0 type="stream" channelId="73" name="SYFY SD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SYFY.png", SYFY SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/256
+#EXTINF:0 type="stream" channelId="-1" name="SYFY SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/SYFY.png", SYFY SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235118
+#EXTINF:0 type="stream" channelId="-1" name="TBS FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TBS.png", TBS FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/108
+#EXTINF:0 type="stream" channelId="-1" name="TBS FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TBS.png", TBS FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235119
+#EXTINF:0 type="stream" channelId="-1" name="TBS FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TBS.png", TBS FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235120
+#EXTINF:0 type="stream" channelId="-1" name="TBS HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TBS.png", TBS HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/304
+#EXTINF:0 type="stream" channelId="-1" name="TBS HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TBS.png", TBS HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235121
+#EXTINF:0 type="stream" channelId="3228" name="TBS SD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TBS.png", TBS SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/257
+#EXTINF:0 type="stream" channelId="-1" name="TBS SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TBS.png", TBS SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235122
+#EXTINF:0 type="stream" channelId="3545" name="TCM HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TCM.png", TCM HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2221
+#EXTINF:0 type="stream" channelId="-1" name="TCM HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TCM.png", TCM HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235123
+#EXTINF:0 type="stream" channelId="895" name="TCM SD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TCM.png", TCM SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/213
+#EXTINF:0 type="stream" channelId="-1" name="TCM SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TCM.png", TCM SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235124
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE ACTION FHD H265" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/telecineaction250.png", TELECINE ACTION FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/65
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE ACTION FHD H265²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/telecineaction250.png", TELECINE ACTION FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234495
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE ACTION FHD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/telecineaction250.png", TELECINE ACTION FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234496
+#EXTINF:0 type="stream" channelId="2603" name="TELECINE ACTION HD" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/telecineaction250.png", TELECINE ACTION HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/305
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE ACTION HD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/telecineaction250.png", TELECINE ACTION HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234497
+#EXTINF:0 type="stream" channelId="2603" name="TELECINE ACTION SD" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/telecineaction250.png", TELECINE ACTION SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/214
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE ACTION SD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/telecineaction250.png", TELECINE ACTION SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234514
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE CULT FHD H265" group="CANAIS: REDE TELECINE" logo="https://www.rochagalaxia.live/logos/telecinecult250.png", TELECINE CULT FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/146
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE CULT FHD H265²" group="CANAIS: REDE TELECINE" logo="https://www.rochagalaxia.live/logos/telecinecult250.png", TELECINE CULT FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234498
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE CULT FHD²" group="CANAIS: REDE TELECINE" logo="https://www.rochagalaxia.live/logos/telecinecult250.png", TELECINE CULT FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234499
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE CULT HD" group="CANAIS: REDE TELECINE" logo="https://www.rochagalaxia.live/logos/telecinecult250.png", TELECINE CULT HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/360
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE CULT HD²" group="CANAIS: REDE TELECINE" logo="https://www.rochagalaxia.live/logos/telecinecult250.png", TELECINE CULT HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234500
+#EXTINF:0 type="stream" channelId="2605" name="TELECINE CULT SD" group="CANAIS: REDE TELECINE" logo="https://www.rochagalaxia.live/logos/telecinecult250.png", TELECINE CULT SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/230
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE CULT SD²" group="CANAIS: REDE TELECINE" logo="https://www.rochagalaxia.live/logos/telecinecult250.png", TELECINE CULT SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234515
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE FUN FHD H265" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCFUN.png", TELECINE FUN FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/64
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE FUN FHD H265²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCFUN.png", TELECINE FUN FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234501
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE FUN FHD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCFUN.png", TELECINE FUN FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234502
+#EXTINF:0 type="stream" channelId="2606" name="TELECINE FUN HD" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCFUN.png", TELECINE FUN HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/306
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE FUN HD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCFUN.png", TELECINE FUN HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234503
+#EXTINF:0 type="stream" channelId="2606" name="TELECINE FUN SD" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCFUN.png", TELECINE FUN SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/231
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE FUN SD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCFUN.png", TELECINE FUN SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234516
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE PIPOCA FHD H265" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png", TELECINE PIPOCA FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/63
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE PIPOCA FHD H265²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png", TELECINE PIPOCA FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234504
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE PIPOCA FHD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png", TELECINE PIPOCA FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234505
+#EXTINF:0 type="stream" channelId="2608" name="TELECINE PIPOCA HD" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png", TELECINE PIPOCA HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/307
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE PIPOCA HD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png", TELECINE PIPOCA HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234506
+#EXTINF:0 type="stream" channelId="2608" name="TELECINE PIPOCA SD" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png", TELECINE PIPOCA SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2132
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE PIPOCA SD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png", TELECINE PIPOCA SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234517
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE PREMIUM FHD H265" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png", TELECINE PREMIUM FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/62
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE PREMIUM FHD H265²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png", TELECINE PREMIUM FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234507
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE PREMIUM FHD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png", TELECINE PREMIUM FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234508
+#EXTINF:0 type="stream" channelId="2610" name="TELECINE PREMIUM HD" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png", TELECINE PREMIUM HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/308
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE PREMIUM HD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png", TELECINE PREMIUM HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234509
+#EXTINF:0 type="stream" channelId="2610" name="TELECINE PREMIUM SD" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png", TELECINE PREMIUM SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2133
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE PREMIUM SD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png", TELECINE PREMIUM SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234518
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE TOUCH FHD H265" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCTOUCH.png", TELECINE TOUCH FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/61
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE TOUCH FHD H265²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCTOUCH.png", TELECINE TOUCH FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234510
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE TOUCH FHD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCTOUCH.png", TELECINE TOUCH FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234511
+#EXTINF:0 type="stream" channelId="2611" name="TELECINE TOUCH HD" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCTOUCH.png", TELECINE TOUCH HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/309
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE TOUCH HD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCTOUCH.png", TELECINE TOUCH HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234512
+#EXTINF:0 type="stream" channelId="2611" name="TELECINE TOUCH SD" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCTOUCH.png", TELECINE TOUCH SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2134
+#EXTINF:0 type="stream" channelId="-1" name="TELECINE TOUCH SD²" group="CANAIS: REDE TELECINE" logo="http://www.rochagalaxia.live/logos/TCTOUCH.png", TELECINE TOUCH SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/234519
+#EXTINF:0 type="stream" channelId="2564" name="TERRA VIVA" group="CANAIS: ABERTOS" logo="https://www.freeetv.com/images/02_logo/terra_viva_brazil.jpg", TERRA VIVA
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/166988
+#EXTINF:0 type="stream" channelId="-1" name="TERRA VIVA SD²" group="CANAIS: ABERTOS" logo="https://www.freeetv.com/images/02_logo/terra_viva_brazil.jpg", TERRA VIVA SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235125
+#EXTINF:0 type="stream" channelId="-1" name="TLC FHD H265" group="CANAIS: VARIEDADES" logo="http://www.rochagalaxia.live/logos/TLC.png", TLC FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/122
+#EXTINF:0 type="stream" channelId="-1" name="TLC FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/tlc250.png", TLC FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235126
+#EXTINF:0 type="stream" channelId="-1" name="TLC FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/tlc250.png", TLC FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235127
+#EXTINF:0 type="stream" channelId="1040" name="TLC HD" group="CANAIS: VARIEDADES" logo="http://www.userlogos.org/files/logos/yuuko_chan/TCL.png", TLC HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/310
+#EXTINF:0 type="stream" channelId="-1" name="TLC HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/tlc250.png", TLC HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235128
+#EXTINF:0 type="stream" channelId="67" name="TLC SD" group="CANAIS: VARIEDADES", TLC SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2135
+#EXTINF:0 type="stream" channelId="-1" name="TLC SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/tlc250.png", TLC SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235129
+#EXTINF:0 type="stream" channelId="-1" name="TNT FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TNT.png", TNT FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/123
+#EXTINF:0 type="stream" channelId="-1" name="TNT FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TNT.png", TNT FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235130
+#EXTINF:0 type="stream" channelId="-1" name="TNT FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TNT.png", TNT FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235131
+#EXTINF:0 type="stream" channelId="2900" name="TNT HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TNT.png", TNT HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/350
+#EXTINF:0 type="stream" channelId="-1" name="TNT HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TNT.png", TNT HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235132
+#EXTINF:0 type="stream" channelId="1052" name="TNT SD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TNT.png", TNT SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2136
+#EXTINF:0 type="stream" channelId="-1" name="TNT SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/TNT.png", TNT SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235133
+#EXTINF:0 type="stream" channelId="-1" name="TNT SERIES FHD H265" group="CANAIS: FILMES E SERIES" logo="http://rochagalaxia.live/logos/tntseries.png", TNT SERIES FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/60
+#EXTINF:0 type="stream" channelId="-1" name="TNT SERIES FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://rochagalaxia.live/logos/tntseries.png", TNT SERIES FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235134
+#EXTINF:0 type="stream" channelId="3797" name="TNT SERIES HD" group="CANAIS: FILMES E SERIES" logo="http://rochagalaxia.live/logos/tntseries.png", TNT SERIES HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/311
+#EXTINF:0 type="stream" channelId="4668" name="TNT SPORTS" group="CANAIS: TNT STADIO" logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/109404
+#EXTINF:0 type="stream" channelId="-1" name="TNT SÉRIES FHD²" group="CANAIS: FILMES E SERIES" logo="http://rochagalaxia.live/logos/tntseries.png", TNT SÉRIES FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235135
+#EXTINF:0 type="stream" channelId="-1" name="TNT SÉRIES HD²" group="CANAIS: FILMES E SERIES" logo="http://rochagalaxia.live/logos/tntseries.png", TNT SÉRIES HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235136
+#EXTINF:0 type="stream" channelId="-1" name="TNT SÉRIES SD" group="CANAIS: FILMES E SERIES" logo="http://rochagalaxia.live/logos/tntseries.png", TNT SÉRIES SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2137
+#EXTINF:0 type="stream" channelId="-1" name="TNT SÉRIES SD²" group="CANAIS: FILMES E SERIES" logo="http://rochagalaxia.live/logos/tntseries.png", TNT SÉRIES SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235137
+#EXTINF:0 type="stream" channelId="-1" name="TOONCAST HD" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/TOONCAST.png", TOONCAST HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/359
+#EXTINF:0 type="stream" channelId="-1" name="TOONCAST HD²" group="CANAIS: INFANTIS", TOONCAST HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235138
+#EXTINF:0 type="stream" channelId="2639" name="TOONCAST SD" group="CANAIS: INFANTIS" logo="http://www.rochagalaxia.live/logos/TOONCAST.png", TOONCAST SD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/260
+#EXTINF:0 type="stream" channelId="-1" name="TOONCAST SD²" group="CANAIS: INFANTIS", TOONCAST SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235139
+#EXTINF:0 type="stream" channelId="-1" name="TRACE BRASUCA FHD H265" group="CANAIS: MUSICA" logo="https://trace.company/wp-content/uploads/2020/07/TRACE-BRAZUCA-logo-rgb.png", TRACE BRASUCA FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/27445
+#EXTINF:0 type="stream" channelId="-1" name="TRACE BRAZUKA FHD²" group="CANAIS: VARIEDADES", TRACE BRAZUKA FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235221
+#EXTINF:0 type="stream" channelId="-1" name="TRACE BRAZUKA HD²" group="CANAIS: VARIEDADES", TRACE BRAZUKA HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235223
+#EXTINF:0 type="stream" channelId="-1" name="TRACE BRAZUKA HD²" group="CANAIS: VARIEDADES", TRACE BRAZUKA HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235222
+#EXTINF:0 type="stream" channelId="-1" name="TRAVEL BOX BRAZIL FHD²" group="CANAIS: DOCUMENTARIOS", TRAVEL BOX BRAZIL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235140
+#EXTINF:0 type="stream" channelId="-1" name="TRAVEL BOX BRAZIL HD²" group="CANAIS: DOCUMENTARIOS", TRAVEL BOX BRAZIL HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235141
+#EXTINF:0 type="stream" channelId="-1" name="TRAVEL BOX BRAZIL SD²" group="CANAIS: DOCUMENTARIOS", TRAVEL BOX BRAZIL SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235142
+#EXTINF:0 type="stream" channelId="-1" name="TRAVELBOX BRASIL FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/travelboxbrasil.png", TRAVELBOX BRASIL FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/132
+#EXTINF:0 type="stream" channelId="2626" name="TRUTV" group="CANAIS: DOCUMENTARIOS", TRUTV
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2138
+#EXTINF:0 type="stream" channelId="-1" name="TRUTV FHD²" group="CANAIS: DOCUMENTARIOS", TRUTV FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235208
+#EXTINF:0 type="stream" channelId="-1" name="TRUTV HD²" group="CANAIS: DOCUMENTARIOS", TRUTV HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235207
+#EXTINF:0 type="stream" channelId="-1" name="TRUTV SD²" group="CANAIS: DOCUMENTARIOS", TRUTV SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235143
+#EXTINF:0 type="stream" channelId="-1" name="TRUTV SD²" group="CANAIS: DOCUMENTARIOS", TRUTV SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235209
+#EXTINF:0 type="stream" channelId="-1" name="TV APARECIDA FHD H265²" group="CANAIS: RELIGIOSOS", TV APARECIDA FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235144
+#EXTINF:0 type="stream" channelId="-1" name="TV APARECIDA FHD²" group="CANAIS: RELIGIOSOS", TV APARECIDA FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235145
+#EXTINF:0 type="stream" channelId="-1" name="TV APARECIDA HD²" group="CANAIS: RELIGIOSOS", TV APARECIDA HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235146
+#EXTINF:0 type="stream" channelId="-1" name="TV CATVE (Cultura PR)" group="CANAIS: ABERTOS" logo="https://catve.akamaized.net/portal/img/aovivo.jpg", TV CATVE (Cultura PR)
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/206777
+#EXTINF:0 type="stream" channelId="-1" name="TV CULTURA FHD H265" group="CANAIS: ABERTOS" logo="http://www.rochagalaxia.live/logos/tv-cultura.png", TV CULTURA FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/109
+#EXTINF:0 type="stream" channelId="-1" name="TV CULTURA HD" group="CANAIS: ABERTOS" logo="https://tse3.mm.bing.net/th?id=OIP.7Myxw_Pnt3M7w8ocQwBWJgHaFj&pid=Api", TV CULTURA HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/312
+#EXTINF:0 type="stream" channelId="2569" name="TV ESCOLA" group="CANAIS: ABERTOS" logo="http://tv.deflextelecom.com.br/imagensiptv/99x38_LOGO_SKY_TVESCOLA.png", TV ESCOLA
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/18164
+#EXTINF:0 type="stream" channelId="-1" name="TV PAI ETERNO FHD" group="CANAIS: RELIGIOSOS" logo="http://tv.deflextelecom.com.br/imagensiptv/70x68_LOGO_SKY_TV_PAI_ETERNO.png", TV PAI ETERNO FHD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/19927
+#EXTINF:0 type="stream" channelId="-1" name="TV PAI ETERNO FHD²" group="CANAIS: RELIGIOSOS", TV PAI ETERNO FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235158
+#EXTINF:0 type="stream" channelId="-1" name="TV PAI ETERNO HD²" group="CANAIS: RELIGIOSOS", TV PAI ETERNO HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235159
+#EXTINF:0 type="stream" channelId="-1" name="TV PLENITUDE" group="CANAIS: RELIGIOSOS" logo="http:/www.rochagalaxia.live/logos/LOGO-POMBA-fundo-preto.png", TV PLENITUDE
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/26229
+#EXTINF:0 type="stream" channelId="-1" name="TV POÇOS" group="CANAIS: ABERTOS" logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Tvpocos_original.png", TV POÇOS
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/40561
+#EXTINF:0 type="stream" channelId="-1" name="TV RA-TIM-BUM FHD H265" group="CANAIS: ABERTOS" logo="http://www.rochagalaxia.live/logos/tvratimbum.png", TV RA-TIM-BUM FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/134
+#EXTINF:0 type="stream" channelId="-1" name="TV RA-TIM-BUM HD" group="CANAIS: ABERTOS" logo="http://www.rochagalaxia.live/logos/tvratimbum.png", TV RA-TIM-BUM HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/358
+#EXTINF:0 type="stream" channelId="-1" name="TV RATIMBUM FHD H265²" group="CANAIS: INFANTIS", TV RATIMBUM FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235161
+#EXTINF:0 type="stream" channelId="-1" name="TV RATIMBUM FHD²" group="CANAIS: INFANTIS", TV RATIMBUM FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235162
+#EXTINF:0 type="stream" channelId="-1" name="TV RATIMBUM HD²" group="CANAIS: INFANTIS", TV RATIMBUM HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235163
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CHANNEL FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png", UNIVERSAL CHANNEL FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/59
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CHANNEL FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png", UNIVERSAL CHANNEL FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235170
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CHANNEL FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png", UNIVERSAL CHANNEL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235171
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CHANNEL HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png", UNIVERSAL CHANNEL HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/182588
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CHANNEL HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png", UNIVERSAL CHANNEL HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235172
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CHANNEL SD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png", UNIVERSAL CHANNEL SD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235173
+#EXTINF:0 type="stream" channelId="-1" name="USA | NBA TV" group="Canais: NBA|USA" logo="http://rochagalaxia.live/logos/nba250.png", USA | NBA TV
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/160882
+#EXTINF:0 type="stream" channelId="-1" name="USA-NBA TV" group="Canais: NBA|USA" logo="http://rochagalaxia.live/logos/nba250.png", USA-NBA TV
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/160922
+#EXTINF:0 type="stream" channelId="2902" name="VH1 HD" group="CANAIS: MUSICA" logo="http://www.rochagalaxia.live/logos/br_vh1-megahits_m.png", VH1 HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2223
+#EXTINF:0 type="stream" channelId="-1" name="VH1 HD²" group="CANAIS: MUSICA", VH1 HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235210
+#EXTINF:0 type="stream" channelId="-1" name="VH1 MEGA HITS FHD H265" group="CANAIS: MUSICA" logo="http://www.rochagalaxia.live/logos/br_vh1-megahits_m.png", VH1 MEGA HITS FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/111
+#EXTINF:0 type="stream" channelId="-1" name="VIVA FHD²" group="CANAIS: VARIEDADES", VIVA FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235175
+#EXTINF:0 type="stream" channelId="-1" name="WARNER CHANNEL FHD H265" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/WARNER.png", WARNER CHANNEL FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/58
+#EXTINF:0 type="stream" channelId="-1" name="WARNER CHANNEL FHD H265²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/WARNER.png", WARNER CHANNEL FHD H265²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235178
+#EXTINF:0 type="stream" channelId="-1" name="WARNER CHANNEL FHD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/WARNER.png", WARNER CHANNEL FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235179
+#EXTINF:0 type="stream" channelId="2903" name="WARNER CHANNEL HD" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/WARNER.png", WARNER CHANNEL HD
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/2220
+#EXTINF:0 type="stream" channelId="-1" name="WARNER CHANNEL HD²" group="CANAIS: FILMES E SERIES" logo="http://www.rochagalaxia.live/logos/WARNER.png", WARNER CHANNEL HD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235180
+#EXTINF:0 type="stream" channelId="-1" name="WOOHOO FHD H265" group="CANAIS: MUSICA" logo="http://www.rochagalaxia.live/logos/WOHOO.jpg", WOOHOO FHD H265
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/125
+#EXTINF:0 type="stream" channelId="-1" name="ZOOMOO FHD²" group="CANAIS: INFANTIS", ZOOMOO FHD²
+http://conexaoonline.top:80/9id5m93k/2o3qhhxy/235182
