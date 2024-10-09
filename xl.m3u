@@ -1,296 +1,271 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AE (UHD)
-http://zlb181.office646851.online/auth/32.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AE (FHD)
-https://dzcdn.vood.top/hls/666_.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AE (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/332.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AMC (UHD)
-http://zlb181.office646851.online/auth/330.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AMC (FHD)
-https://dzcdn.vood.top/hls/669_.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AMC (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/330.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Animal Planet (UHD)
-http://zlb177.office646851.online/live/auth/349.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Animal Planet (FHD)
-http://zlb181.office646851.online/live/auth/195.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Animal Planet (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/33.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AXN (UHD)
-http://zlb181.office646851.online/auth/34.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AXN (FHD)
-http://zlb181.office646851.online/auth/34.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AXN (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234879.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Band (UHD)
-http://zlb189.office646851.online/auth/286154.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Band (FHD)
-http://zlb183.office646851.online/auth/234889.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Band (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234889.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Cinemax (UHD)
-http://zlb181.office646851.online/auth/81.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Cinemax (FHD)
-http://zlb189.office646851.online/auth/234929.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Cinemax (HD)
-http://conexaoonline.top/821937/key5f0e5x0L/234930.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Comedy Central (UHD)
-http://zlb181.office646851.online/auth/198.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Comedy Central  (FHD)
-http://zlb181.office646851.online/auth/40.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Comedy Central  (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234941.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Channel (FHD)
-http://zlb190.office646851.online/auth/114.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Channel (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234803.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Theater (UHD)
-http://zlb190.office646851.online/auth/345.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Thearter (FHD)
-http://zlb181.office646851.online/auth/82.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Thearter (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234819.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Turbo (UHD)
-http://zlb179.office646851.online/auth/268.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Turbo (FHD)
-http://zlb181.office646851.online/auth/41.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Turbo (HD)
-http://conexaoonline.top/307443/key5f0e5x0L/234823.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Science (UHD)
-http://zlb177.office646851.online/auth/234815.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Science (FHD)
-http://zlb190.office646851.online/auth/121.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Science (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234815.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Home Health (UHD)
-http://zlb190.office646851.online/auth/343.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery  Home Health (FHD)
-http://zlb181.office646851.online/auth/135.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Home Health (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234807.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery HGTV (UHD)
-http://zlb177.office646851.online/auth/235006.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery HGTV  (FHD)
-http://zlb181.office646851.online/auth/120.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery  HGTV (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/235006.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery World (UHD)
-http://zlb177.office646851.online/auth/234827.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery World (FHD)
-http://zlb181.office646851.online/live/auth/84.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery World (HD)
-http://conexaoonline.top/307443/436203/key5f0e5x0L/234827.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery TLC (UHD)
-http://zlb180.office646851.online/auth/310.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery TLC (FHD)
-https://dzcdn.vood.top/hls/726_.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery TLC (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/235128.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", FX (UHD)
-http://zlb181.office646851.online/auth/90.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", FX (FHD)
-http://zlb181.office646851.online/auth/2208.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", FX (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/235002.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Globo (UHD)
-http://zlb189.office646851.online/auth/160.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Globo (FHD)
-http://zlb190.office646851.online/auth/155.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Globo SP (HD)
-http://conexaoonline.top:80/436203/key5f0e5x0L/160.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", GNT (UHD)
-http://zlb180.office646851.online/auth/2082.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", GNT (FHD)
-http://main.xplus2-main.xyz:2095/live/Tourobox3-UR5GAqpGVC/gzaxFVq7xV/107.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", GNT (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/2082.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO (UHD)
-http://zlb189.office646851.online/auth/278.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO (FHD)
-http://zlb177.office646851.online/auth/234476.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234476.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO 2 (UHD)
-http://zlb180.office646851.online/auth/279.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HB0 2 (FHD)
-http://zlb177.office646851.online/auth/234469.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO 2 (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234469.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Family (UHD)
-http://zlb177.office646851.online/auth/234472.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Family (FHD)
-http://zlb180.office646851.online/auth/2085.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Family (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234472.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Pop (UHD)
-http://zlb177.office646851.online/auth/234486.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Pop  (FHD)
-http://zlb177.office646851.online/auth/234485.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Pop (HD)
-https://conexaoonline.top/live/436203/key5f0e5x0L/234486.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", History (UHD)
-http://zlb177.office646851.online/auth/281.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", History (FHD)
-http://zlb181.office646851.online/auth/93.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", History (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/235009.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", H2 (UHD)
-http://zlb177.office646851.online/auth/286149.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", H2 (FHD)
-http://zlb181.office646851.online/auth/50.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", H2 (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/286149.ts
-http://conexaoonline.top/436203/key5f0e5x0L/286149.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Lifetime (UHD)
-http://zlb181.office646851.online/auth/94.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Lifetime (FHD)
-http://zlb180.office646851.online/auth/235019.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Lifetime (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/235020.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Megapix (UHD)
-http://zlb181.office646851.online/auth/145.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Megapix (FHD)
-https://dzcdn.vood.top/hls/692_.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Megapix (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/235032.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Multishow (UHD)
-http://zlb184.office646851.online/auth/235047.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Multishow (FHD)
-http://main.xplus2-main.xyz:2095/live/Tourobox3-UR5GAqpGVC/gzaxFVq7xV/423.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Multishow (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/2091.m3u8
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Paramount (UHD)
-http://zlb181.office646851.online/auth/100.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Paramount  (FHD)
-http://zlb181.office646851.online/auth/2215.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Paramount  (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/235078.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Record (UHD)
-http://zlb178.office646851.online/auth/297.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Record (FHD)
-http://mia-645y4heagshnk67b.edge77.bond/auth/905.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Record (HD)
-http://zlb189.office646851.online/auth/276808.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Rede TV (UHD)
-http://zlb189.office646851.online/auth/235096.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Rede TV (FHD)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Rede TV (HD)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", SBT (UHD)
-http://zlb189.office646851.online/auth/299.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", SBT (FHD)
-http://mia-645y4heagshnk67b.edge77.bond/auth/783.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", SBT  (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/299.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Sony Channel  (UHD)
-http://zlb181.office646851.online/auth/106.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Sony  (FHD)
-http://zlb181.office646851.online/auth/337.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS",  Sony Channel  (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234916.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Space (UHD)
-http://zlb181.office646851.online/auth/67.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Space (FHD)
-http://zlb181.office646851.online/auth/2219.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Space (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/235105.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox (Star Channel UHD)
-http://zlb181.office646851.online/auth/44.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox (Star Channel FHD)
-http://zlb181.office646851.online/auth/244.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox (Star  Channel HD)
-http://conexaoonline.top/436203/key5f0e5x0L235109.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox Life (Star Life UHD)
-http://zlb180.office646851.online/auth/45.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox Life (Star Life FHD)
-http://zlb180.office646851.online/live/auth/45.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox Life (Star Life HD)
-https://conexaoonline.top/436203/key5f0e5x0L/45.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Action (UHD)
-http://zlb176.office646851.online/auth/234497.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Action  (FHD)
-http://mia-645y4heagshnk67b.edge77.bond/auth/729.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Action (HD)
-https://conexaoonline.top/live/436203/key5f0e5x0L/305.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Pipoca (UHD)
-http://zlb176.office646851.online/auth/234506.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Pipoca  (FHD)
-https://dzcdn.vood.top/hls/628_.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Pipoca  (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234506.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Premium (UHD)
-http://zlb176.office646851.online/auth/234509.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Premium  (FHD)
-https://dzcdn.vood.top/hls/635_.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE",  Telecine Premium  (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/234509.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Touch (UHD)
-http://zlb176.office646851.online/auth/234512.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Touch  (FHD)
-http://mia-645y4heagshnk67b.edge77.bond/auth/744.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Touch  (HD)
-http://conexaoonline.top/307443/key5f0e5x0L/234512.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", TNT (UHD)
-http://zlb181.office646851.online/auth/123.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", TNT  (FHD)
-http://zlb181.office646851.online/auth/350.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", TNT  (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/235131.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", TV Gazeta (UHD)
-http://zlb183.office646851.online/auth/141.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", TV Gazeta (FHD)
-http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-QG89Td9tJa/QEDt29VVMz/551.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", TV Gazeta (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/313.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Universal Channel (UHD)
-https://dzcdn.vood.top/hls/742_.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Universal Channel (FHD)
-http://zlb181.office646851.online/auth/182588.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Universal Channel (HD)
-https://conexaoonline.top/436203/key5f0e5x0L/235172.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", USA Network (UHD)
-http://zlb181.office646851.online/auth/107.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", USA Network  (FHD)
-https://dzcdn.vood.top/hls/718_.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", USA Network (HD)
-https://conexaoonline.top/436203/key5f0e5x0L/361.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Viva (UHD)
-http://zlb180.office646851.online/auth/2145.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Viva (FHD)
-http://mia-645y4heagshnk67b.edge77.bond/auth/76.m3u8
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Viva (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/2145.ts
-
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Warner (UHD)
-http://zlb181.office646851.online/auth/58.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Warner (FHD)
-http://zlb181.office646851.online/auth/2220.ts
-#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Warner (HD)
-http://conexaoonline.top/436203/key5f0e5x0L/235180.ts
+#EXTINF:0 type="stream" channelId="2719", CARTOON NETWORK HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/338
+#EXTINF:0 type="stream" channelId="-1", CARTONITO HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/235214
+#EXTINF:0 type="stream" channelId="2837", DISCOVERY KIDS HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/267
+#EXTINF:0 type="stream" channelId="2720", DISNEY CHANNEL HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/347
+#EXTINF:0 type="stream" channelId="3330", BOOMERANG HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/265
+#EXTINF:0 type="stream" channelId="2581", GLOOB HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/318
+#EXTINF:0 type="stream" channelId="-1", GLOOBINHO HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2081
+#EXTINF:0 type="stream" channelId="-1", BABY TV HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2200
+#EXTINF:0 type="stream" channelId="334", NICK HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/362
+#EXTINF:0 type="stream" channelId="2710", NICK JR HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/288
+#EXTINF:0 type="stream" channelId="-1", NICKELODEON HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/235073
+#EXTINF:0 type="stream" channelId="-1", TOONCAST HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/235138
+#EXTINF:0 type="stream" channelId="-1", PLAYKIDS
+http://conexaoonline.top:80/436203/key5f0e5x0L/2096
+#EXTINF:0 type="stream" channelId="-1", TV RATIMBUM HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/235163
+#EXTINF:0 type="stream" channelId="-1", One Piece: Stampede (2019)
+http://conexaoonline.top:80/movie/436203/key5f0e5x0L/299916.mp4
+#EXTINF:0 type="stream" channelId="-1", One Piece Gold: O Filme (2016)
+http://conexaoonline.top:80/movie/436203/key5f0e5x0L/299914.mp4
+#EXTINF:0 type="stream" channelId="-1", One Piece: Z (2012)
+http://conexaoonline.top:80/movie/436203/key5f0e5x0L/299915.mp4
+#EXTINF:0 type="stream" channelId="-1", VIVA HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2145
+#EXTINF:0 type="stream" channelId="2580", MAIS GLOBOSAT HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2090
+#EXTINF:0 type="stream" channelId="2718", BIS HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/325
+#EXTINF:0 type="stream" channelId="2590", MULTISHOW HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/235048
+#EXTINF:0 type="stream" channelId="1484", MTV HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/286
+#EXTINF:0 type="stream" channelId="-1", MUSIC BOX BRAZIL HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/235051
+#EXTINF:0 type="stream" channelId="-1", GLOBO
+http://conexaoonline.top:80/436203/key5f0e5x0L/165
+#EXTINF:0 type="stream" channelId="2722", GNT HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2082
+#EXTINF:0 type="stream" channelId="-1", CANAL OFF HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/234912
+#EXTINF:0 type="stream" channelId="-1", WOOHOO HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2225
+#EXTINF:0 type="stream" channelId="-1", GLOBO NEWS FHD H265
+http://conexaoonline.top:80/436203/key5f0e5x0L/162
+#EXTINF:0 type="stream" channelId="2573", BAND NEWS HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/335
+#EXTINF:0 type="stream" channelId="4647", CNN BRASIL HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/19716
+#EXTINF:0 type="stream" channelId="-1", CANAL SONY HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/234916
+#EXTINF:0 type="stream" channelId="1191", COMEDY CENTRAL HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/341
+#EXTINF:0 type="stream" channelId="341", DISCOVERY CHANNEL HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/342
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY CHANNEL HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/234803
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY H&H HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/343
+#EXTINF:0 type="stream" channelId="1508", DISCOVERY SCIENCE HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/344
+#EXTINF:0 type="stream" channelId="2558", DISCOVERY THEATER HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/345
+#EXTINF:0 type="stream" channelId="2840", DISCOVERY TURBO HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/268
+#EXTINF:0 type="stream" channelId="2626", TRUTV
+http://conexaoonline.top:80/436203/key5f0e5x0L/2138
+#EXTINF:0 type="stream" channelId="2890", DISCOVERY WORLD HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/346
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY WORLD FHD H265
+http://conexaoonline.top:80/436203/key5f0e5x0L/84
+#EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/349
+#EXTINF:0 type="stream" channelId="1418", HGTV HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/352
+#EXTINF:0 type="stream" channelId="1456", HISTORY HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/281
+#EXTINF:0 type="stream" channelId="1202", History 2 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/286149
+#EXTINF:0 type="stream" channelId="-1", HISTORY CHANNEL HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/235009
+#EXTINF:0 type="stream" channelId="207", NATIONAL GEOGRAPHIC HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2212
+#EXTINF:0 type="stream" channelId="-1", NATGEO HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/235055
+#EXTINF:0 type="stream" channelId="2903", WARNER CHANNEL HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2220
+#EXTINF:0 type="stream" channelId="2246", AXN HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/329
+#EXTINF:0 type="stream" channelId="3797", TNT SERIES HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/311
+#EXTINF:0 type="stream" channelId="2503", A&E HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/332
+#EXTINF:0 type="stream" channelId="1192", SYFY HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/361
+#EXTINF:0 type="stream" channelId="3545", TCM HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2221
+#EXTINF:0 type="stream" channelId="-1", TBS HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/304
+#EXTINF:0 type="stream" channelId="2501", AMC HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/330
+#EXTINF:0 type="stream" channelId="2888", CINEMAX HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/339
+#EXTINF:0 type="stream" channelId="2900", TNT HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/350
+#EXTINF:0 type="stream" channelId="1304", FX HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2208
+#EXTINF:0 type="stream" channelId="2589", MEGAPIX HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/356
+#EXTINF:0 type="stream" channelId="530", SONY HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/337
+#EXTINF:0 type="stream" channelId="2896", SPACE HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2219
+#EXTINF:0 type="stream" channelId="1040", TLC HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/310
+#EXTINF:0 type="stream" channelId="-1", STAR CHANNEL HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2207
+#EXTINF:0 type="stream" channelId="-1", STAR LIFE HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/276
+#EXTINF:0 type="stream" channelId="-1", PARAMOUNT HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2215
+#EXTINF:0 type="stream" channelId="2147", STUDIO UNIVERSAL HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/15250
+#EXTINF:0 type="stream" channelId="-1", UNIVERSAL CHANNEL HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/182588
+#EXTINF:0 type="stream" channelId="2603", TELECINE ACTION HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/305
+#EXTINF:0 type="stream" channelId="2608", TELECINE PIPOCA HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/307
+#EXTINF:0 type="stream" channelId="2610", TELECINE PREMIUM HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/308
+#EXTINF:0 type="stream" channelId="2611", TELECINE TOUCH HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/309
+#EXTINF:0 type="stream" channelId="2606", TELECINE FUN HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/306
+#EXTINF:0 type="stream" channelId="-1", TELECINE CULT HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/360
+#EXTINF:0 type="stream" channelId="935", HBO 2 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/279
+#EXTINF:0 type="stream" channelId="2584", HBO FAMILY HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2085
+#EXTINF:0 type="stream" channelId="1330", HBO HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/278
+#EXTINF:0 type="stream" channelId="2725", HBO MUNDI HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2210
+#EXTINF:0 type="stream" channelId="361", HBO POP HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2211
+#EXTINF:0 type="stream" channelId="2583", HBO SIGNATURE HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/366
+#EXTINF:0 type="stream" channelId="-1", HBO XTREME HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/283
+#EXTINF:0 type="stream" channelId="-1", HBO+ HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/183686
+#EXTINF:0 type="stream" channelId="-1", CINE 01
+http://conexaoonline.top:80/436203/key5f0e5x0L/110737
+#EXTINF:0 type="stream" channelId="-1", CINE 02
+http://conexaoonline.top:80/436203/key5f0e5x0L/110738
+#EXTINF:0 type="stream" channelId="-1", CINE 03
+http://conexaoonline.top:80/436203/key5f0e5x0L/110739
+#EXTINF:0 type="stream" channelId="-1", CINE 04
+http://conexaoonline.top:80/436203/key5f0e5x0L/110740
+#EXTINF:0 type="stream" channelId="-1", CINE MARVEL
+http://conexaoonline.top:80/436203/key5f0e5x0L/59557
+#EXTINF:0 type="stream" channelId="-1", CINE SKY 4
+http://conexaoonline.top:80/436203/key5f0e5x0L/20630
+#EXTINF:0 type="stream" channelId="-1", CINE SKY 3
+http://conexaoonline.top:80/436203/key5f0e5x0L/20629
+#EXTINF:0 type="stream" channelId="-1", CINE SKY 1
+http://conexaoonline.top:80/436203/key5f0e5x0L/20574
+#EXTINF:0 type="stream" channelId="2595", COMBATE HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/340
+#EXTINF:0 type="stream" channelId="-1", ESPN 2 HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/234851
+#EXTINF:0 type="stream" channelId="357", ESPN 3 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/273
+#EXTINF:0 type="stream" channelId="-1", ESPN 4 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/319
+#EXTINF:0 type="stream" channelId="-1", ESPN EXTRA HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/274
+#EXTINF:0 type="stream" channelId="1263", ESPN HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2053
+#EXTINF:0 type="stream" channelId="2898", SPORTV 2 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/302
+#EXTINF:0 type="stream" channelId="-1", SPORTV 3 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/303
+#EXTINF:0 type="stream" channelId="2897", SPORTV HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/301
+#EXTINF:0 type="stream" channelId="179", FOX SPORTS 2 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/31
+#EXTINF:0 type="stream" channelId="-1", TNT SPORTS HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/109419
+#EXTINF:0 type="stream" channelId="2575", BAND SPORTS HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/321
+#EXTINF:0 type="stream" channelId="-1", PREMIERE CLUBES HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/289
+#EXTINF:0 type="stream" channelId="-1", PREMIERE 2 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/291
+#EXTINF:0 type="stream" channelId="-1", PREMIERE 4 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/290
+#EXTINF:0 type="stream" channelId="-1", PREMIERE 3 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/292
+#EXTINF:0 type="stream" channelId="-1", PREMIERE 6 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/294
+#EXTINF:0 type="stream" channelId="-1", PREMIERE 7 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2101
+#EXTINF:0 type="stream" channelId="-1", PREMIERE 5 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/293
+#EXTINF:0 type="stream" channelId="2572", ARTE 1 HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/333
+#EXTINF:0 type="stream" channelId="2577", CURTA SD
+http://conexaoonline.top:80/436203/key5f0e5x0L/200
+#EXTINF:0 type="stream" channelId="2576", CANAL BRASIL HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/336
+#EXTINF:0 type="stream" channelId="2563", BAND HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/264
+#EXTINF:0 type="stream" channelId="-1", CULTURA HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/234955
+#EXTINF:0 type="stream" channelId="2454", FUTURA HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2042
+#EXTINF:0 type="stream" channelId="-1", TV CULTURA HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/312
+#EXTINF:0 type="stream" channelId="1188", E! SD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2049
+#EXTINF:0 type="stream" channelId="1720", FOOD NETWORK HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/363
+#EXTINF:0 type="stream" channelId="-1", HGTV HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/235006
+#EXTINF:0 type="stream" channelId="-1", ID HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/369
+#EXTINF:0 type="stream" channelId="-1", MODO VIAGEM HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/235226
+#EXTINF:0 type="stream" channelId="-1", PRIME BOX BRAZIL HD²
+http://conexaoonline.top:80/436203/key5f0e5x0L/235081
+#EXTINF:0 type="stream" channelId="2448", TV APARECIDA SD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2140
+#EXTINF:0 type="stream" channelId="2451", REDE VIDA HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/2120
+#EXTINF:0 type="stream" channelId="-1", SHOP TIME HD
+http://conexaoonline.top:80/436203/key5f0e5x0L/331
+#EXTINF:0 type="stream" channelId="-1", STADIO TNT FHD 3
+http://conexaoonline.top:80/436203/key5f0e5x0L/109402
+#EXTINF:0 type="stream" channelId="-1", PARAMOUNT 02
+http://conexaoonline.top:80/436203/key5f0e5x0L/30173
+#EXTINF:0 type="stream" channelId="-1", PARAMOUNT 01
+http://conexaoonline.top:80/436203/key5f0e5x0L/30177
+#EXTINF:0 type="stream" channelId="-1", PARAMOUNT 03
+http://conexaoonline.top:80/436203/key5f0e5x0L/25548
+#EXTINF:0 type="stream" channelId="-1", STADIO TNT FHD 4
+http://conexaoonline.top:80/436203/key5f0e5x0L/109403
+#EXTINF:0 type="stream" channelId="-1", STAR+
+http://conexaoonline.top:80/436203/key5f0e5x0L/184558
+#EXTINF:0 type="stream" channelId="-1", STAR+ 1
+http://conexaoonline.top:80/436203/key5f0e5x0L/205475
+#EXTINF:0 type="stream" channelId="-1", STAR+ 2
+http://conexaoonline.top:80/436203/key5f0e5x0L/205472
+#EXTINF:0 type="stream" channelId="-1", STAR+ 3
+http://conexaoonline.top:80/436203/key5f0e5x0L/205473
+#EXTINF:0 type="stream" channelId="-1", STAR+ 4
+http://conexaoonline.top:80/436203/key5f0e5x0L/205474
